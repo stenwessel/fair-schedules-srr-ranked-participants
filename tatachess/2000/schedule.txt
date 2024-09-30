@@ -1,0 +1,116 @@
+Ronde 1
+Korchnoi, Viktor	-	Kasparov, Garry	0-1
+Kramnik, Vladimir	-	Adams, Michael	1-0
+Leko, Peter	-	Morozevich, Alexander	½-½
+Lputian, Smbat G	-	Piket, Jeroen	0-1
+Nikolic, Predrag	-	Short, Nigel	½-½
+Polgar, Judit	-	Van Wely, Loek	½-½
+Timman, Jan H	-	Anand, Viswanathan	½-½
+
+Ronde 2
+Adams, Michael	-	Polgar, Judit	½-½
+Anand, Viswanathan	-	Nikolic, Predrag	1-0
+Lputian, Smbat G	-	Timman, Jan H	0-1
+Morozevich, Alexander	-	Kramnik, Vladimir	½-½
+Piket, Jeroen	-	Kasparov, Garry	½-½
+Short, Nigel	-	Leko, Peter	½-½
+Van Wely, Loek	-	Korchnoi, Viktor	0-1
+
+Ronde 3
+Kasparov, Garry	-	Van Wely, Loek	1-0
+Korchnoi, Viktor	-	Adams, Michael	½-½
+Kramnik, Vladimir	-	Short, Nigel	1-0
+Leko, Peter	-	Anand, Viswanathan	½-½
+Nikolic, Predrag	-	Lputian, Smbat G	½-½
+Polgar, Judit	-	Morozevich, Alexander	0-1
+Timman, Jan H	-	Piket, Jeroen	0-1
+
+Ronde 4
+Adams, Michael	-	Kasparov, Garry	½-½
+Anand, Viswanathan	-	Kramnik, Vladimir	½-½
+Lputian, Smbat G	-	Leko, Peter	0-1
+Morozevich, Alexander	-	Korchnoi, Viktor	½-½
+Piket, Jeroen	-	Van Wely, Loek	½-½
+Short, Nigel	-	Polgar, Judit	1-0
+Timman, Jan H	-	Nikolic, Predrag	½-½
+
+Ronde 5
+Kasparov, Garry	-	Morozevich, Alexander	1-0
+Korchnoi, Viktor	-	Short, Nigel	½-½
+Kramnik, Vladimir	-	Lputian, Smbat G	1-0
+Leko, Peter	-	Timman, Jan H	½-½
+Nikolic, Predrag	-	Piket, Jeroen	1-0
+Polgar, Judit	-	Anand, Viswanathan	½-½
+Van Wely, Loek	-	Adams, Michael	0-1
+
+Ronde 6
+Anand, Viswanathan	-	Korchnoi, Viktor	1-0
+Lputian, Smbat G	-	Polgar, Judit	1-0
+Morozevich, Alexander	-	Van Wely, Loek	1-0
+Nikolic, Predrag	-	Leko, Peter	0-1
+Piket, Jeroen	-	Adams, Michael	½-½
+Short, Nigel	-	Kasparov, Garry	½-½
+Timman, Jan H	-	Kramnik, Vladimir	½-½
+
+Ronde 7
+Adams, Michael	-	Morozevich, Alexander	½-½
+Kasparov, Garry	-	Anand, Viswanathan	½-½
+Korchnoi, Viktor	-	Lputian, Smbat G	0-1
+Kramnik, Vladimir	-	Nikolic, Predrag	½-½
+Leko, Peter	-	Piket, Jeroen	½-½
+Polgar, Judit	-	Timman, Jan H	½-½
+Van Wely, Loek	-	Short, Nigel	½-½
+
+Ronde 8
+Anand, Viswanathan	-	Van Wely, Loek	½-½
+Leko, Peter	-	Kramnik, Vladimir	½-½
+Lputian, Smbat G	-	Kasparov, Garry	½-½
+Nikolic, Predrag	-	Polgar, Judit	½-½
+Piket, Jeroen	-	Morozevich, Alexander	½-½
+Short, Nigel	-	Adams, Michael	0-1
+Timman, Jan H	-	Korchnoi, Viktor	½-½
+
+Ronde 9
+Adams, Michael	-	Anand, Viswanathan	½-½
+Kasparov, Garry	-	Timman, Jan H	1-0
+Korchnoi, Viktor	-	Nikolic, Predrag	0-1
+Kramnik, Vladimir	-	Piket, Jeroen	½-½
+Morozevich, Alexander	-	Short, Nigel	½-½
+Polgar, Judit	-	Leko, Peter	½-½
+Van Wely, Loek	-	Lputian, Smbat G	½-½
+
+Ronde 10
+Anand, Viswanathan	-	Morozevich, Alexander	½-½
+Kramnik, Vladimir	-	Polgar, Judit	½-½
+Leko, Peter	-	Korchnoi, Viktor	1-0
+Lputian, Smbat G	-	Adams, Michael	½-½
+Nikolic, Predrag	-	Kasparov, Garry	0-1
+Piket, Jeroen	-	Short, Nigel	1-0
+Timman, Jan H	-	Van Wely, Loek	1-0
+
+Ronde 11
+Adams, Michael	-	Timman, Jan H	1-0
+Kasparov, Garry	-	Leko, Peter	½-½
+Korchnoi, Viktor	-	Kramnik, Vladimir	½-½
+Morozevich, Alexander	-	Lputian, Smbat G	1-0
+Polgar, Judit	-	Piket, Jeroen	1-0
+Short, Nigel	-	Anand, Viswanathan	½-½
+Van Wely, Loek	-	Nikolic, Predrag	½-½
+
+Ronde 12
+Kramnik, Vladimir	-	Kasparov, Garry	½-½
+Leko, Peter	-	Van Wely, Loek	½-½
+Lputian, Smbat G	-	Short, Nigel	½-½
+Nikolic, Predrag	-	Adams, Michael	1-0
+Piket, Jeroen	-	Anand, Viswanathan	½-½
+Polgar, Judit	-	Korchnoi, Viktor	½-½
+Timman, Jan H	-	Morozevich, Alexander	1-0
+
+Ronde 13
+Adams, Michael	-	Leko, Peter	½-½
+Anand, Viswanathan	-	Lputian, Smbat G	1-0
+Kasparov, Garry	-	Polgar, Judit	1-0
+Korchnoi, Viktor	-	Piket, Jeroen	1-0
+Morozevich, Alexander	-	Nikolic, Predrag	1-0
+Short, Nigel	-	Timman, Jan H	½-½
+Van Wely, Loek	-	Kramnik, Vladimir	½-½

@@ -1,0 +1,116 @@
+Ronde 1
+Nunn, John	-	Seirawan, Yasser	0-1
+Salov, Valery	-	Huebner, Robert Dr.	½-½
+Epishin, Vladimir	-	Van Der Wiel, John	1-0
+Gelfand, Boris	-	Romero Holmes, Alfonso	1-0
+Brenninkmeijer, Joris	-	Van Wely, Loek	½-½
+Piket, Jeroen	-	Nikolic, Predrag	½-½
+Korchnoi, Viktor	-	Sax, Gyula	½-½
+
+Ronde 2
+Romero Holmes, Alfonso	-	Korchnoi, Viktor	½-½
+Salov, Valery	-	Brenninkmeijer, Joris	1-0
+Seirawan, Yasser	-	Epishin, Vladimir	½-½
+Van Wely, Loek	-	Nunn, John	1-0
+Nikolic, Predrag	-	Gelfand, Boris	½-½
+Huebner, Robert Dr.	-	Sax, Gyula	½-½
+Van Der Wiel, John	-	Piket, Jeroen	½-½
+
+Ronde 3
+Nunn, John	-	Salov, Valery	½-½
+Sax, Gyula	-	Romero Holmes, Alfonso	½-½
+Brenninkmeijer, Joris	-	Huebner, Robert Dr.	½-½
+Gelfand, Boris	-	Van Der Wiel, John	½-½
+Epishin, Vladimir	-	Van Wely, Loek	0-1
+Korchnoi, Viktor	-	Nikolic, Predrag	½-½
+Piket, Jeroen	-	Seirawan, Yasser	½-½
+
+Ronde 4
+Huebner, Robert Dr.	-	Romero Holmes, Alfonso	1-0
+Van Der Wiel, John	-	Korchnoi, Viktor	½-½
+Van Wely, Loek	-	Piket, Jeroen	1-0
+Brenninkmeijer, Joris	-	Nunn, John	1-0
+Seirawan, Yasser	-	Gelfand, Boris	½-½
+Nikolic, Predrag	-	Sax, Gyula	½-½
+Salov, Valery	-	Epishin, Vladimir	1-0
+
+Ronde 5
+Romero Holmes, Alfonso	-	Nikolic, Predrag	½-½
+Nunn, John	-	Huebner, Robert Dr.	½-½
+Sax, Gyula	-	Van Der Wiel, John	½-½
+Epishin, Vladimir	-	Brenninkmeijer, Joris	1-0
+Korchnoi, Viktor	-	Seirawan, Yasser	½-½
+Piket, Jeroen	-	Salov, Valery	½-½
+Gelfand, Boris	-	Van Wely, Loek	½-½
+
+Ronde 6
+Salov, Valery	-	Gelfand, Boris	½-½
+Nunn, John	-	Epishin, Vladimir	½-½
+Van Der Wiel, John	-	Romero Holmes, Alfonso	1-0
+Huebner, Robert Dr.	-	Nikolic, Predrag	½-½
+Seirawan, Yasser	-	Sax, Gyula	½-½
+Van Wely, Loek	-	Korchnoi, Viktor	0-1
+Brenninkmeijer, Joris	-	Piket, Jeroen	0-1
+
+Ronde 7
+Sax, Gyula	-	Van Wely, Loek	½-½
+Romero Holmes, Alfonso	-	Seirawan, Yasser	½-½
+Gelfand, Boris	-	Brenninkmeijer, Joris	1-0
+Nikolic, Predrag	-	Van Der Wiel, John	½-½
+Epishin, Vladimir	-	Huebner, Robert Dr.	½-½
+Piket, Jeroen	-	Nunn, John	1-0
+Korchnoi, Viktor	-	Salov, Valery	½-½
+
+Ronde 8
+Nunn, John	-	Gelfand, Boris	½-½
+Van Wely, Loek	-	Romero Holmes, Alfonso	½-½
+Huebner, Robert Dr.	-	Van Der Wiel, John	½-½
+Salov, Valery	-	Sax, Gyula	½-½
+Brenninkmeijer, Joris	-	Korchnoi, Viktor	½-½
+Epishin, Vladimir	-	Piket, Jeroen	1-0
+Seirawan, Yasser	-	Nikolic, Predrag	½-½
+
+Ronde 9
+Romero Holmes, Alfonso	-	Salov, Valery	0-1
+Sax, Gyula	-	Brenninkmeijer, Joris	½-½
+Van Der Wiel, John	-	Seirawan, Yasser	½-½
+Piket, Jeroen	-	Huebner, Robert Dr.	½-½
+Korchnoi, Viktor	-	Nunn, John	½-½
+Nikolic, Predrag	-	Van Wely, Loek	½-½
+Gelfand, Boris	-	Epishin, Vladimir	1-0
+
+Ronde 10
+Nunn, John	-	Sax, Gyula	½-½
+Brenninkmeijer, Joris	-	Romero Holmes, Alfonso	½-½
+Salov, Valery	-	Nikolic, Predrag	½-½
+Huebner, Robert Dr.	-	Seirawan, Yasser	½-½
+Epishin, Vladimir	-	Korchnoi, Viktor	0-1
+Van Wely, Loek	-	Van Der Wiel, John	0-1
+Piket, Jeroen	-	Gelfand, Boris	½-½
+
+Ronde 11
+Van Der Wiel, John	-	Salov, Valery	½-½
+Romero Holmes, Alfonso	-	Nunn, John	½-½
+Sax, Gyula	-	Epishin, Vladimir	½-½
+Gelfand, Boris	-	Huebner, Robert Dr.	½-½
+Nikolic, Predrag	-	Brenninkmeijer, Joris	1-0
+Korchnoi, Viktor	-	Piket, Jeroen	½-½
+Seirawan, Yasser	-	Van Wely, Loek	1-0
+
+Ronde 12
+Huebner, Robert Dr.	-	Van Wely, Loek	1-0
+Nunn, John	-	Nikolic, Predrag	1-0
+Brenninkmeijer, Joris	-	Van Der Wiel, John	1-0
+Epishin, Vladimir	-	Romero Holmes, Alfonso	1-0
+Salov, Valery	-	Seirawan, Yasser	1-0
+Gelfand, Boris	-	Korchnoi, Viktor	½-½
+Piket, Jeroen	-	Sax, Gyula	½-½
+
+Ronde 13
+Romero Holmes, Alfonso	-	Piket, Jeroen	½-½
+Van Der Wiel, John	-	Nunn, John	0-1
+Sax, Gyula	-	Gelfand, Boris	0-1
+Korchnoi, Viktor	-	Huebner, Robert Dr.	½-½
+Van Wely, Loek	-	Salov, Valery	½-½
+Nikolic, Predrag	-	Epishin, Vladimir	½-½
+Seirawan, Yasser	-	Brenninkmeijer, Joris	0-1

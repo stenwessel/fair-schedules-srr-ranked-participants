@@ -1,0 +1,87 @@
+Ronde 1
+Gaprindashvili, Nona	-	Nikolac, Juraj	1-0
+Timman, Jan H	-	Ree, Hans	½-½
+Huebner, Robert Dr.	-	Miles, Anthony	½-½
+Sosonko, Gennadi	-	Andersson, Ulf	½-½
+Hort, Vlastimil	-	Polugaevsky, Lev	½-½
+Garcia Gonzales, Guillermo	-	Dzindzichashvili, Roman	0-1
+
+Ronde 2
+Timman, Jan H	-	Huebner, Robert Dr.	½-½
+Ree, Hans	-	Nikolac, Juraj	0-1
+Miles, Anthony	-	Sosonko, Gennadi	½-½
+Dzindzichashvili, Roman	-	Hort, Vlastimil	½-½
+Andersson, Ulf	-	Garcia Gonzales, Guillermo	½-½
+Polugaevsky, Lev	-	Gaprindashvili, Nona	1-0
+
+Ronde 3
+Gaprindashvili, Nona	-	Dzindzichashvili, Roman	1-0
+Hort, Vlastimil	-	Andersson, Ulf	½-½
+Sosonko, Gennadi	-	Timman, Jan H	½-½
+Garcia Gonzales, Guillermo	-	Miles, Anthony	½-½
+Nikolac, Juraj	-	Polugaevsky, Lev	0-1
+Huebner, Robert Dr.	-	Ree, Hans	½-½
+
+Ronde 4
+Dzindzichashvili, Roman	-	Nikolac, Juraj	½-½
+Timman, Jan H	-	Garcia Gonzales, Guillermo	½-½
+Huebner, Robert Dr.	-	Sosonko, Gennadi	½-½
+Ree, Hans	-	Polugaevsky, Lev	½-½
+Andersson, Ulf	-	Gaprindashvili, Nona	1-0
+Miles, Anthony	-	Hort, Vlastimil	½-½
+
+Ronde 5
+Hort, Vlastimil	-	Timman, Jan H	½-½
+Gaprindashvili, Nona	-	Miles, Anthony	½-½
+Sosonko, Gennadi	-	Ree, Hans	1-0
+Polugaevsky, Lev	-	Dzindzichashvili, Roman	½-½
+Garcia Gonzales, Guillermo	-	Huebner, Robert Dr.	½-½
+Nikolac, Juraj	-	Andersson, Ulf	0-1
+
+Ronde 6
+Huebner, Robert Dr.	-	Hort, Vlastimil	1-0
+Miles, Anthony	-	Nikolac, Juraj	1-0
+Sosonko, Gennadi	-	Garcia Gonzales, Guillermo	½-½
+Timman, Jan H	-	Gaprindashvili, Nona	1-0
+Ree, Hans	-	Dzindzichashvili, Roman	1-0
+Andersson, Ulf	-	Polugaevsky, Lev	½-½
+
+Ronde 7
+Gaprindashvili, Nona	-	Huebner, Robert Dr.	0-1
+Garcia Gonzales, Guillermo	-	Ree, Hans	½-½
+Hort, Vlastimil	-	Sosonko, Gennadi	½-½
+Polugaevsky, Lev	-	Miles, Anthony	½-½
+Dzindzichashvili, Roman	-	Andersson, Ulf	½-½
+Nikolac, Juraj	-	Timman, Jan H	0-1
+
+Ronde 8
+Timman, Jan H	-	Polugaevsky, Lev	0-1
+Ree, Hans	-	Andersson, Ulf	½-½
+Miles, Anthony	-	Dzindzichashvili, Roman	½-½
+Garcia Gonzales, Guillermo	-	Hort, Vlastimil	½-½
+Huebner, Robert Dr.	-	Nikolac, Juraj	½-½
+Sosonko, Gennadi	-	Gaprindashvili, Nona	1-0
+
+Ronde 9
+Gaprindashvili, Nona	-	Garcia Gonzales, Guillermo	½-½
+Hort, Vlastimil	-	Ree, Hans	½-½
+Polugaevsky, Lev	-	Huebner, Robert Dr.	½-½
+Andersson, Ulf	-	Miles, Anthony	½-½
+Dzindzichashvili, Roman	-	Timman, Jan H	0-1
+Nikolac, Juraj	-	Sosonko, Gennadi	½-½
+
+Ronde 10
+Garcia Gonzales, Guillermo	-	Nikolac, Juraj	0-1
+Sosonko, Gennadi	-	Polugaevsky, Lev	½-½
+Huebner, Robert Dr.	-	Dzindzichashvili, Roman	0-1
+Hort, Vlastimil	-	Gaprindashvili, Nona	1-0
+Timman, Jan H	-	Andersson, Ulf	½-½
+Ree, Hans	-	Miles, Anthony	½-½
+
+Ronde 11
+Dzindzichashvili, Roman	-	Sosonko, Gennadi	½-½
+Gaprindashvili, Nona	-	Ree, Hans	½-½
+Nikolac, Juraj	-	Hort, Vlastimil	0-1
+Miles, Anthony	-	Timman, Jan H	1-0
+Polugaevsky, Lev	-	Garcia Gonzales, Guillermo	1-0
+Andersson, Ulf	-	Huebner, Robert Dr.	½-½

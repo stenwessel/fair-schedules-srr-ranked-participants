@@ -1,0 +1,149 @@
+Ronde 1
+Adorjan, Andras	-	Langeweg, Kick	1-0
+Ljubojevic, Ljubomir	-	Donner, Johannes	½-½
+Browne, Walter S.	-	Benko, Pal C	0-1
+Savon, Vladimir	-	Ivkov, Borislav	½-½
+Smejkal, Jan	-	Ree, Hans	½-½
+Portisch, Lajos	-	Timman, Jan H	½-½
+Pomar Salamanca, Arturo	-	Hartoch, Robert G.	1-0
+Hort, Vlastimil	-	Smyslov, Vassily	½-½
+
+Ronde 2
+Ivkov, Borislav	-	Browne, Walter S.	½-½
+Donner, Johannes	-	Ree, Hans	½-½
+Timman, Jan H	-	Pomar Salamanca, Arturo	0-1
+Benko, Pal C	-	Hort, Vlastimil	½-½
+Ljubojevic, Ljubomir	-	Savon, Vladimir	½-½
+Smyslov, Vassily	-	Adorjan, Andras	½-½
+Hartoch, Robert G.	-	Smejkal, Jan	½-½
+Langeweg, Kick	-	Portisch, Lajos	0-1
+
+Ronde 3
+Savon, Vladimir	-	Donner, Johannes	½-½
+Browne, Walter S.	-	Ljubojevic, Ljubomir	1-0
+Adorjan, Andras	-	Benko, Pal C	½-½
+Hort, Vlastimil	-	Ivkov, Borislav	0-1
+Pomar Salamanca, Arturo	-	Langeweg, Kick	1-0
+Smejkal, Jan	-	Timman, Jan H	0-1
+Ree, Hans	-	Hartoch, Robert G.	½-½
+Portisch, Lajos	-	Smyslov, Vassily	1-0
+
+Ronde 4
+Ivkov, Borislav	-	Adorjan, Andras	½-½
+Ljubojevic, Ljubomir	-	Hort, Vlastimil	½-½
+Timman, Jan H	-	Ree, Hans	1-0
+Smyslov, Vassily	-	Pomar Salamanca, Arturo	½-½
+Benko, Pal C	-	Portisch, Lajos	½-½
+Savon, Vladimir	-	Browne, Walter S.	0-1
+Langeweg, Kick	-	Smejkal, Jan	½-½
+Donner, Johannes	-	Hartoch, Robert G.	1-0
+
+Ronde 5
+Adorjan, Andras	-	Ljubojevic, Ljubomir	½-½
+Hartoch, Robert G.	-	Timman, Jan H	½-½
+Browne, Walter S.	-	Donner, Johannes	1-0
+Smejkal, Jan	-	Smyslov, Vassily	1-0
+Portisch, Lajos	-	Ivkov, Borislav	1-0
+Hort, Vlastimil	-	Savon, Vladimir	½-½
+Pomar Salamanca, Arturo	-	Benko, Pal C	½-½
+Ree, Hans	-	Langeweg, Kick	1-0
+
+Ronde 6
+Ljubojevic, Ljubomir	-	Portisch, Lajos	0-1
+Browne, Walter S.	-	Hort, Vlastimil	½-½
+Ivkov, Borislav	-	Pomar Salamanca, Arturo	1-0
+Donner, Johannes	-	Timman, Jan H	1-0
+Smyslov, Vassily	-	Ree, Hans	½-½
+Langeweg, Kick	-	Hartoch, Robert G.	½-½
+Savon, Vladimir	-	Adorjan, Andras	1-0
+Benko, Pal C	-	Smejkal, Jan	½-½
+
+Ronde 7
+Adorjan, Andras	-	Browne, Walter S.	0-1
+Hort, Vlastimil	-	Donner, Johannes	1-0
+Pomar Salamanca, Arturo	-	Ljubojevic, Ljubomir	1-0
+Timman, Jan H	-	Langeweg, Kick	½-½
+Ree, Hans	-	Benko, Pal C	½-½
+Smejkal, Jan	-	Ivkov, Borislav	½-½
+Hartoch, Robert G.	-	Smyslov, Vassily	½-½
+Portisch, Lajos	-	Savon, Vladimir	½-½
+
+Ronde 8
+Smyslov, Vassily	-	Timman, Jan H	1-0
+Savon, Vladimir	-	Pomar Salamanca, Arturo	1-0
+Browne, Walter S.	-	Portisch, Lajos	0-1
+Ljubojevic, Ljubomir	-	Smejkal, Jan	1-0
+Donner, Johannes	-	Langeweg, Kick	½-½
+Hort, Vlastimil	-	Adorjan, Andras	½-½
+Ivkov, Borislav	-	Ree, Hans	½-½
+Benko, Pal C	-	Hartoch, Robert G.	0-1
+
+Ronde 9
+Adorjan, Andras	-	Donner, Johannes	½-½
+Ree, Hans	-	Ljubojevic, Ljubomir	½-½
+Timman, Jan H	-	Benko, Pal C	½-½
+Portisch, Lajos	-	Hort, Vlastimil	½-½
+Langeweg, Kick	-	Smyslov, Vassily	½-½
+Hartoch, Robert G.	-	Ivkov, Borislav	½-½
+Smejkal, Jan	-	Savon, Vladimir	1-0
+Pomar Salamanca, Arturo	-	Browne, Walter S.	½-½
+
+Ronde 10
+Ljubojevic, Ljubomir	-	Hartoch, Robert G.	1-0
+Adorjan, Andras	-	Portisch, Lajos	0-1
+Hort, Vlastimil	-	Pomar Salamanca, Arturo	1-0
+Browne, Walter S.	-	Smejkal, Jan	0-1
+Savon, Vladimir	-	Ree, Hans	½-½
+Ivkov, Borislav	-	Timman, Jan H	½-½
+Donner, Johannes	-	Smyslov, Vassily	0-1
+Benko, Pal C	-	Langeweg, Kick	½-½
+
+Ronde 11
+Ree, Hans	-	Browne, Walter S.	½-½
+Timman, Jan H	-	Ljubojevic, Ljubomir	1-0
+Smejkal, Jan	-	Hort, Vlastimil	½-½
+Langeweg, Kick	-	Ivkov, Borislav	1-0
+Portisch, Lajos	-	Donner, Johannes	½-½
+Pomar Salamanca, Arturo	-	Adorjan, Andras	1-0
+Smyslov, Vassily	-	Benko, Pal C	½-½
+Hartoch, Robert G.	-	Savon, Vladimir	½-½
+
+Ronde 12
+Ljubojevic, Ljubomir	-	Langeweg, Kick	½-½
+Browne, Walter S.	-	Hartoch, Robert G.	0-1
+Savon, Vladimir	-	Timman, Jan H	1-0
+Adorjan, Andras	-	Smejkal, Jan	½-½
+Ivkov, Borislav	-	Smyslov, Vassily	½-½
+Donner, Johannes	-	Benko, Pal C	½-½
+Portisch, Lajos	-	Pomar Salamanca, Arturo	½-½
+Hort, Vlastimil	-	Ree, Hans	1-0
+
+Ronde 13
+Ree, Hans	-	Adorjan, Andras	½-½
+Smyslov, Vassily	-	Ljubojevic, Ljubomir	1-0
+Smejkal, Jan	-	Portisch, Lajos	½-½
+Benko, Pal C	-	Ivkov, Borislav	½-½
+Langeweg, Kick	-	Savon, Vladimir	½-½
+Pomar Salamanca, Arturo	-	Donner, Johannes	½-½
+Hartoch, Robert G.	-	Hort, Vlastimil	½-½
+Timman, Jan H	-	Browne, Walter S.	0-1
+
+Ronde 14
+Ljubojevic, Ljubomir	-	Benko, Pal C	½-½
+Browne, Walter S.	-	Langeweg, Kick	1-0
+Donner, Johannes	-	Ivkov, Borislav	½-½
+Adorjan, Andras	-	Hartoch, Robert G.	½-½
+Hort, Vlastimil	-	Timman, Jan H	1-0
+Portisch, Lajos	-	Ree, Hans	½-½
+Savon, Vladimir	-	Smyslov, Vassily	½-½
+Pomar Salamanca, Arturo	-	Smejkal, Jan	1-0
+
+Ronde 15
+Ree, Hans	-	Pomar Salamanca, Arturo	½-½
+Benko, Pal C	-	Savon, Vladimir	½-½
+Langeweg, Kick	-	Hort, Vlastimil	½-½
+Ivkov, Borislav	-	Ljubojevic, Ljubomir	½-½
+Smejkal, Jan	-	Donner, Johannes	½-½
+Hartoch, Robert G.	-	Portisch, Lajos	½-½
+Timman, Jan H	-	Adorjan, Andras	½-½
+Smyslov, Vassily	-	Browne, Walter S.	½-½

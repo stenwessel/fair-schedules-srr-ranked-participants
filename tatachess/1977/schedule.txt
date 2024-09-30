@@ -1,0 +1,87 @@
+Ronde 1
+Sigurjonsson, Gudmundur	-	Olafsson, Fridrik	½-½
+Geller, Efim	-	Timman, Jan H	½-½
+Barczay, Laszlo	-	Bohm, Hans	0-1
+Kavalek, Lubomir	-	Kurajica, Bojan	0-1
+Miles, Anthony	-	Ligterink, Gert	½-½
+Sosonko, Gennadi	-	Nikolac, Juraj	1-0
+
+Ronde 2
+Ligterink, Gert	-	Geller, Efim	0-1
+Barczay, Laszlo	-	Miles, Anthony	½-½
+Kurajica, Bojan	-	Sigurjonsson, Gudmundur	½-½
+Timman, Jan H	-	Sosonko, Gennadi	½-½
+Nikolac, Juraj	-	Kavalek, Lubomir	0-1
+Bohm, Hans	-	Olafsson, Fridrik	½-½
+
+Ronde 3
+Geller, Efim	-	Barczay, Laszlo	1-0
+Sigurjonsson, Gudmundur	-	Nikolac, Juraj	0-1
+Olafsson, Fridrik	-	Kurajica, Bojan	½-½
+Kavalek, Lubomir	-	Timman, Jan H	½-½
+Sosonko, Gennadi	-	Ligterink, Gert	1-0
+Miles, Anthony	-	Bohm, Hans	½-½
+
+Ronde 4
+Barczay, Laszlo	-	Sosonko, Gennadi	0-1
+Ligterink, Gert	-	Kavalek, Lubomir	½-½
+Bohm, Hans	-	Kurajica, Bojan	½-½
+Timman, Jan H	-	Sigurjonsson, Gudmundur	½-½
+Nikolac, Juraj	-	Olafsson, Fridrik	½-½
+Miles, Anthony	-	Geller, Efim	1-0
+
+Ronde 5
+Sigurjonsson, Gudmundur	-	Ligterink, Gert	½-½
+Kavalek, Lubomir	-	Barczay, Laszlo	½-½
+Geller, Efim	-	Bohm, Hans	½-½
+Kurajica, Bojan	-	Nikolac, Juraj	1-0
+Olafsson, Fridrik	-	Timman, Jan H	1-0
+Sosonko, Gennadi	-	Miles, Anthony	½-½
+
+Ronde 6
+Ligterink, Gert	-	Olafsson, Fridrik	½-½
+Barczay, Laszlo	-	Sigurjonsson, Gudmundur	½-½
+Timman, Jan H	-	Kurajica, Bojan	½-½
+Miles, Anthony	-	Kavalek, Lubomir	½-½
+Bohm, Hans	-	Nikolac, Juraj	0-1
+Geller, Efim	-	Sosonko, Gennadi	½-½
+
+Ronde 7
+Sigurjonsson, Gudmundur	-	Miles, Anthony	0-1
+Kurajica, Bojan	-	Ligterink, Gert	1-0
+Sosonko, Gennadi	-	Bohm, Hans	½-½
+Kavalek, Lubomir	-	Geller, Efim	0-1
+Olafsson, Fridrik	-	Barczay, Laszlo	1-0
+Nikolac, Juraj	-	Timman, Jan H	0-1
+
+Ronde 8
+Geller, Efim	-	Sigurjonsson, Gudmundur	1-0
+Bohm, Hans	-	Timman, Jan H	0-1
+Ligterink, Gert	-	Nikolac, Juraj	½-½
+Barczay, Laszlo	-	Kurajica, Bojan	½-½
+Sosonko, Gennadi	-	Kavalek, Lubomir	1-0
+Miles, Anthony	-	Olafsson, Fridrik	½-½
+
+Ronde 9
+Sigurjonsson, Gudmundur	-	Sosonko, Gennadi	½-½
+Kurajica, Bojan	-	Miles, Anthony	1-0
+Kavalek, Lubomir	-	Bohm, Hans	1-0
+Olafsson, Fridrik	-	Geller, Efim	½-½
+Timman, Jan H	-	Ligterink, Gert	1-0
+Nikolac, Juraj	-	Barczay, Laszlo	1-0
+
+Ronde 10
+Kavalek, Lubomir	-	Sigurjonsson, Gudmundur	½-½
+Geller, Efim	-	Kurajica, Bojan	1-0
+Bohm, Hans	-	Ligterink, Gert	1-0
+Sosonko, Gennadi	-	Olafsson, Fridrik	1-0
+Miles, Anthony	-	Nikolac, Juraj	0-1
+Barczay, Laszlo	-	Timman, Jan H	0-1
+
+Ronde 11
+Ligterink, Gert	-	Barczay, Laszlo	½-½
+Timman, Jan H	-	Miles, Anthony	1-0
+Kurajica, Bojan	-	Sosonko, Gennadi	½-½
+Sigurjonsson, Gudmundur	-	Bohm, Hans	½-½
+Nikolac, Juraj	-	Geller, Efim	0-1
+Olafsson, Fridrik	-	Kavalek, Lubomir	½-½

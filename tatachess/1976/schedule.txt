@@ -1,0 +1,87 @@
+Ronde 1
+Dvoretzky, Mark	-	Ljubojevic, Ljubomir	0-1
+Tal, Mikhail	-	Andersson, Ulf	½-½
+Kurajica, Bojan	-	Bohm, Hans	1-0
+Sosonko, Gennadi	-	Browne, Walter S.	½-½
+Smejkal, Jan	-	Olafsson, Fridrik	½-½
+Langeweg, Kick	-	Ree, Hans	½-½
+
+Ronde 2
+Ree, Hans	-	Sosonko, Gennadi	½-½
+Kurajica, Bojan	-	Langeweg, Kick	½-½
+Browne, Walter S.	-	Smejkal, Jan	1-0
+Olafsson, Fridrik	-	Tal, Mikhail	½-½
+Bohm, Hans	-	Ljubojevic, Ljubomir	0-1
+Andersson, Ulf	-	Dvoretzky, Mark	½-½
+
+Ronde 3
+Ljubojevic, Ljubomir	-	Andersson, Ulf	1-0
+Dvoretzky, Mark	-	Olafsson, Fridrik	½-½
+Langeweg, Kick	-	Bohm, Hans	½-½
+Sosonko, Gennadi	-	Kurajica, Bojan	½-½
+Smejkal, Jan	-	Ree, Hans	1-0
+Tal, Mikhail	-	Browne, Walter S.	½-½
+
+Ronde 4
+Browne, Walter S.	-	Dvoretzky, Mark	½-½
+Kurajica, Bojan	-	Smejkal, Jan	0-1
+Olafsson, Fridrik	-	Ljubojevic, Ljubomir	½-½
+Bohm, Hans	-	Andersson, Ulf	½-½
+Langeweg, Kick	-	Sosonko, Gennadi	½-½
+Ree, Hans	-	Tal, Mikhail	½-½
+
+Ronde 5
+Ljubojevic, Ljubomir	-	Browne, Walter S.	1-0
+Tal, Mikhail	-	Kurajica, Bojan	0-1
+Dvoretzky, Mark	-	Ree, Hans	½-½
+Sosonko, Gennadi	-	Bohm, Hans	1-0
+Andersson, Ulf	-	Olafsson, Fridrik	½-½
+Smejkal, Jan	-	Langeweg, Kick	0-1
+
+Ronde 6
+Langeweg, Kick	-	Tal, Mikhail	0-1
+Kurajica, Bojan	-	Dvoretzky, Mark	1-0
+Sosonko, Gennadi	-	Smejkal, Jan	½-½
+Browne, Walter S.	-	Andersson, Ulf	½-½
+Bohm, Hans	-	Olafsson, Fridrik	½-½
+Ree, Hans	-	Ljubojevic, Ljubomir	½-½
+
+Ronde 7
+Ljubojevic, Ljubomir	-	Kurajica, Bojan	0-1
+Olafsson, Fridrik	-	Browne, Walter S.	1-0
+Smejkal, Jan	-	Bohm, Hans	0-1
+Dvoretzky, Mark	-	Langeweg, Kick	1-0
+Tal, Mikhail	-	Sosonko, Gennadi	1-0
+Andersson, Ulf	-	Ree, Hans	½-½
+
+Ronde 8
+Kurajica, Bojan	-	Andersson, Ulf	0-1
+Ree, Hans	-	Olafsson, Fridrik	0-1
+Smejkal, Jan	-	Tal, Mikhail	½-½
+Sosonko, Gennadi	-	Dvoretzky, Mark	½-½
+Bohm, Hans	-	Browne, Walter S.	0-1
+Langeweg, Kick	-	Ljubojevic, Ljubomir	½-½
+
+Ronde 9
+Ljubojevic, Ljubomir	-	Sosonko, Gennadi	1-0
+Dvoretzky, Mark	-	Smejkal, Jan	0-1
+Tal, Mikhail	-	Bohm, Hans	1-0
+Browne, Walter S.	-	Ree, Hans	0-1
+Olafsson, Fridrik	-	Kurajica, Bojan	½-½
+Andersson, Ulf	-	Langeweg, Kick	0-1
+
+Ronde 10
+Kurajica, Bojan	-	Browne, Walter S.	½-½
+Bohm, Hans	-	Ree, Hans	½-½
+Langeweg, Kick	-	Olafsson, Fridrik	0-1
+Sosonko, Gennadi	-	Andersson, Ulf	½-½
+Tal, Mikhail	-	Dvoretzky, Mark	½-½
+Smejkal, Jan	-	Ljubojevic, Ljubomir	½-½
+
+Ronde 11
+Ljubojevic, Ljubomir	-	Tal, Mikhail	½-½
+Dvoretzky, Mark	-	Bohm, Hans	1-0
+Browne, Walter S.	-	Langeweg, Kick	1-0
+Olafsson, Fridrik	-	Sosonko, Gennadi	1-0
+Andersson, Ulf	-	Smejkal, Jan	½-½
+Ree, Hans	-	Kurajica, Bojan	½-½

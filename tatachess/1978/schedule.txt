@@ -1,0 +1,87 @@
+Ronde 1
+Van der Sterren, Paul	-	Mecking, Henrique	0-1
+Kavalek, Lubomir	-	Ree, Hans	½-½
+Portisch, Lajos	-	Panno, Oscar	1-0
+Andersson, Ulf	-	Timman, Jan H	½-½
+Najdorf, Miguel	-	Miles, Anthony	0-1
+Korchnoi, Viktor	-	Sosonko, Gennadi	½-½
+
+Ronde 2
+Mecking, Henrique	-	Korchnoi, Viktor	0-1
+Sosonko, Gennadi	-	Najdorf, Miguel	½-½
+Panno, Oscar	-	Van der Sterren, Paul	1-0
+Ree, Hans	-	Portisch, Lajos	½-½
+Andersson, Ulf	-	Kavalek, Lubomir	1-0
+Timman, Jan H	-	Miles, Anthony	1-0
+
+Ronde 3
+Van der Sterren, Paul	-	Ree, Hans	0-1
+Kavalek, Lubomir	-	Timman, Jan H	½-½
+Miles, Anthony	-	Sosonko, Gennadi	½-½
+Najdorf, Miguel	-	Mecking, Henrique	½-½
+Korchnoi, Viktor	-	Panno, Oscar	1-0
+Portisch, Lajos	-	Andersson, Ulf	½-½
+
+Ronde 4
+Timman, Jan H	-	Sosonko, Gennadi	½-½
+Kavalek, Lubomir	-	Portisch, Lajos	½-½
+Mecking, Henrique	-	Miles, Anthony	1-0
+Ree, Hans	-	Korchnoi, Viktor	½-½
+Andersson, Ulf	-	Van der Sterren, Paul	1-0
+Panno, Oscar	-	Najdorf, Miguel	½-½
+
+Ronde 5
+Van der Sterren, Paul	-	Kavalek, Lubomir	½-½
+Portisch, Lajos	-	Timman, Jan H	1-0
+Sosonko, Gennadi	-	Mecking, Henrique	½-½
+Najdorf, Miguel	-	Ree, Hans	½-½
+Korchnoi, Viktor	-	Andersson, Ulf	½-½
+Miles, Anthony	-	Panno, Oscar	½-½
+
+Ronde 6
+Timman, Jan H	-	Mecking, Henrique	1-0
+Kavalek, Lubomir	-	Korchnoi, Viktor	0-1
+Portisch, Lajos	-	Van der Sterren, Paul	1-0
+Andersson, Ulf	-	Najdorf, Miguel	0-1
+Ree, Hans	-	Miles, Anthony	½-½
+Panno, Oscar	-	Sosonko, Gennadi	1-0
+
+Ronde 7
+Mecking, Henrique	-	Panno, Oscar	½-½
+Van der Sterren, Paul	-	Timman, Jan H	½-½
+Korchnoi, Viktor	-	Portisch, Lajos	½-½
+Miles, Anthony	-	Andersson, Ulf	½-½
+Sosonko, Gennadi	-	Ree, Hans	½-½
+Najdorf, Miguel	-	Kavalek, Lubomir	½-½
+
+Ronde 8
+Timman, Jan H	-	Panno, Oscar	½-½
+Van der Sterren, Paul	-	Korchnoi, Viktor	1-0
+Kavalek, Lubomir	-	Miles, Anthony	0-1
+Ree, Hans	-	Mecking, Henrique	½-½
+Portisch, Lajos	-	Najdorf, Miguel	1-0
+Andersson, Ulf	-	Sosonko, Gennadi	½-½
+
+Ronde 9
+Mecking, Henrique	-	Andersson, Ulf	0-1
+Panno, Oscar	-	Ree, Hans	½-½
+Korchnoi, Viktor	-	Timman, Jan H	½-½
+Miles, Anthony	-	Portisch, Lajos	½-½
+Najdorf, Miguel	-	Van der Sterren, Paul	1-0
+Sosonko, Gennadi	-	Kavalek, Lubomir	½-½
+
+Ronde 10
+Timman, Jan H	-	Ree, Hans	½-½
+Kavalek, Lubomir	-	Mecking, Henrique	½-½
+Portisch, Lajos	-	Sosonko, Gennadi	1-0
+Andersson, Ulf	-	Panno, Oscar	½-½
+Van der Sterren, Paul	-	Miles, Anthony	½-½
+Korchnoi, Viktor	-	Najdorf, Miguel	1-0
+
+Ronde 11
+Najdorf, Miguel	-	Timman, Jan H	½-½
+Sosonko, Gennadi	-	Van der Sterren, Paul	½-½
+Mecking, Henrique	-	Portisch, Lajos	½-½
+Miles, Anthony	-	Korchnoi, Viktor	0-1
+Panno, Oscar	-	Kavalek, Lubomir	½-½
+Ree, Hans	-	Andersson, Ulf	½-½

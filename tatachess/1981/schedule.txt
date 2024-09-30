@@ -1,0 +1,103 @@
+Ronde 1
+Sax, Gyula	-	Gheorghiu, Florin	0-1
+Sveshnikov, Evgeny	-	Sosonko, Gennadi	½-½
+Miles, Anthony	-	Taimanov, Mark E	½-½
+Browne, Walter S.	-	Langeweg, Kick	1-0
+Andersson, Ulf	-	Torre, Eugenio	½-½
+Unzicker, Wolfgang	-	Ree, Hans	½-½
+
+Ronde 2
+Timman, Jan H	-	Sveshnikov, Evgeny	0-1
+Sosonko, Gennadi	-	Unzicker, Wolfgang	½-½
+Browne, Walter S.	-	Miles, Anthony	½-½
+Taimanov, Mark E	-	Andersson, Ulf	½-½
+Langeweg, Kick	-	Gheorghiu, Florin	½-½
+Ree, Hans	-	Sax, Gyula	½-½
+
+Ronde 3
+Sax, Gyula	-	Sosonko, Gennadi	½-½
+Sveshnikov, Evgeny	-	Torre, Eugenio	½-½
+Gheorghiu, Florin	-	Ree, Hans	½-½
+Unzicker, Wolfgang	-	Timman, Jan H	0-1
+Andersson, Ulf	-	Browne, Walter S.	½-½
+Miles, Anthony	-	Langeweg, Kick	½-½
+
+Ronde 4
+Langeweg, Kick	-	Ree, Hans	½-½
+Torre, Eugenio	-	Unzicker, Wolfgang	0-1
+Miles, Anthony	-	Andersson, Ulf	1-0
+Sosonko, Gennadi	-	Gheorghiu, Florin	1-0
+Timman, Jan H	-	Sax, Gyula	½-½
+Taimanov, Mark E	-	Sveshnikov, Evgeny	½-½
+
+Ronde 5
+Unzicker, Wolfgang	-	Taimanov, Mark E	0-1
+Sveshnikov, Evgeny	-	Browne, Walter S.	1-0
+Sax, Gyula	-	Torre, Eugenio	½-½
+Ree, Hans	-	Sosonko, Gennadi	½-½
+Gheorghiu, Florin	-	Timman, Jan H	½-½
+Andersson, Ulf	-	Langeweg, Kick	1-0
+
+Ronde 6
+Browne, Walter S.	-	Unzicker, Wolfgang	½-½
+Torre, Eugenio	-	Gheorghiu, Florin	0-1
+Langeweg, Kick	-	Sosonko, Gennadi	0-1
+Timman, Jan H	-	Ree, Hans	½-½
+Taimanov, Mark E	-	Sax, Gyula	½-½
+Miles, Anthony	-	Sveshnikov, Evgeny	½-½
+
+Ronde 7
+Sax, Gyula	-	Browne, Walter S.	½-½
+Sveshnikov, Evgeny	-	Andersson, Ulf	½-½
+Unzicker, Wolfgang	-	Miles, Anthony	½-½
+Sosonko, Gennadi	-	Timman, Jan H	1-0
+Ree, Hans	-	Torre, Eugenio	1-0
+Gheorghiu, Florin	-	Taimanov, Mark E	½-½
+
+Ronde 8
+Torre, Eugenio	-	Sosonko, Gennadi	½-½
+Taimanov, Mark E	-	Ree, Hans	1-0
+Andersson, Ulf	-	Unzicker, Wolfgang	1-0
+Browne, Walter S.	-	Gheorghiu, Florin	1-0
+Langeweg, Kick	-	Timman, Jan H	0-1
+Miles, Anthony	-	Sax, Gyula	½-½
+
+Ronde 9
+Gheorghiu, Florin	-	Miles, Anthony	½-½
+Sax, Gyula	-	Andersson, Ulf	½-½
+Timman, Jan H	-	Torre, Eugenio	1-0
+Sosonko, Gennadi	-	Taimanov, Mark E	½-½
+Ree, Hans	-	Browne, Walter S.	0-1
+Sveshnikov, Evgeny	-	Langeweg, Kick	0-1
+
+Ronde 10
+Langeweg, Kick	-	Torre, Eugenio	0-1
+Miles, Anthony	-	Ree, Hans	0-1
+Browne, Walter S.	-	Sosonko, Gennadi	½-½
+Andersson, Ulf	-	Gheorghiu, Florin	½-½
+Sveshnikov, Evgeny	-	Unzicker, Wolfgang	½-½
+Taimanov, Mark E	-	Timman, Jan H	0-1
+
+Ronde 11
+Torre, Eugenio	-	Taimanov, Mark E	½-½
+Ree, Hans	-	Andersson, Ulf	½-½
+Timman, Jan H	-	Browne, Walter S.	½-½
+Sosonko, Gennadi	-	Miles, Anthony	1-0
+Unzicker, Wolfgang	-	Langeweg, Kick	0-1
+Sax, Gyula	-	Sveshnikov, Evgeny	½-½
+
+Ronde 12
+Unzicker, Wolfgang	-	Sax, Gyula	½-½
+Sveshnikov, Evgeny	-	Gheorghiu, Florin	½-½
+Miles, Anthony	-	Timman, Jan H	0-1
+Langeweg, Kick	-	Taimanov, Mark E	½-½
+Andersson, Ulf	-	Sosonko, Gennadi	½-½
+Browne, Walter S.	-	Torre, Eugenio	½-½
+
+Ronde 13
+Sax, Gyula	-	Langeweg, Kick	1-0
+Ree, Hans	-	Sveshnikov, Evgeny	0-1
+Taimanov, Mark E	-	Browne, Walter S.	1-0
+Timman, Jan H	-	Andersson, Ulf	1-0
+Gheorghiu, Florin	-	Unzicker, Wolfgang	½-½
+Torre, Eugenio	-	Miles, Anthony	½-½

@@ -1,0 +1,116 @@
+Ronde 1
+Hort, Vlastimil	-	Nunn, John	½-½
+Hulak, Krunoslav	-	Seirawan, Yasser	½-½
+Ree, Hans	-	Van Der Wiel, John	1-0
+Kuligowski, Adam	-	Andersson, Ulf	0-1
+Kuligowski, Adam	-	Nunn, John	0-1
+Browne, Walter S.	-	Scheeren, Peter	½-½
+Speelman, Jonathan S.	-	Olafsson, Fridrik	0-1
+Ribli, Zoltan	-	Korchnoi, Viktor	1-0
+
+Ronde 2
+Hort, Vlastimil	-	Ribli, Zoltan	0-1
+Nunn, John	-	Scheeren, Peter	½-½
+Seirawan, Yasser	-	Speelman, Jonathan S.	½-½
+Van Der Wiel, John	-	Kuligowski, Adam	1-0
+Korchnoi, Viktor	-	Hulak, Krunoslav	0-1
+Olafsson, Fridrik	-	Ree, Hans	½-½
+Andersson, Ulf	-	Browne, Walter S.	1-0
+
+Ronde 3
+Hulak, Krunoslav	-	Hort, Vlastimil	1-0
+Scheeren, Peter	-	Andersson, Ulf	½-½
+Browne, Walter S.	-	Van Der Wiel, John	1-0
+Kuligowski, Adam	-	Olafsson, Fridrik	½-½
+Ree, Hans	-	Seirawan, Yasser	½-½
+Speelman, Jonathan S.	-	Korchnoi, Viktor	0-1
+Ribli, Zoltan	-	Nunn, John	½-½
+
+Ronde 4
+Nunn, John	-	Andersson, Ulf	½-½
+Van Der Wiel, John	-	Scheeren, Peter	½-½
+Korchnoi, Viktor	-	Ree, Hans	1-0
+Ribli, Zoltan	-	Hulak, Krunoslav	½-½
+Hort, Vlastimil	-	Speelman, Jonathan S.	1-0
+Seirawan, Yasser	-	Kuligowski, Adam	1-0
+Olafsson, Fridrik	-	Browne, Walter S.	½-½
+
+Ronde 5
+Hulak, Krunoslav	-	Nunn, John	½-½
+Browne, Walter S.	-	Seirawan, Yasser	½-½
+Scheeren, Peter	-	Olafsson, Fridrik	0-1
+Ree, Hans	-	Hort, Vlastimil	0-1
+Kuligowski, Adam	-	Korchnoi, Viktor	1-0
+Speelman, Jonathan S.	-	Ribli, Zoltan	½-½
+Andersson, Ulf	-	Van Der Wiel, John	1-0
+
+Ronde 6
+Nunn, John	-	Van Der Wiel, John	1-0
+Olafsson, Fridrik	-	Andersson, Ulf	½-½
+Hulak, Krunoslav	-	Speelman, Jonathan S.	½-½
+Korchnoi, Viktor	-	Browne, Walter S.	½-½
+Ribli, Zoltan	-	Ree, Hans	½-½
+Seirawan, Yasser	-	Scheeren, Peter	1-0
+Hort, Vlastimil	-	Kuligowski, Adam	1-0
+
+Ronde 7
+Van Der Wiel, John	-	Olafsson, Fridrik	1-0
+Scheeren, Peter	-	Korchnoi, Viktor	½-½
+Kuligowski, Adam	-	Ribli, Zoltan	½-½
+Browne, Walter S.	-	Hort, Vlastimil	½-½
+Ree, Hans	-	Hulak, Krunoslav	1-0
+Speelman, Jonathan S.	-	Nunn, John	½-½
+Andersson, Ulf	-	Seirawan, Yasser	½-½
+
+Ronde 8
+Nunn, John	-	Olafsson, Fridrik	1-0
+Hort, Vlastimil	-	Scheeren, Peter	½-½
+Korchnoi, Viktor	-	Andersson, Ulf	0-1
+Speelman, Jonathan S.	-	Ree, Hans	1-0
+Hulak, Krunoslav	-	Kuligowski, Adam	½-½
+Seirawan, Yasser	-	Van Der Wiel, John	0-1
+Ribli, Zoltan	-	Browne, Walter S.	½-½
+
+Ronde 9
+Van Der Wiel, John	-	Korchnoi, Viktor	0-1
+Browne, Walter S.	-	Hulak, Krunoslav	1-0
+Olafsson, Fridrik	-	Seirawan, Yasser	1-0
+Andersson, Ulf	-	Hort, Vlastimil	½-½
+Scheeren, Peter	-	Ribli, Zoltan	½-½
+Kuligowski, Adam	-	Speelman, Jonathan S.	1-0
+Ree, Hans	-	Nunn, John	½-½
+
+Ronde 10
+Nunn, John	-	Seirawan, Yasser	½-½
+Korchnoi, Viktor	-	Olafsson, Fridrik	1-0
+Speelman, Jonathan S.	-	Browne, Walter S.	½-½
+Ree, Hans	-	Kuligowski, Adam	½-½
+Hort, Vlastimil	-	Van Der Wiel, John	½-½
+Hulak, Krunoslav	-	Scheeren, Peter	1-0
+Ribli, Zoltan	-	Andersson, Ulf	½-½
+
+Ronde 11
+Van Der Wiel, John	-	Ribli, Zoltan	0-1
+Scheeren, Peter	-	Speelman, Jonathan S.	1-0
+Olafsson, Fridrik	-	Hort, Vlastimil	0-1
+Browne, Walter S.	-	Ree, Hans	1-0
+Seirawan, Yasser	-	Korchnoi, Viktor	1-0
+Andersson, Ulf	-	Hulak, Krunoslav	1-0
+
+Ronde 12
+Nunn, John	-	Korchnoi, Viktor	0-1
+Hulak, Krunoslav	-	Van Der Wiel, John	½-½
+Ree, Hans	-	Scheeren, Peter	½-½
+Kuligowski, Adam	-	Browne, Walter S.	0-1
+Ribli, Zoltan	-	Olafsson, Fridrik	1-0
+Speelman, Jonathan S.	-	Andersson, Ulf	½-½
+Hort, Vlastimil	-	Seirawan, Yasser	½-½
+
+Ronde 13
+Browne, Walter S.	-	Nunn, John	½-½
+Van Der Wiel, John	-	Speelman, Jonathan S.	½-½
+Korchnoi, Viktor	-	Hort, Vlastimil	0-1
+Scheeren, Peter	-	Kuligowski, Adam	½-½
+Andersson, Ulf	-	Ree, Hans	½-½
+Olafsson, Fridrik	-	Hulak, Krunoslav	½-½
+Seirawan, Yasser	-	Ribli, Zoltan	½-½

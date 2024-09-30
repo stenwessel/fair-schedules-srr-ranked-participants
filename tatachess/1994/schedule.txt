@@ -1,0 +1,62 @@
+Ronde 1
+Tiviakov, Sergei	-	Leko, Peter	1-0
+Van Der Wiel, John	-	Smirin, Ilia	1-0
+Morovic Fernandez, Ivan	-	Hansen, Curt	0-1
+Nikolic, Predrag	-	Piket, Jeroen	1-0
+Van Wely, Loek	-	Sokolov, Ivan	0-1
+
+Ronde 2
+Leko, Peter	-	Van Wely, Loek	½-½
+Morovic Fernandez, Ivan	-	Nikolic, Predrag	0-1
+Piket, Jeroen	-	Tiviakov, Sergei	1-0
+Sokolov, Ivan	-	Van Der Wiel, John	1-0
+Hansen, Curt	-	Smirin, Ilia	½-½
+
+Ronde 3
+Van Der Wiel, John	-	Leko, Peter	½-½
+Smirin, Ilia	-	Sokolov, Ivan	1-0
+Tiviakov, Sergei	-	Morovic Fernandez, Ivan	½-½
+Van Wely, Loek	-	Piket, Jeroen	0-1
+Nikolic, Predrag	-	Hansen, Curt	½-½
+
+Ronde 4
+Morovic Fernandez, Ivan	-	Van Wely, Loek	½-½
+Leko, Peter	-	Smirin, Ilia	½-½
+Piket, Jeroen	-	Van Der Wiel, John	1-0
+Nikolic, Predrag	-	Tiviakov, Sergei	0-1
+Hansen, Curt	-	Sokolov, Ivan	0-1
+
+Ronde 5
+Tiviakov, Sergei	-	Hansen, Curt	½-½
+Van Der Wiel, John	-	Morovic Fernandez, Ivan	½-½
+Smirin, Ilia	-	Piket, Jeroen	½-½
+Van Wely, Loek	-	Nikolic, Predrag	0-1
+Sokolov, Ivan	-	Leko, Peter	0-1
+
+Ronde 6
+Morovic Fernandez, Ivan	-	Smirin, Ilia	½-½
+Tiviakov, Sergei	-	Van Wely, Loek	1-0
+Piket, Jeroen	-	Sokolov, Ivan	½-½
+Hansen, Curt	-	Leko, Peter	½-½
+Nikolic, Predrag	-	Van Der Wiel, John	1-0
+
+Ronde 7
+Van Der Wiel, John	-	Tiviakov, Sergei	½-½
+Leko, Peter	-	Piket, Jeroen	½-½
+Smirin, Ilia	-	Nikolic, Predrag	0-1
+Sokolov, Ivan	-	Morovic Fernandez, Ivan	0-1
+Van Wely, Loek	-	Hansen, Curt	1-0
+
+Ronde 8
+Morovic Fernandez, Ivan	-	Leko, Peter	0-1
+Tiviakov, Sergei	-	Smirin, Ilia	0-1
+Van Wely, Loek	-	Van Der Wiel, John	1-0
+Hansen, Curt	-	Piket, Jeroen	1-0
+Nikolic, Predrag	-	Sokolov, Ivan	1-0
+
+Ronde 9
+Smirin, Ilia	-	Van Wely, Loek	0-1
+Van Der Wiel, John	-	Hansen, Curt	0-1
+Leko, Peter	-	Nikolic, Predrag	½-½
+Piket, Jeroen	-	Morovic Fernandez, Ivan	½-½
+Sokolov, Ivan	-	Tiviakov, Sergei	0-1

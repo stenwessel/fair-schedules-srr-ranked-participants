@@ -1,0 +1,116 @@
+Ronde 1
+Timman, Jan H	-	Anand, Viswanathan	½-½
+Nijboer, Friso	-	Karpov, Anatoly	½-½
+Adams, Michael	-	Van der Sterren, Paul	1-0
+Kramnik, Vladimir	-	Piket, Jeroen	1-0
+Gelfand, Boris	-	Polgar, Judit	1-0
+Shirov, Alexei	-	Topalov, Veselin	½-½
+Van Wely, Loek	-	Salov, Valery	½-½
+
+Ronde 2
+Polgar, Judit	-	Shirov, Alexei	1-0
+Topalov, Veselin	-	Timman, Jan H	½-½
+Kramnik, Vladimir	-	Nijboer, Friso	1-0
+Van der Sterren, Paul	-	Gelfand, Boris	½-½
+Anand, Viswanathan	-	Van Wely, Loek	1-0
+Piket, Jeroen	-	Salov, Valery	½-½
+Karpov, Anatoly	-	Adams, Michael	½-½
+
+Ronde 3
+Adams, Michael	-	Kramnik, Vladimir	0-1
+Timman, Jan H	-	Polgar, Judit	½-½
+Nijboer, Friso	-	Piket, Jeroen	1-0
+Shirov, Alexei	-	Van der Sterren, Paul	½-½
+Gelfand, Boris	-	Karpov, Anatoly	½-½
+Salov, Valery	-	Anand, Viswanathan	0-1
+Van Wely, Loek	-	Topalov, Veselin	0-1
+
+Ronde 4
+Topalov, Veselin	-	Salov, Valery	1-0
+Polgar, Judit	-	Van Wely, Loek	½-½
+Nijboer, Friso	-	Adams, Michael	0-1
+Kramnik, Vladimir	-	Gelfand, Boris	1-0
+Piket, Jeroen	-	Anand, Viswanathan	½-½
+Van der Sterren, Paul	-	Timman, Jan H	0-1
+Karpov, Anatoly	-	Shirov, Alexei	½-½
+
+Ronde 5
+Shirov, Alexei	-	Kramnik, Vladimir	1-0
+Anand, Viswanathan	-	Topalov, Veselin	1-0
+Adams, Michael	-	Piket, Jeroen	½-½
+Van Wely, Loek	-	Van der Sterren, Paul	0-1
+Timman, Jan H	-	Karpov, Anatoly	½-½
+Gelfand, Boris	-	Nijboer, Friso	1-0
+Salov, Valery	-	Polgar, Judit	½-½
+
+Ronde 6
+Polgar, Judit	-	Anand, Viswanathan	1-0
+Adams, Michael	-	Gelfand, Boris	½-½
+Kramnik, Vladimir	-	Timman, Jan H	½-½
+Nijboer, Friso	-	Shirov, Alexei	½-½
+Karpov, Anatoly	-	Van Wely, Loek	½-½
+Van der Sterren, Paul	-	Salov, Valery	1-0
+Piket, Jeroen	-	Topalov, Veselin	1-0
+
+Ronde 7
+Timman, Jan H	-	Nijboer, Friso	½-½
+Shirov, Alexei	-	Adams, Michael	1-0
+Anand, Viswanathan	-	Van der Sterren, Paul	1-0
+Van Wely, Loek	-	Kramnik, Vladimir	1-0
+Gelfand, Boris	-	Piket, Jeroen	½-½
+Topalov, Veselin	-	Polgar, Judit	½-½
+Salov, Valery	-	Karpov, Anatoly	1-0
+
+Ronde 8
+Nijboer, Friso	-	Van Wely, Loek	½-½
+Adams, Michael	-	Timman, Jan H	0-1
+Karpov, Anatoly	-	Anand, Viswanathan	½-½
+Piket, Jeroen	-	Polgar, Judit	½-½
+Gelfand, Boris	-	Shirov, Alexei	½-½
+Van der Sterren, Paul	-	Topalov, Veselin	½-½
+Kramnik, Vladimir	-	Salov, Valery	½-½
+
+Ronde 9
+Anand, Viswanathan	-	Kramnik, Vladimir	½-½
+Salov, Valery	-	Nijboer, Friso	½-½
+Polgar, Judit	-	Van der Sterren, Paul	1-0
+Shirov, Alexei	-	Piket, Jeroen	1-0
+Topalov, Veselin	-	Karpov, Anatoly	1-0
+Van Wely, Loek	-	Adams, Michael	0-1
+Timman, Jan H	-	Gelfand, Boris	½-½
+
+Ronde 10
+Nijboer, Friso	-	Anand, Viswanathan	0-1
+Adams, Michael	-	Salov, Valery	1-0
+Gelfand, Boris	-	Van Wely, Loek	½-½
+Shirov, Alexei	-	Timman, Jan H	1-0
+Piket, Jeroen	-	Van der Sterren, Paul	1-0
+Karpov, Anatoly	-	Polgar, Judit	1-0
+Kramnik, Vladimir	-	Topalov, Veselin	½-½
+
+Ronde 11
+Salov, Valery	-	Gelfand, Boris	1-0
+Polgar, Judit	-	Kramnik, Vladimir	0-1
+Timman, Jan H	-	Piket, Jeroen	½-½
+Anand, Viswanathan	-	Adams, Michael	½-½
+Van der Sterren, Paul	-	Karpov, Anatoly	0-1
+Van Wely, Loek	-	Shirov, Alexei	½-½
+Topalov, Veselin	-	Nijboer, Friso	½-½
+
+Ronde 12
+Adams, Michael	-	Topalov, Veselin	1-0
+Shirov, Alexei	-	Salov, Valery	0-1
+Nijboer, Friso	-	Polgar, Judit	½-½
+Timman, Jan H	-	Van Wely, Loek	½-½
+Gelfand, Boris	-	Anand, Viswanathan	½-½
+Kramnik, Vladimir	-	Van der Sterren, Paul	1-0
+Piket, Jeroen	-	Karpov, Anatoly	½-½
+
+Ronde 13
+Topalov, Veselin	-	Gelfand, Boris	½-½
+Anand, Viswanathan	-	Shirov, Alexei	½-½
+Polgar, Judit	-	Adams, Michael	½-½
+Van Wely, Loek	-	Piket, Jeroen	0-1
+Karpov, Anatoly	-	Kramnik, Vladimir	½-½
+Van der Sterren, Paul	-	Nijboer, Friso	½-½
+Salov, Valery	-	Timman, Jan H	0-1

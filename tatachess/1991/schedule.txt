@@ -1,0 +1,116 @@
+Ronde 1
+Adams, Michael	-	Van Der Wiel, John	1-0
+Fedorowicz, John P	-	Salov, Valery	½-½
+Chernin, Alexander	-	Hansen, Curt	½-½
+Seirawan, Yasser	-	Sokolov, Ivan	½-½
+Olafsson, Helgi	-	Lautier, Joel	1-0
+Piket, Jeroen	-	Khalifman, Alexander	½-½
+Kozul, Zdenko	-	Nunn, John	0-1
+
+Ronde 2
+Nunn, John	-	Fedorowicz, John P	1-0
+Van Der Wiel, John	-	Kozul, Zdenko	½-½
+Sokolov, Ivan	-	Olafsson, Helgi	½-½
+Chernin, Alexander	-	Seirawan, Yasser	½-½
+Lautier, Joel	-	Adams, Michael	0-1
+Salov, Valery	-	Piket, Jeroen	0-1
+Hansen, Curt	-	Khalifman, Alexander	1-0
+
+Ronde 3
+Adams, Michael	-	Sokolov, Ivan	0-1
+Khalifman, Alexander	-	Salov, Valery	½-½
+Olafsson, Helgi	-	Chernin, Alexander	½-½
+Seirawan, Yasser	-	Hansen, Curt	½-½
+Kozul, Zdenko	-	Lautier, Joel	½-½
+Fedorowicz, John P	-	Van Der Wiel, John	½-½
+Piket, Jeroen	-	Nunn, John	½-½
+
+Ronde 4
+Nunn, John	-	Khalifman, Alexander	½-½
+Van Der Wiel, John	-	Piket, Jeroen	½-½
+Hansen, Curt	-	Salov, Valery	½-½
+Chernin, Alexander	-	Adams, Michael	½-½
+Seirawan, Yasser	-	Olafsson, Helgi	1-0
+Sokolov, Ivan	-	Kozul, Zdenko	½-½
+Lautier, Joel	-	Fedorowicz, John P	1-0
+
+Ronde 5
+Salov, Valery	-	Nunn, John	1-0
+Piket, Jeroen	-	Lautier, Joel	½-½
+Fedorowicz, John P	-	Sokolov, Ivan	½-½
+Adams, Michael	-	Seirawan, Yasser	½-½
+Khalifman, Alexander	-	Van Der Wiel, John	½-½
+Olafsson, Helgi	-	Hansen, Curt	0-1
+Kozul, Zdenko	-	Chernin, Alexander	0-1
+
+Ronde 6
+Chernin, Alexander	-	Fedorowicz, John P	½-½
+Van Der Wiel, John	-	Salov, Valery	½-½
+Olafsson, Helgi	-	Adams, Michael	½-½
+Lautier, Joel	-	Khalifman, Alexander	½-½
+Sokolov, Ivan	-	Piket, Jeroen	½-½
+Hansen, Curt	-	Nunn, John	0-1
+Seirawan, Yasser	-	Kozul, Zdenko	1-0
+
+Ronde 7
+Adams, Michael	-	Hansen, Curt	1-0
+Nunn, John	-	Van Der Wiel, John	½-½
+Fedorowicz, John P	-	Seirawan, Yasser	0-1
+Kozul, Zdenko	-	Olafsson, Helgi	1-0
+Piket, Jeroen	-	Chernin, Alexander	½-½
+Khalifman, Alexander	-	Sokolov, Ivan	1-0
+Salov, Valery	-	Lautier, Joel	1-0
+
+Ronde 8
+Adams, Michael	-	Kozul, Zdenko	1-0
+Sokolov, Ivan	-	Salov, Valery	0-1
+Chernin, Alexander	-	Khalifman, Alexander	½-½
+Olafsson, Helgi	-	Fedorowicz, John P	0-1
+Seirawan, Yasser	-	Piket, Jeroen	0-1
+Lautier, Joel	-	Nunn, John	½-½
+Hansen, Curt	-	Van Der Wiel, John	1-0
+
+Ronde 9
+Van Der Wiel, John	-	Lautier, Joel	½-½
+Khalifman, Alexander	-	Seirawan, Yasser	1-0
+Nunn, John	-	Sokolov, Ivan	1-0
+Salov, Valery	-	Chernin, Alexander	½-½
+Kozul, Zdenko	-	Hansen, Curt	½-½
+Fedorowicz, John P	-	Adams, Michael	½-½
+Piket, Jeroen	-	Olafsson, Helgi	1-0
+
+Ronde 10
+Adams, Michael	-	Piket, Jeroen	0-1
+Seirawan, Yasser	-	Salov, Valery	½-½
+Sokolov, Ivan	-	Van Der Wiel, John	½-½
+Chernin, Alexander	-	Nunn, John	½-½
+Kozul, Zdenko	-	Fedorowicz, John P	½-½
+Olafsson, Helgi	-	Khalifman, Alexander	0-1
+Hansen, Curt	-	Lautier, Joel	½-½
+
+Ronde 11
+Fedorowicz, John P	-	Hansen, Curt	0-1
+Van Der Wiel, John	-	Chernin, Alexander	0-1
+Nunn, John	-	Seirawan, Yasser	½-½
+Khalifman, Alexander	-	Adams, Michael	½-½
+Salov, Valery	-	Olafsson, Helgi	½-½
+Piket, Jeroen	-	Kozul, Zdenko	0-1
+Lautier, Joel	-	Sokolov, Ivan	½-½
+
+Ronde 12
+Adams, Michael	-	Salov, Valery	1-0
+Seirawan, Yasser	-	Van Der Wiel, John	½-½
+Kozul, Zdenko	-	Khalifman, Alexander	½-½
+Hansen, Curt	-	Sokolov, Ivan	1-0
+Fedorowicz, John P	-	Piket, Jeroen	1-0
+Olafsson, Helgi	-	Nunn, John	0-1
+Chernin, Alexander	-	Lautier, Joel	½-½
+
+Ronde 13
+Van Der Wiel, John	-	Olafsson, Helgi	1-0
+Nunn, John	-	Adams, Michael	½-½
+Khalifman, Alexander	-	Fedorowicz, John P	1-0
+Sokolov, Ivan	-	Chernin, Alexander	0-1
+Piket, Jeroen	-	Hansen, Curt	½-½
+Lautier, Joel	-	Seirawan, Yasser	0-1
+Salov, Valery	-	Kozul, Zdenko	1-0

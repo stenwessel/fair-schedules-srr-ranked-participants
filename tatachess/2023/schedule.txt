@@ -1,0 +1,116 @@
+Round 1 - 14-01-2023
+Van Foreest, Jorden - So, Wesley 	½-½
+Rapport, Richard - Abdusattorov, Nodirbek 	0-1
+Caruana, Fabiano - Giri, Anish 	½-½
+Gukesh D - Ding, Liren 	0-1
+Maghsoodloo, Parham - Keymer, Vincent 	½-½
+Carlsen, Magnus - Aronian, Levon 	½-½
+Praggnanandhaa R - Arjun, Erigaisi 	½-½
+
+Round 2 - 15-01-2023
+So, Wesley - Arjun, Erigaisi 	½-½
+Aronian, Levon - Praggnanandhaa R 	½-½
+Keymer, Vincent - Carlsen, Magnus 	0-1
+Ding, Liren - Maghsoodloo, Parham 	½-½
+Giri, Anish - Gukesh D 	1-0
+Abdusattorov, Nodirbek - Caruana, Fabiano 	½-½
+Van Foreest, Jorden - Rapport, Richard 	½-½
+
+Round 3 - 16-01-2023
+Rapport, Richard - So, Wesley 	½-½
+Caruana, Fabiano - Van Foreest, Jorden 	1-0
+Gukesh D - Abdusattorov, Nodirbek 	½-½
+Maghsoodloo, Parham - Giri, Anish 	½-½
+Carlsen, Magnus - Ding, Liren 	½-½
+Praggnanandhaa R - Keymer, Vincent 	½-½
+Arjun, Erigaisi - Aronian, Levon 	½-½
+
+Round 4 - 17-01-2023
+So, Wesley - Aronian, Levon 	½-½
+Keymer, Vincent - Arjun, Erigaisi 	½-½
+Ding, Liren - Praggnanandhaa R 	0-1
+Giri, Anish - Carlsen, Magnus 	1-0
+Abdusattorov, Nodirbek - Maghsoodloo, Parham 	1-0
+Van Foreest, Jorden - Gukesh D 	½-½
+Rapport, Richard - Caruana, Fabiano 	½-½
+
+Round 5 - 19-01-2023
+Caruana, Fabiano - So, Wesley 	½-½
+Gukesh D - Rapport, Richard 	½-½
+Maghsoodloo, Parham - Van Foreest, Jorden 	1-0
+Carlsen, Magnus - Abdusattorov, Nodirbek 	0-1
+Praggnanandhaa R - Giri, Anish 	½-½
+Arjun, Erigaisi - Ding, Liren 	½-½
+Aronian, Levon - Keymer, Vincent 	1-0
+
+Round 6 - 20-01-2023
+So, Wesley - Keymer, Vincent 	1-0
+Ding, Liren - Aronian, Levon 	½-½
+Giri, Anish - Arjun, Erigaisi 	½-½
+Abdusattorov, Nodirbek - Praggnanandhaa R 	½-½
+Van Foreest, Jorden - Carlsen, Magnus 	½-½
+Rapport, Richard - Maghsoodloo, Parham 	½-½
+Caruana, Fabiano - Gukesh D 	1-0
+
+Round 7 - 21-01-2023
+Gukesh D - So, Wesley 	0-1
+Maghsoodloo, Parham - Caruana, Fabiano 	½-½
+Carlsen, Magnus - Rapport, Richard 	1-0
+Praggnanandhaa R - Van Foreest, Jorden 	1-0
+Arjun, Erigaisi - Abdusattorov, Nodirbek 	0-1
+Aronian, Levon - Giri, Anish 	½-½
+Keymer, Vincent - Ding, Liren 	½-½
+
+Round 8 - 22-01-2023
+So, Wesley - Ding, Liren 	½-½
+Giri, Anish - Keymer, Vincent 	½-½
+Abdusattorov, Nodirbek - Aronian, Levon 	½-½
+Van Foreest, Jorden - Arjun, Erigaisi 	1-0
+Rapport, Richard - Praggnanandhaa R 	1-0
+Caruana, Fabiano - Carlsen, Magnus 	0-1
+Gukesh D - Maghsoodloo, Parham 	1-0
+
+Round 9 - 24-01-2023
+Maghsoodloo, Parham - So, Wesley 	½-½
+Carlsen, Magnus - Gukesh D 	½-½
+Praggnanandhaa R - Caruana, Fabiano 	½-½
+Arjun, Erigaisi - Rapport, Richard 	0-1
+Aronian, Levon - Van Foreest, Jorden 	½-½
+Keymer, Vincent - Abdusattorov, Nodirbek 	½-½
+Ding, Liren - Giri, Anish 	0-1
+
+Round 10 - 25-01-2023
+So, Wesley - Giri, Anish 	½-½
+Abdusattorov, Nodirbek - Ding, Liren 	½-½
+Van Foreest, Jorden - Keymer, Vincent 	½-½
+Rapport, Richard - Aronian, Levon 	½-½
+Caruana, Fabiano - Arjun, Erigaisi 	½-½
+Gukesh D - Praggnanandhaa R 	1-0
+Maghsoodloo, Parham - Carlsen, Magnus 	0-1
+
+Round 11 - 27-01-2023
+Carlsen, Magnus - So, Wesley 	½-½
+Praggnanandhaa R - Maghsoodloo, Parham 	0-1
+Arjun, Erigaisi - Gukesh D 	½-½
+Aronian, Levon - Caruana, Fabiano 	½-½
+Keymer, Vincent - Rapport, Richard 	½-½
+Ding, Liren - Van Foreest, Jorden 	½-½
+Giri, Anish - Abdusattorov, Nodirbek 	½-½
+
+Round 12 - 28-01-2023
+So, Wesley - Abdusattorov, Nodirbek 	½-½
+Van Foreest, Jorden - Giri, Anish 	½-½
+Rapport, Richard - Ding, Liren 	1-0
+Caruana, Fabiano - Keymer, Vincent 	½-½
+Gukesh D - Aronian, Levon 	½-½
+Maghsoodloo, Parham - Arjun, Erigaisi 	1-0
+Carlsen, Magnus - Praggnanandhaa R 	½-½
+
+Round 13 - 29-01-2023
+Praggnanandhaa R - So, Wesley 	½-½
+Arjun, Erigaisi - Carlsen, Magnus 	0-1
+Aronian, Levon - Maghsoodloo, Parham 	0-1
+Keymer, Vincent - Gukesh D 	½-½
+Ding, Liren - Caruana, Fabiano 	½-½
+Giri, Anish - Rapport, Richard 	1-0
+Abdusattorov, Nodirbek - Van Foreest, Jorden 	0-1

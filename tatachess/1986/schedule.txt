@@ -1,0 +1,116 @@
+Ronde 1
+Ljubojevic, Ljubomir	-	De Firmian, Nick E	1-0
+Van Der Wiel, John	-	Ree, Hans	1-0
+Van Der Wiel, John	-	Nikolic, Predrag	1-0
+Hellers, Ferdinand	-	Hodgson, Julian M.	½-½
+Short, Nigel	-	Huebner, Robert Dr.	1-0
+Ree, Hans	-	Sosonko, Gennadi	½-½
+Van der Sterren, Paul	-	Seirawan, Yasser	½-½
+Chernin, Alexander	-	Hort, Vlastimil	½-½
+Ree, Hans	-	Nikolic, Predrag	0-1
+
+Ronde 2
+Short, Nigel	-	Hellers, Ferdinand	1-0
+Sosonko, Gennadi	-	Ljubojevic, Ljubomir	½-½
+Hodgson, Julian M.	-	Ree, Hans	1-0
+De Firmian, Nick E	-	Chernin, Alexander	1-0
+Hort, Vlastimil	-	Van der Sterren, Paul	½-½
+Huebner, Robert Dr.	-	Nikolic, Predrag	½-½
+Seirawan, Yasser	-	Van Der Wiel, John	½-½
+
+Ronde 3
+Ljubojevic, Ljubomir	-	Hodgson, Julian M.	½-½
+Hellers, Ferdinand	-	Huebner, Robert Dr.	0-1
+Van Der Wiel, John	-	Hort, Vlastimil	½-½
+Ree, Hans	-	Short, Nigel	0-1
+Nikolic, Predrag	-	Seirawan, Yasser	1-0
+Van der Sterren, Paul	-	De Firmian, Nick E	½-½
+Chernin, Alexander	-	Sosonko, Gennadi	½-½
+
+Ronde 4
+Short, Nigel	-	Ljubojevic, Ljubomir	½-½
+De Firmian, Nick E	-	Van Der Wiel, John	½-½
+Hodgson, Julian M.	-	Chernin, Alexander	½-½
+Huebner, Robert Dr.	-	Seirawan, Yasser	½-½
+Hellers, Ferdinand	-	Ree, Hans	½-½
+Hort, Vlastimil	-	Nikolic, Predrag	½-½
+Sosonko, Gennadi	-	Van der Sterren, Paul	½-½
+
+Ronde 5
+Van Der Wiel, John	-	Sosonko, Gennadi	1-0
+Ljubojevic, Ljubomir	-	Hellers, Ferdinand	1-0
+Seirawan, Yasser	-	Hort, Vlastimil	½-½
+Ree, Hans	-	Huebner, Robert Dr.	½-½
+Nikolic, Predrag	-	De Firmian, Nick E	1-0
+Van der Sterren, Paul	-	Hodgson, Julian M.	1-0
+Chernin, Alexander	-	Short, Nigel	½-½
+
+Ronde 6
+Hodgson, Julian M.	-	Van Der Wiel, John	½-½
+Hellers, Ferdinand	-	Chernin, Alexander	½-½
+De Firmian, Nick E	-	Seirawan, Yasser	½-½
+Short, Nigel	-	Van der Sterren, Paul	1-0
+Huebner, Robert Dr.	-	Hort, Vlastimil	½-½
+Ree, Hans	-	Ljubojevic, Ljubomir	½-½
+Sosonko, Gennadi	-	Nikolic, Predrag	1-0
+
+Ronde 7
+Ljubojevic, Ljubomir	-	Huebner, Robert Dr.	½-½
+Van Der Wiel, John	-	Short, Nigel	½-½
+Chernin, Alexander	-	Ree, Hans	½-½
+Hort, Vlastimil	-	De Firmian, Nick E	½-½
+Seirawan, Yasser	-	Sosonko, Gennadi	½-½
+Van der Sterren, Paul	-	Hellers, Ferdinand	1-0
+Nikolic, Predrag	-	Hodgson, Julian M.	1-0
+
+Ronde 8
+Hellers, Ferdinand	-	Van Der Wiel, John	½-½
+Short, Nigel	-	Nikolic, Predrag	½-½
+Ree, Hans	-	Van der Sterren, Paul	½-½
+Huebner, Robert Dr.	-	De Firmian, Nick E	1-0
+Sosonko, Gennadi	-	Hort, Vlastimil	½-½
+Ljubojevic, Ljubomir	-	Chernin, Alexander	½-½
+Hodgson, Julian M.	-	Seirawan, Yasser	1-0
+
+Ronde 9
+De Firmian, Nick E	-	Sosonko, Gennadi	0-1
+Hort, Vlastimil	-	Hodgson, Julian M.	0-1
+Chernin, Alexander	-	Huebner, Robert Dr.	½-½
+Van der Sterren, Paul	-	Ljubojevic, Ljubomir	0-1
+Ljubojevic, Ljubomir	-	Van Der Wiel, John	1-0
+Nikolic, Predrag	-	Hellers, Ferdinand	½-½
+Seirawan, Yasser	-	Short, Nigel	½-½
+
+Ronde 10
+Huebner, Robert Dr.	-	Sosonko, Gennadi	½-½
+Hodgson, Julian M.	-	De Firmian, Nick E	1-0
+Hellers, Ferdinand	-	Seirawan, Yasser	½-½
+Short, Nigel	-	Hort, Vlastimil	½-½
+Chernin, Alexander	-	Van der Sterren, Paul	1-0
+
+Ronde 11
+Van Der Wiel, John	-	Chernin, Alexander	½-½
+Sosonko, Gennadi	-	Hodgson, Julian M.	1-0
+Nikolic, Predrag	-	Ljubojevic, Ljubomir	½-½
+De Firmian, Nick E	-	Short, Nigel	0-1
+Van der Sterren, Paul	-	Huebner, Robert Dr.	0-1
+Hort, Vlastimil	-	Hellers, Ferdinand	1-0
+Seirawan, Yasser	-	Ree, Hans	1-0
+
+Ronde 12
+Hellers, Ferdinand	-	De Firmian, Nick E	1-0
+Short, Nigel	-	Sosonko, Gennadi	1-0
+Ljubojevic, Ljubomir	-	Seirawan, Yasser	0-1
+Ree, Hans	-	Hort, Vlastimil	½-½
+Chernin, Alexander	-	Nikolic, Predrag	½-½
+Van der Sterren, Paul	-	Van Der Wiel, John	0-1
+Huebner, Robert Dr.	-	Hodgson, Julian M.	½-½
+
+Ronde 13
+Hodgson, Julian M.	-	Short, Nigel	½-½
+De Firmian, Nick E	-	Ree, Hans	0-1
+Van Der Wiel, John	-	Huebner, Robert Dr.	½-½
+Hort, Vlastimil	-	Ljubojevic, Ljubomir	½-½
+Seirawan, Yasser	-	Chernin, Alexander	½-½
+Sosonko, Gennadi	-	Hellers, Ferdinand	½-½
+Nikolic, Predrag	-	Van der Sterren, Paul	1-0

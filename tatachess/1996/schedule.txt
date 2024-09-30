@@ -1,0 +1,116 @@
+Ronde 1
+Huebner, Robert Dr.	-	Piket, Jeroen	½-½
+Anand, Viswanathan	-	Ivanchuk, Vassily	½-½
+Topalov, Veselin	-	Shirov, Alexei	½-½
+Leko, Peter	-	Adams, Michael	½-½
+Van Wely, Loek	-	Dreev, Alexey	0-1
+Gelfand, Boris	-	Tiviakov, Sergei	½-½
+Timman, Jan H	-	Sokolov, Ivan	½-½
+
+Ronde 2
+Adams, Michael	-	Topalov, Veselin	½-½
+Tiviakov, Sergei	-	Ivanchuk, Vassily	½-½
+Shirov, Alexei	-	Anand, Viswanathan	½-½
+Piket, Jeroen	-	Timman, Jan H	½-½
+Sokolov, Ivan	-	Van Wely, Loek	1-0
+Gelfand, Boris	-	Huebner, Robert Dr.	½-½
+Dreev, Alexey	-	Leko, Peter	½-½
+
+Ronde 3
+Topalov, Veselin	-	Dreev, Alexey	½-½
+Leko, Peter	-	Sokolov, Ivan	½-½
+Timman, Jan H	-	Gelfand, Boris	½-½
+Ivanchuk, Vassily	-	Shirov, Alexei	1-0
+Anand, Viswanathan	-	Adams, Michael	1-0
+Huebner, Robert Dr.	-	Tiviakov, Sergei	½-½
+Van Wely, Loek	-	Piket, Jeroen	0-1
+
+Ronde 4
+Huebner, Robert Dr.	-	Timman, Jan H	1-0
+Tiviakov, Sergei	-	Shirov, Alexei	½-½
+Adams, Michael	-	Ivanchuk, Vassily	½-½
+Piket, Jeroen	-	Leko, Peter	½-½
+Dreev, Alexey	-	Anand, Viswanathan	½-½
+Gelfand, Boris	-	Van Wely, Loek	½-½
+Sokolov, Ivan	-	Topalov, Veselin	1-0
+
+Ronde 5
+Leko, Peter	-	Gelfand, Boris	½-½
+Ivanchuk, Vassily	-	Dreev, Alexey	½-½
+Shirov, Alexei	-	Adams, Michael	1-0
+Anand, Viswanathan	-	Sokolov, Ivan	0-1
+Topalov, Veselin	-	Piket, Jeroen	1-0
+Van Wely, Loek	-	Huebner, Robert Dr.	½-½
+Timman, Jan H	-	Tiviakov, Sergei	0-1
+
+Ronde 6
+Timman, Jan H	-	Van Wely, Loek	0-1
+Huebner, Robert Dr.	-	Leko, Peter	½-½
+Tiviakov, Sergei	-	Adams, Michael	1-0
+Sokolov, Ivan	-	Ivanchuk, Vassily	0-1
+Piket, Jeroen	-	Anand, Viswanathan	0-1
+Gelfand, Boris	-	Topalov, Veselin	½-½
+Dreev, Alexey	-	Shirov, Alexei	1-0
+
+Ronde 7
+Topalov, Veselin	-	Huebner, Robert Dr.	1-0
+Anand, Viswanathan	-	Gelfand, Boris	1-0
+Adams, Michael	-	Dreev, Alexey	1-0
+Leko, Peter	-	Timman, Jan H	½-½
+Shirov, Alexei	-	Sokolov, Ivan	½-½
+Van Wely, Loek	-	Tiviakov, Sergei	½-½
+Ivanchuk, Vassily	-	Piket, Jeroen	1-0
+
+Ronde 8
+Huebner, Robert Dr.	-	Anand, Viswanathan	½-½
+Tiviakov, Sergei	-	Dreev, Alexey	½-½
+Sokolov, Ivan	-	Adams, Michael	0-1
+Piket, Jeroen	-	Shirov, Alexei	1-0
+Gelfand, Boris	-	Ivanchuk, Vassily	½-½
+Van Wely, Loek	-	Leko, Peter	½-½
+Timman, Jan H	-	Topalov, Veselin	½-½
+
+Ronde 9
+Leko, Peter	-	Tiviakov, Sergei	½-½
+Shirov, Alexei	-	Gelfand, Boris	1-0
+Ivanchuk, Vassily	-	Huebner, Robert Dr.	½-½
+Topalov, Veselin	-	Van Wely, Loek	1-0
+Anand, Viswanathan	-	Timman, Jan H	½-½
+Dreev, Alexey	-	Sokolov, Ivan	½-½
+Adams, Michael	-	Piket, Jeroen	½-½
+
+Ronde 10
+Leko, Peter	-	Topalov, Veselin	½-½
+Tiviakov, Sergei	-	Sokolov, Ivan	0-1
+Piket, Jeroen	-	Dreev, Alexey	1-0
+Timman, Jan H	-	Ivanchuk, Vassily	0-1
+Van Wely, Loek	-	Anand, Viswanathan	½-½
+Huebner, Robert Dr.	-	Shirov, Alexei	0-1
+Gelfand, Boris	-	Adams, Michael	½-½
+
+Ronde 11
+Ivanchuk, Vassily	-	Van Wely, Loek	½-½
+Topalov, Veselin	-	Tiviakov, Sergei	½-½
+Adams, Michael	-	Huebner, Robert Dr.	1-0
+Shirov, Alexei	-	Timman, Jan H	1-0
+Sokolov, Ivan	-	Piket, Jeroen	0-1
+Dreev, Alexey	-	Gelfand, Boris	1-0
+Anand, Viswanathan	-	Leko, Peter	1-0
+
+Ronde 12
+Topalov, Veselin	-	Anand, Viswanathan	1-0
+Leko, Peter	-	Ivanchuk, Vassily	½-½
+Tiviakov, Sergei	-	Piket, Jeroen	1-0
+Huebner, Robert Dr.	-	Dreev, Alexey	½-½
+Van Wely, Loek	-	Shirov, Alexei	1-0
+Gelfand, Boris	-	Sokolov, Ivan	1-0
+Timman, Jan H	-	Adams, Michael	½-½
+
+Ronde 13
+Shirov, Alexei	-	Leko, Peter	½-½
+Adams, Michael	-	Van Wely, Loek	1-0
+Piket, Jeroen	-	Gelfand, Boris	½-½
+Sokolov, Ivan	-	Huebner, Robert Dr.	1-0
+Dreev, Alexey	-	Timman, Jan H	½-½
+Ivanchuk, Vassily	-	Topalov, Veselin	1-0
+Anand, Viswanathan	-	Tiviakov, Sergei	1-0

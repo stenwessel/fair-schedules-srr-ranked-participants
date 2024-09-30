@@ -1,0 +1,116 @@
+Ronde 1
+Bareev, Evgeny	-	Adams, Michael	½-½
+Dreev, Alexey	-	Khalifman, Alexander	½-½
+Gelfand, Boris	-	Lautier, Joel	1-0
+Grischuk, Alexander	-	Kasimdzhanov, Rustam	1-0
+Gurevich, Mikhail	-	Morozevich, Alexander	½-½
+Leko, Peter	-	Van Wely, Loek	1-0
+Timman, Jan H	-	Piket, Jeroen	½-½
+
+Ronde 2
+Adams, Michael	-	Grischuk, Alexander	1-0
+Gurevich, Mikhail	-	Leko, Peter	½-½
+Kasimdzhanov, Rustam	-	Gelfand, Boris	½-½
+Lautier, Joel	-	Dreev, Alexey	½-½
+Morozevich, Alexander	-	Khalifman, Alexander	½-½
+Piket, Jeroen	-	Bareev, Evgeny	½-½
+Van Wely, Loek	-	Timman, Jan H	0-1
+
+Ronde 3
+Bareev, Evgeny	-	Van Wely, Loek	1-0
+Dreev, Alexey	-	Kasimdzhanov, Rustam	0-1
+Gelfand, Boris	-	Adams, Michael	0-1
+Grischuk, Alexander	-	Piket, Jeroen	1-0
+Khalifman, Alexander	-	Lautier, Joel	½-½
+Leko, Peter	-	Morozevich, Alexander	½-½
+Timman, Jan H	-	Gurevich, Mikhail	½-½
+
+Ronde 4
+Adams, Michael	-	Dreev, Alexey	½-½
+Gurevich, Mikhail	-	Bareev, Evgeny	½-½
+Kasimdzhanov, Rustam	-	Khalifman, Alexander	0-1
+Leko, Peter	-	Timman, Jan H	½-½
+Morozevich, Alexander	-	Lautier, Joel	1-0
+Piket, Jeroen	-	Gelfand, Boris	1-0
+Van Wely, Loek	-	Grischuk, Alexander	0-1
+
+Ronde 5
+Bareev, Evgeny	-	Leko, Peter	1-0
+Dreev, Alexey	-	Piket, Jeroen	1-0
+Gelfand, Boris	-	Van Wely, Loek	½-½
+Grischuk, Alexander	-	Gurevich, Mikhail	½-½
+Khalifman, Alexander	-	Adams, Michael	½-½
+Lautier, Joel	-	Kasimdzhanov, Rustam	1-0
+Timman, Jan H	-	Morozevich, Alexander	½-½
+
+Ronde 6
+Adams, Michael	-	Lautier, Joel	½-½
+Gurevich, Mikhail	-	Gelfand, Boris	0-1
+Leko, Peter	-	Grischuk, Alexander	1-0
+Morozevich, Alexander	-	Kasimdzhanov, Rustam	1-0
+Piket, Jeroen	-	Khalifman, Alexander	½-½
+Timman, Jan H	-	Bareev, Evgeny	0-1
+Van Wely, Loek	-	Dreev, Alexey	½-½
+
+Ronde 7
+Bareev, Evgeny	-	Morozevich, Alexander	½-½
+Dreev, Alexey	-	Gurevich, Mikhail	½-½
+Gelfand, Boris	-	Leko, Peter	½-½
+Grischuk, Alexander	-	Timman, Jan H	1-0
+Kasimdzhanov, Rustam	-	Adams, Michael	½-½
+Khalifman, Alexander	-	Van Wely, Loek	1-0
+Lautier, Joel	-	Piket, Jeroen	½-½
+
+Ronde 8
+Bareev, Evgeny	-	Grischuk, Alexander	½-½
+Gurevich, Mikhail	-	Khalifman, Alexander	½-½
+Leko, Peter	-	Dreev, Alexey	½-½
+Morozevich, Alexander	-	Adams, Michael	½-½
+Piket, Jeroen	-	Kasimdzhanov, Rustam	½-½
+Timman, Jan H	-	Gelfand, Boris	1-0
+Van Wely, Loek	-	Lautier, Joel	½-½
+
+Ronde 9
+Adams, Michael	-	Piket, Jeroen	½-½
+Dreev, Alexey	-	Timman, Jan H	½-½
+Gelfand, Boris	-	Bareev, Evgeny	½-½
+Grischuk, Alexander	-	Morozevich, Alexander	1-0
+Kasimdzhanov, Rustam	-	Van Wely, Loek	1-0
+Khalifman, Alexander	-	Leko, Peter	½-½
+Lautier, Joel	-	Gurevich, Mikhail	½-½
+
+Ronde 10
+Bareev, Evgeny	-	Dreev, Alexey	1-0
+Grischuk, Alexander	-	Gelfand, Boris	½-½
+Gurevich, Mikhail	-	Kasimdzhanov, Rustam	1-0
+Leko, Peter	-	Lautier, Joel	½-½
+Morozevich, Alexander	-	Piket, Jeroen	1-0
+Timman, Jan H	-	Khalifman, Alexander	½-½
+Van Wely, Loek	-	Adams, Michael	½-½
+
+Ronde 11
+Adams, Michael	-	Gurevich, Mikhail	1-0
+Dreev, Alexey	-	Grischuk, Alexander	½-½
+Gelfand, Boris	-	Morozevich, Alexander	½-½
+Kasimdzhanov, Rustam	-	Leko, Peter	½-½
+Khalifman, Alexander	-	Bareev, Evgeny	1-0
+Lautier, Joel	-	Timman, Jan H	1-0
+Piket, Jeroen	-	Van Wely, Loek	½-½
+
+Ronde 12
+Bareev, Evgeny	-	Lautier, Joel	1-0
+Gelfand, Boris	-	Dreev, Alexey	½-½
+Grischuk, Alexander	-	Khalifman, Alexander	1-0
+Gurevich, Mikhail	-	Piket, Jeroen	0-1
+Leko, Peter	-	Adams, Michael	½-½
+Morozevich, Alexander	-	Van Wely, Loek	1-0
+Timman, Jan H	-	Kasimdzhanov, Rustam	½-½
+
+Ronde 13
+Adams, Michael	-	Timman, Jan H	½-½
+Dreev, Alexey	-	Morozevich, Alexander	½-½
+Kasimdzhanov, Rustam	-	Bareev, Evgeny	0-1
+Khalifman, Alexander	-	Gelfand, Boris	½-½
+Lautier, Joel	-	Grischuk, Alexander	½-½
+Piket, Jeroen	-	Leko, Peter	½-½
+Van Wely, Loek	-	Gurevich, Mikhail	½-½

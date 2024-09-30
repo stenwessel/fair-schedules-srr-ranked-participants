@@ -1,0 +1,116 @@
+Ronde 1
+Short, Nigel	-	Onischuk, Alexander	0-1
+Piket, Jeroen	-	Salov, Valery	1-0
+Van Wely, Loek	-	Lautier, Joel	1-0
+Granda Zuniga, Julio E	-	Yermolinsky, Alex	0-1
+Timman, Jan H	-	Glek, Igor V.	1-0
+Sokolov, Ivan	-	Illescas Cordoba, Miguel	1-0
+Korchnoi, Viktor	-	Nikolic, Predrag	0-1
+
+Ronde 2
+Onischuk, Alexander	-	Sokolov, Ivan	½-½
+Illescas Cordoba, Miguel	-	Korchnoi, Viktor	½-½
+Van Wely, Loek	-	Short, Nigel	0-1
+Salov, Valery	-	Granda Zuniga, Julio E	½-½
+Nikolic, Predrag	-	Piket, Jeroen	0-1
+Lautier, Joel	-	Glek, Igor V.	1-0
+Yermolinsky, Alex	-	Timman, Jan H	½-½
+
+Ronde 3
+Short, Nigel	-	Lautier, Joel	½-½
+Timman, Jan H	-	Salov, Valery	½-½
+Glek, Igor V.	-	Yermolinsky, Alex	½-½
+Piket, Jeroen	-	Illescas Cordoba, Miguel	½-½
+Sokolov, Ivan	-	Van Wely, Loek	½-½
+Korchnoi, Viktor	-	Onischuk, Alexander	1-0
+Granda Zuniga, Julio E	-	Nikolic, Predrag	1-0
+
+Ronde 4
+Illescas Cordoba, Miguel	-	Granda Zuniga, Julio E	1-0
+Short, Nigel	-	Sokolov, Ivan	½-½
+Onischuk, Alexander	-	Piket, Jeroen	½-½
+Nikolic, Predrag	-	Timman, Jan H	1-0
+Lautier, Joel	-	Yermolinsky, Alex	½-½
+Van Wely, Loek	-	Korchnoi, Viktor	½-½
+Salov, Valery	-	Glek, Igor V.	1-0
+
+Ronde 5
+Glek, Igor V.	-	Nikolic, Predrag	½-½
+Korchnoi, Viktor	-	Short, Nigel	1-0
+Sokolov, Ivan	-	Lautier, Joel	½-½
+Granda Zuniga, Julio E	-	Onischuk, Alexander	½-½
+Piket, Jeroen	-	Van Wely, Loek	1-0
+Timman, Jan H	-	Illescas Cordoba, Miguel	1-0
+Yermolinsky, Alex	-	Salov, Valery	0-1
+
+Ronde 6
+Short, Nigel	-	Piket, Jeroen	0-1
+Onischuk, Alexander	-	Timman, Jan H	½-½
+Lautier, Joel	-	Salov, Valery	½-½
+Sokolov, Ivan	-	Korchnoi, Viktor	1-0
+Van Wely, Loek	-	Granda Zuniga, Julio E	0-1
+Illescas Cordoba, Miguel	-	Glek, Igor V.	½-½
+Nikolic, Predrag	-	Yermolinsky, Alex	½-½
+
+Ronde 7
+Granda Zuniga, Julio E	-	Short, Nigel	1-0
+Glek, Igor V.	-	Onischuk, Alexander	0-1
+Piket, Jeroen	-	Sokolov, Ivan	½-½
+Yermolinsky, Alex	-	Illescas Cordoba, Miguel	1-0
+Salov, Valery	-	Nikolic, Predrag	1-0
+Timman, Jan H	-	Van Wely, Loek	0-1
+Korchnoi, Viktor	-	Lautier, Joel	½-½
+
+Ronde 8
+Onischuk, Alexander	-	Yermolinsky, Alex	1-0
+Short, Nigel	-	Timman, Jan H	½-½
+Lautier, Joel	-	Nikolic, Predrag	1-0
+Sokolov, Ivan	-	Granda Zuniga, Julio E	1-0
+Van Wely, Loek	-	Glek, Igor V.	1-0
+Korchnoi, Viktor	-	Piket, Jeroen	½-½
+Illescas Cordoba, Miguel	-	Salov, Valery	½-½
+
+Ronde 9
+Glek, Igor V.	-	Short, Nigel	0-1
+Timman, Jan H	-	Sokolov, Ivan	0-1
+Nikolic, Predrag	-	Illescas Cordoba, Miguel	½-½
+Granda Zuniga, Julio E	-	Korchnoi, Viktor	1-0
+Piket, Jeroen	-	Lautier, Joel	½-½
+Yermolinsky, Alex	-	Van Wely, Loek	½-½
+Salov, Valery	-	Onischuk, Alexander	½-½
+
+Ronde 10
+Short, Nigel	-	Yermolinsky, Alex	½-½
+Onischuk, Alexander	-	Nikolic, Predrag	½-½
+Korchnoi, Viktor	-	Timman, Jan H	½-½
+Piket, Jeroen	-	Granda Zuniga, Julio E	½-½
+Lautier, Joel	-	Illescas Cordoba, Miguel	½-½
+Sokolov, Ivan	-	Glek, Igor V.	½-½
+Van Wely, Loek	-	Salov, Valery	0-1
+
+Ronde 11
+Glek, Igor V.	-	Korchnoi, Viktor	½-½
+Yermolinsky, Alex	-	Sokolov, Ivan	½-½
+Salov, Valery	-	Short, Nigel	½-½
+Nikolic, Predrag	-	Van Wely, Loek	½-½
+Illescas Cordoba, Miguel	-	Onischuk, Alexander	1-0
+Timman, Jan H	-	Piket, Jeroen	½-½
+Granda Zuniga, Julio E	-	Lautier, Joel	1-0
+
+Ronde 12
+Piket, Jeroen	-	Glek, Igor V.	½-½
+Short, Nigel	-	Nikolic, Predrag	1-0
+Sokolov, Ivan	-	Salov, Valery	0-1
+Lautier, Joel	-	Onischuk, Alexander	0-1
+Granda Zuniga, Julio E	-	Timman, Jan H	0-1
+Van Wely, Loek	-	Illescas Cordoba, Miguel	1-0
+Korchnoi, Viktor	-	Yermolinsky, Alex	½-½
+
+Ronde 13
+Timman, Jan H	-	Lautier, Joel	½-½
+Onischuk, Alexander	-	Van Wely, Loek	1-0
+Glek, Igor V.	-	Granda Zuniga, Julio E	1-0
+Salov, Valery	-	Korchnoi, Viktor	½-½
+Illescas Cordoba, Miguel	-	Short, Nigel	½-½
+Yermolinsky, Alex	-	Piket, Jeroen	1-0
+Nikolic, Predrag	-	Sokolov, Ivan	½-½

@@ -1,0 +1,116 @@
+Ronde 1
+Van Der Wiel, John	-	Beliavsky, Alexander G	½-½
+Timman, Jan H	-	Lobron, Eric	1-0
+Nunn, John	-	Korchnoi, Viktor	1-0
+Kudrin, Sergey	-	Portisch, Lajos	½-½
+Ftacnik, Lubomir	-	Ree, Hans	½-½
+Ligterink, Gert	-	Spraggett, Kevin	½-½
+Romanishin, Oleg M	-	Georgiev, Kiril	½-½
+
+Ronde 2
+Lobron, Eric	-	Ree, Hans	1-0
+Timman, Jan H	-	Romanishin, Oleg M	1-0
+Georgiev, Kiril	-	Ligterink, Gert	1-0
+Portisch, Lajos	-	Van Der Wiel, John	½-½
+Korchnoi, Viktor	-	Ftacnik, Lubomir	1-0
+Beliavsky, Alexander G	-	Nunn, John	0-1
+Spraggett, Kevin	-	Kudrin, Sergey	0-1
+
+Ronde 3
+Kudrin, Sergey	-	Georgiev, Kiril	½-½
+Van Der Wiel, John	-	Spraggett, Kevin	½-½
+Nunn, John	-	Portisch, Lajos	½-½
+Ftacnik, Lubomir	-	Beliavsky, Alexander G	½-½
+Ree, Hans	-	Korchnoi, Viktor	0-1
+Ligterink, Gert	-	Timman, Jan H	½-½
+Romanishin, Oleg M	-	Lobron, Eric	½-½
+
+Ronde 4
+Beliavsky, Alexander G	-	Ree, Hans	1-0
+Spraggett, Kevin	-	Nunn, John	½-½
+Timman, Jan H	-	Kudrin, Sergey	1-0
+Lobron, Eric	-	Korchnoi, Viktor	1-0
+Portisch, Lajos	-	Ftacnik, Lubomir	1-0
+Georgiev, Kiril	-	Van Der Wiel, John	½-½
+Romanishin, Oleg M	-	Ligterink, Gert	½-½
+
+Ronde 5
+Nunn, John	-	Georgiev, Kiril	½-½
+Kudrin, Sergey	-	Romanishin, Oleg M	½-½
+Van Der Wiel, John	-	Timman, Jan H	0-1
+Ftacnik, Lubomir	-	Spraggett, Kevin	½-½
+Ree, Hans	-	Portisch, Lajos	½-½
+Ligterink, Gert	-	Lobron, Eric	½-½
+Korchnoi, Viktor	-	Beliavsky, Alexander G	½-½
+
+Ronde 6
+Spraggett, Kevin	-	Ree, Hans	0-1
+Lobron, Eric	-	Beliavsky, Alexander G	½-½
+Portisch, Lajos	-	Korchnoi, Viktor	1-0
+Timman, Jan H	-	Nunn, John	½-½
+Ligterink, Gert	-	Kudrin, Sergey	1-0
+Romanishin, Oleg M	-	Van Der Wiel, John	½-½
+Georgiev, Kiril	-	Ftacnik, Lubomir	½-½
+
+Ronde 7
+Van Der Wiel, John	-	Ligterink, Gert	½-½
+Kudrin, Sergey	-	Lobron, Eric	½-½
+Nunn, John	-	Romanishin, Oleg M	0-1
+Ree, Hans	-	Georgiev, Kiril	½-½
+Beliavsky, Alexander G	-	Portisch, Lajos	½-½
+Korchnoi, Viktor	-	Spraggett, Kevin	½-½
+Ftacnik, Lubomir	-	Timman, Jan H	½-½
+
+Ronde 8
+Kudrin, Sergey	-	Van Der Wiel, John	1-0
+Spraggett, Kevin	-	Beliavsky, Alexander G	0-1
+Timman, Jan H	-	Ree, Hans	½-½
+Lobron, Eric	-	Portisch, Lajos	1-0
+Georgiev, Kiril	-	Korchnoi, Viktor	1-0
+Ligterink, Gert	-	Nunn, John	½-½
+Romanishin, Oleg M	-	Ftacnik, Lubomir	1-0
+
+Ronde 9
+Nunn, John	-	Kudrin, Sergey	1-0
+Beliavsky, Alexander G	-	Georgiev, Kiril	½-½
+Van Der Wiel, John	-	Lobron, Eric	1-0
+Portisch, Lajos	-	Spraggett, Kevin	0-1
+Ree, Hans	-	Romanishin, Oleg M	½-½
+Ftacnik, Lubomir	-	Ligterink, Gert	½-½
+Korchnoi, Viktor	-	Timman, Jan H	½-½
+
+Ronde 10
+Kudrin, Sergey	-	Ftacnik, Lubomir	0-1
+Lobron, Eric	-	Spraggett, Kevin	1-0
+Ligterink, Gert	-	Ree, Hans	½-½
+Georgiev, Kiril	-	Portisch, Lajos	½-½
+Van Der Wiel, John	-	Nunn, John	½-½
+Timman, Jan H	-	Beliavsky, Alexander G	1-0
+Romanishin, Oleg M	-	Korchnoi, Viktor	½-½
+
+Ronde 11
+Nunn, John	-	Lobron, Eric	1-0
+Ree, Hans	-	Kudrin, Sergey	1-0
+Ftacnik, Lubomir	-	Van Der Wiel, John	½-½
+Portisch, Lajos	-	Timman, Jan H	½-½
+Beliavsky, Alexander G	-	Romanishin, Oleg M	1-0
+Spraggett, Kevin	-	Georgiev, Kiril	1-0
+Korchnoi, Viktor	-	Ligterink, Gert	1-0
+
+Ronde 12
+Nunn, John	-	Ftacnik, Lubomir	½-½
+Van Der Wiel, John	-	Ree, Hans	0-1
+Kudrin, Sergey	-	Korchnoi, Viktor	½-½
+Romanishin, Oleg M	-	Portisch, Lajos	½-½
+Timman, Jan H	-	Spraggett, Kevin	½-½
+Ligterink, Gert	-	Beliavsky, Alexander G	0-1
+Lobron, Eric	-	Georgiev, Kiril	0-1
+
+Ronde 13
+Spraggett, Kevin	-	Romanishin, Oleg M	½-½
+Ftacnik, Lubomir	-	Lobron, Eric	½-½
+Portisch, Lajos	-	Ligterink, Gert	1-0
+Georgiev, Kiril	-	Timman, Jan H	½-½
+Ree, Hans	-	Nunn, John	½-½
+Korchnoi, Viktor	-	Van Der Wiel, John	1-0
+Beliavsky, Alexander G	-	Kudrin, Sergey	1-0

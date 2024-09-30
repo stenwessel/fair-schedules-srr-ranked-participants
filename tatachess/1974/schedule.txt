@@ -1,0 +1,149 @@
+Ronde 1
+Enklaar, Bert	-	Adorjan, Andras	½-½
+Sosonko, Gennadi	-	Quinteros, Miguel A.	1-0
+Planinc, Albin	-	Matulovic, Milan	½-½
+Timman, Jan H	-	Hecht, Hans	½-½
+Browne, Walter S.	-	Ree, Hans	½-½
+Donner, Johannes	-	Pomar Salamanca, Arturo	½-½
+Forintos, Gyozo V	-	Langeweg, Kick	1-0
+Ghitescu, Theodor	-	Radulov, Ivan	0-1
+
+Ronde 2
+Radulov, Ivan	-	Browne, Walter S.	0-1
+Adorjan, Andras	-	Sosonko, Gennadi	½-½
+Matulovic, Milan	-	Pomar Salamanca, Arturo	½-½
+Hecht, Hans	-	Forintos, Gyozo V	1-0
+Quinteros, Miguel A.	-	Donner, Johannes	½-½
+Planinc, Albin	-	Timman, Jan H	1-0
+Ree, Hans	-	Enklaar, Bert	½-½
+Langeweg, Kick	-	Ghitescu, Theodor	0-1
+
+Ronde 3
+Enklaar, Bert	-	Radulov, Ivan	0-1
+Browne, Walter S.	-	Langeweg, Kick	1-0
+Pomar Salamanca, Arturo	-	Quinteros, Miguel A.	0-1
+Timman, Jan H	-	Matulovic, Milan	½-½
+Sosonko, Gennadi	-	Ree, Hans	½-½
+Donner, Johannes	-	Adorjan, Andras	½-½
+Forintos, Gyozo V	-	Planinc, Albin	0-1
+Ghitescu, Theodor	-	Hecht, Hans	½-½
+
+Ronde 4
+Matulovic, Milan	-	Quinteros, Miguel A.	0-1
+Radulov, Ivan	-	Sosonko, Gennadi	½-½
+Adorjan, Andras	-	Pomar Salamanca, Arturo	½-½
+Planinc, Albin	-	Ghitescu, Theodor	½-½
+Langeweg, Kick	-	Enklaar, Bert	0-1
+Ree, Hans	-	Donner, Johannes	0-1
+Timman, Jan H	-	Forintos, Gyozo V	½-½
+Hecht, Hans	-	Browne, Walter S.	½-½
+
+Ronde 5
+Browne, Walter S.	-	Planinc, Albin	½-½
+Donner, Johannes	-	Radulov, Ivan	½-½
+Sosonko, Gennadi	-	Langeweg, Kick	1-0
+Ghitescu, Theodor	-	Timman, Jan H	0-1
+Enklaar, Bert	-	Hecht, Hans	0-1
+Forintos, Gyozo V	-	Matulovic, Milan	½-½
+Pomar Salamanca, Arturo	-	Ree, Hans	½-½
+Quinteros, Miguel A.	-	Adorjan, Andras	1-0
+
+Ronde 6
+Timman, Jan H	-	Browne, Walter S.	0-1
+Planinc, Albin	-	Enklaar, Bert	1-0
+Matulovic, Milan	-	Adorjan, Andras	1-0
+Radulov, Ivan	-	Pomar Salamanca, Arturo	½-½
+Langeweg, Kick	-	Donner, Johannes	½-½
+Ree, Hans	-	Quinteros, Miguel A.	1-0
+Forintos, Gyozo V	-	Ghitescu, Theodor	1-0
+Hecht, Hans	-	Sosonko, Gennadi	½-½
+
+Ronde 7
+Quinteros, Miguel A.	-	Radulov, Ivan	0-1
+Browne, Walter S.	-	Forintos, Gyozo V	1-0
+Enklaar, Bert	-	Timman, Jan H	0-1
+Adorjan, Andras	-	Ree, Hans	½-½
+Ghitescu, Theodor	-	Matulovic, Milan	½-½
+Donner, Johannes	-	Hecht, Hans	½-½
+Pomar Salamanca, Arturo	-	Langeweg, Kick	1-0
+Sosonko, Gennadi	-	Planinc, Albin	½-½
+
+Ronde 8
+Hecht, Hans	-	Pomar Salamanca, Arturo	1-0
+Radulov, Ivan	-	Adorjan, Andras	½-½
+Planinc, Albin	-	Donner, Johannes	½-½
+Langeweg, Kick	-	Quinteros, Miguel A.	½-½
+Matulovic, Milan	-	Ree, Hans	1-0
+Forintos, Gyozo V	-	Enklaar, Bert	½-½
+Ghitescu, Theodor	-	Browne, Walter S.	0-1
+Timman, Jan H	-	Sosonko, Gennadi	½-½
+
+Ronde 9
+Adorjan, Andras	-	Langeweg, Kick	½-½
+Browne, Walter S.	-	Matulovic, Milan	½-½
+Donner, Johannes	-	Timman, Jan H	1-0
+Sosonko, Gennadi	-	Forintos, Gyozo V	½-½
+Pomar Salamanca, Arturo	-	Planinc, Albin	1-0
+Quinteros, Miguel A.	-	Hecht, Hans	1-0
+Enklaar, Bert	-	Ghitescu, Theodor	1-0
+Ree, Hans	-	Radulov, Ivan	½-½
+
+Ronde 10
+Matulovic, Milan	-	Radulov, Ivan	1-0
+Hecht, Hans	-	Adorjan, Andras	½-½
+Planinc, Albin	-	Quinteros, Miguel A.	1-0
+Browne, Walter S.	-	Enklaar, Bert	1-0
+Timman, Jan H	-	Pomar Salamanca, Arturo	½-½
+Forintos, Gyozo V	-	Donner, Johannes	0-1
+Ghitescu, Theodor	-	Sosonko, Gennadi	½-½
+Langeweg, Kick	-	Ree, Hans	1-0
+
+Ronde 11
+Radulov, Ivan	-	Langeweg, Kick	½-½
+Ree, Hans	-	Hecht, Hans	½-½
+Enklaar, Bert	-	Matulovic, Milan	1-0
+Adorjan, Andras	-	Planinc, Albin	0-1
+Pomar Salamanca, Arturo	-	Forintos, Gyozo V	½-½
+Donner, Johannes	-	Ghitescu, Theodor	1-0
+Quinteros, Miguel A.	-	Timman, Jan H	½-½
+Sosonko, Gennadi	-	Browne, Walter S.	½-½
+
+Ronde 12
+Browne, Walter S.	-	Donner, Johannes	½-½
+Hecht, Hans	-	Radulov, Ivan	1-0
+Matulovic, Milan	-	Langeweg, Kick	1-0
+Planinc, Albin	-	Ree, Hans	1-0
+Ghitescu, Theodor	-	Pomar Salamanca, Arturo	½-½
+Forintos, Gyozo V	-	Quinteros, Miguel A.	½-½
+Enklaar, Bert	-	Sosonko, Gennadi	1-0
+Timman, Jan H	-	Adorjan, Andras	1-0
+
+Ronde 13
+Quinteros, Miguel A.	-	Ghitescu, Theodor	½-½
+Ree, Hans	-	Timman, Jan H	0-1
+Adorjan, Andras	-	Forintos, Gyozo V	½-½
+Radulov, Ivan	-	Planinc, Albin	½-½
+Donner, Johannes	-	Enklaar, Bert	½-½
+Langeweg, Kick	-	Hecht, Hans	½-½
+Pomar Salamanca, Arturo	-	Browne, Walter S.	0-1
+Sosonko, Gennadi	-	Matulovic, Milan	½-½
+
+Ronde 14
+Browne, Walter S.	-	Quinteros, Miguel A.	1-0
+Planinc, Albin	-	Langeweg, Kick	0-1
+Matulovic, Milan	-	Hecht, Hans	1-0
+Timman, Jan H	-	Radulov, Ivan	½-½
+Sosonko, Gennadi	-	Donner, Johannes	½-½
+Forintos, Gyozo V	-	Ree, Hans	1-0
+Ghitescu, Theodor	-	Adorjan, Andras	½-½
+Enklaar, Bert	-	Pomar Salamanca, Arturo	0-1
+
+Ronde 15
+Adorjan, Andras	-	Browne, Walter S.	1-0
+Ree, Hans	-	Ghitescu, Theodor	½-½
+Radulov, Ivan	-	Forintos, Gyozo V	1-0
+Hecht, Hans	-	Planinc, Albin	1-0
+Donner, Johannes	-	Matulovic, Milan	½-½
+Pomar Salamanca, Arturo	-	Sosonko, Gennadi	½-½
+Langeweg, Kick	-	Timman, Jan H	½-½
+Quinteros, Miguel A.	-	Enklaar, Bert	1-0

@@ -1,0 +1,116 @@
+Ronde 1
+Short, Nigel	-	Gurevich, Mikhail	1-0
+Kuijf, Marinus	-	Anand, Viswanathan	0-1
+Dokhoian, Yury	-	Portisch, Lajos	½-½
+Korchnoi, Viktor	-	Andersson, Ulf	½-½
+Dlugy, Maxim	-	Van Der Wiel, John	½-½
+Piket, Jeroen	-	Nijboer, Friso	1-0
+Nunn, John	-	Petursson, Margeir	½-½
+
+Ronde 2
+Nijboer, Friso	-	Dokhoian, Yury	0-1
+Anand, Viswanathan	-	Nunn, John	0-1
+Korchnoi, Viktor	-	Short, Nigel	½-½
+Andersson, Ulf	-	Van Der Wiel, John	1-0
+Portisch, Lajos	-	Kuijf, Marinus	0-1
+Petursson, Margeir	-	Dlugy, Maxim	½-½
+Gurevich, Mikhail	-	Piket, Jeroen	½-½
+
+Ronde 3
+Van Der Wiel, John	-	Petursson, Margeir	½-½
+Dlugy, Maxim	-	Anand, Viswanathan	½-½
+Kuijf, Marinus	-	Nijboer, Friso	½-½
+Nunn, John	-	Portisch, Lajos	½-½
+Dokhoian, Yury	-	Gurevich, Mikhail	½-½
+Piket, Jeroen	-	Korchnoi, Viktor	0-1
+Short, Nigel	-	Andersson, Ulf	1-0
+
+Ronde 4
+Short, Nigel	-	Piket, Jeroen	½-½
+Anand, Viswanathan	-	Van Der Wiel, John	1-0
+Nijboer, Friso	-	Nunn, John	½-½
+Gurevich, Mikhail	-	Kuijf, Marinus	½-½
+Portisch, Lajos	-	Dlugy, Maxim	1-0
+Andersson, Ulf	-	Petursson, Margeir	½-½
+Korchnoi, Viktor	-	Dokhoian, Yury	½-½
+
+Ronde 5
+Nunn, John	-	Gurevich, Mikhail	½-½
+Van Der Wiel, John	-	Portisch, Lajos	½-½
+Kuijf, Marinus	-	Korchnoi, Viktor	0-1
+Piket, Jeroen	-	Andersson, Ulf	½-½
+Petursson, Margeir	-	Anand, Viswanathan	½-½
+Dlugy, Maxim	-	Nijboer, Friso	1-0
+Dokhoian, Yury	-	Short, Nigel	½-½
+
+Ronde 6
+Nijboer, Friso	-	Van Der Wiel, John	0-1
+Short, Nigel	-	Kuijf, Marinus	1-0
+Piket, Jeroen	-	Dokhoian, Yury	1-0
+Korchnoi, Viktor	-	Nunn, John	1-0
+Portisch, Lajos	-	Petursson, Margeir	½-½
+Gurevich, Mikhail	-	Dlugy, Maxim	½-½
+Andersson, Ulf	-	Anand, Viswanathan	½-½
+
+Ronde 7
+Nunn, John	-	Short, Nigel	1-0
+Kuijf, Marinus	-	Piket, Jeroen	½-½
+Van Der Wiel, John	-	Gurevich, Mikhail	0-1
+Anand, Viswanathan	-	Portisch, Lajos	0-1
+Petursson, Margeir	-	Nijboer, Friso	1-0
+Dokhoian, Yury	-	Andersson, Ulf	½-½
+Dlugy, Maxim	-	Korchnoi, Viktor	½-½
+
+Ronde 8
+Short, Nigel	-	Dlugy, Maxim	0-1
+Nijboer, Friso	-	Anand, Viswanathan	0-1
+Andersson, Ulf	-	Portisch, Lajos	½-½
+Gurevich, Mikhail	-	Petursson, Margeir	½-½
+Korchnoi, Viktor	-	Van Der Wiel, John	½-½
+Piket, Jeroen	-	Nunn, John	0-1
+Dokhoian, Yury	-	Kuijf, Marinus	0-1
+
+Ronde 9
+Kuijf, Marinus	-	Andersson, Ulf	0-1
+Van Der Wiel, John	-	Short, Nigel	1-0
+Nunn, John	-	Dokhoian, Yury	0-1
+Anand, Viswanathan	-	Gurevich, Mikhail	½-½
+Petursson, Margeir	-	Korchnoi, Viktor	½-½
+Dlugy, Maxim	-	Piket, Jeroen	1-0
+Portisch, Lajos	-	Nijboer, Friso	½-½
+
+Ronde 10
+Short, Nigel	-	Petursson, Margeir	½-½
+Kuijf, Marinus	-	Nunn, John	0-1
+Gurevich, Mikhail	-	Portisch, Lajos	½-½
+Piket, Jeroen	-	Van Der Wiel, John	½-½
+Andersson, Ulf	-	Nijboer, Friso	1-0
+Dokhoian, Yury	-	Dlugy, Maxim	½-½
+Korchnoi, Viktor	-	Anand, Viswanathan	½-½
+
+Ronde 11
+Nijboer, Friso	-	Gurevich, Mikhail	½-½
+Nunn, John	-	Andersson, Ulf	½-½
+Van Der Wiel, John	-	Dokhoian, Yury	½-½
+Anand, Viswanathan	-	Short, Nigel	0-1
+Dlugy, Maxim	-	Kuijf, Marinus	½-½
+Petursson, Margeir	-	Piket, Jeroen	½-½
+Portisch, Lajos	-	Korchnoi, Viktor	1-0
+
+Ronde 12
+Nunn, John	-	Dlugy, Maxim	1-0
+Short, Nigel	-	Portisch, Lajos	½-½
+Piket, Jeroen	-	Anand, Viswanathan	½-½
+Dokhoian, Yury	-	Petursson, Margeir	½-½
+Korchnoi, Viktor	-	Nijboer, Friso	0-1
+Kuijf, Marinus	-	Van Der Wiel, John	½-½
+Andersson, Ulf	-	Gurevich, Mikhail	½-½
+
+Ronde 13
+Nijboer, Friso	-	Short, Nigel	1-0
+Anand, Viswanathan	-	Dokhoian, Yury	½-½
+Petursson, Margeir	-	Kuijf, Marinus	½-½
+Gurevich, Mikhail	-	Korchnoi, Viktor	1-0
+Dlugy, Maxim	-	Andersson, Ulf	½-½
+Portisch, Lajos	-	Piket, Jeroen	½-½
+Van Der Wiel, John	-	Nunn, John	½-½

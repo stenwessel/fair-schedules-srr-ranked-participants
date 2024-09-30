@@ -1,0 +1,116 @@
+Ronde 1
+Nunn, John	-	Sunye Neto, Jaime	1-0
+Kavalek, Lubomir	-	Huebner, Robert Dr.	½-½
+Tal, Mikhail	-	Chandler, Murray G.	0-1
+Hort, Vlastimil	-	Balashov, Yuri S	½-½
+Christiansen, Larry M	-	Timman, Jan H	½-½
+Nikolic, Predrag	-	Van Der Wiel, John	½-½
+Ree, Hans	-	Sosonko, Gennadi	½-½
+
+Ronde 2
+Chandler, Murray G.	-	Sosonko, Gennadi	0-1
+Timman, Jan H	-	Nunn, John	0-1
+Tal, Mikhail	-	Christiansen, Larry M	1-0
+Huebner, Robert Dr.	-	Ree, Hans	½-½
+Van Der Wiel, John	-	Kavalek, Lubomir	½-½
+Balashov, Yuri S	-	Nikolic, Predrag	½-½
+Sunye Neto, Jaime	-	Hort, Vlastimil	0-1
+
+Ronde 3
+Nunn, John	-	Tal, Mikhail	1-0
+Christiansen, Larry M	-	Chandler, Murray G.	1-0
+Ree, Hans	-	Van Der Wiel, John	0-1
+Kavalek, Lubomir	-	Balashov, Yuri S	½-½
+Sosonko, Gennadi	-	Huebner, Robert Dr.	½-½
+Hort, Vlastimil	-	Timman, Jan H	½-½
+Nikolic, Predrag	-	Sunye Neto, Jaime	0-1
+
+Ronde 4
+Balashov, Yuri S	-	Ree, Hans	1-0
+Van Der Wiel, John	-	Sosonko, Gennadi	1-0
+Christiansen, Larry M	-	Nunn, John	½-½
+Chandler, Murray G.	-	Huebner, Robert Dr.	0-1
+Timman, Jan H	-	Nikolic, Predrag	0-1
+Tal, Mikhail	-	Hort, Vlastimil	½-½
+Sunye Neto, Jaime	-	Kavalek, Lubomir	½-½
+
+Ronde 5
+Kavalek, Lubomir	-	Timman, Jan H	½-½
+Nunn, John	-	Chandler, Murray G.	½-½
+Nikolic, Predrag	-	Tal, Mikhail	½-½
+Hort, Vlastimil	-	Christiansen, Larry M	1-0
+Ree, Hans	-	Sunye Neto, Jaime	1-0
+Sosonko, Gennadi	-	Balashov, Yuri S	½-½
+Huebner, Robert Dr.	-	Van Der Wiel, John	½-½
+
+Ronde 6
+Tal, Mikhail	-	Kavalek, Lubomir	½-½
+Chandler, Murray G.	-	Van Der Wiel, John	0-1
+Timman, Jan H	-	Ree, Hans	½-½
+Balashov, Yuri S	-	Huebner, Robert Dr.	½-½
+Nunn, John	-	Hort, Vlastimil	1-0
+Christiansen, Larry M	-	Nikolic, Predrag	½-½
+Sunye Neto, Jaime	-	Sosonko, Gennadi	½-½
+
+Ronde 7
+Kavalek, Lubomir	-	Christiansen, Larry M	½-½
+Huebner, Robert Dr.	-	Sunye Neto, Jaime	1-0
+Hort, Vlastimil	-	Chandler, Murray G.	1-0
+Van Der Wiel, John	-	Balashov, Yuri S	½-½
+Ree, Hans	-	Tal, Mikhail	1-0
+Sosonko, Gennadi	-	Timman, Jan H	1-0
+Nikolic, Predrag	-	Nunn, John	1-0
+
+Ronde 8
+Tal, Mikhail	-	Sosonko, Gennadi	1-0
+Chandler, Murray G.	-	Balashov, Yuri S	0-1
+Hort, Vlastimil	-	Nikolic, Predrag	½-½
+Nunn, John	-	Kavalek, Lubomir	½-½
+Timman, Jan H	-	Huebner, Robert Dr.	1-0
+Christiansen, Larry M	-	Ree, Hans	½-½
+Sunye Neto, Jaime	-	Van Der Wiel, John	1-0
+
+Ronde 9
+Balashov, Yuri S	-	Sunye Neto, Jaime	1-0
+Huebner, Robert Dr.	-	Tal, Mikhail	0-1
+Nikolic, Predrag	-	Chandler, Murray G.	½-½
+Kavalek, Lubomir	-	Hort, Vlastimil	½-½
+Sosonko, Gennadi	-	Christiansen, Larry M	1-0
+Ree, Hans	-	Nunn, John	½-½
+Sunye Neto, Jaime	-	Timman, Jan H	1-0
+
+Ronde 10
+Nunn, John	-	Sosonko, Gennadi	½-½
+Chandler, Murray G.	-	Sunye Neto, Jaime	1-0
+Christiansen, Larry M	-	Huebner, Robert Dr.	0-1
+Hort, Vlastimil	-	Ree, Hans	½-½
+Nikolic, Predrag	-	Kavalek, Lubomir	½-½
+Timman, Jan H	-	Balashov, Yuri S	½-½
+Tal, Mikhail	-	Van Der Wiel, John	1-0
+
+Ronde 11
+Kavalek, Lubomir	-	Chandler, Murray G.	½-½
+Van Der Wiel, John	-	Christiansen, Larry M	1-0
+Van Der Wiel, John	-	Timman, Jan H	1-0
+Balashov, Yuri S	-	Tal, Mikhail	½-½
+Ree, Hans	-	Nikolic, Predrag	½-½
+Sosonko, Gennadi	-	Hort, Vlastimil	½-½
+Huebner, Robert Dr.	-	Nunn, John	½-½
+
+Ronde 12
+Nunn, John	-	Van Der Wiel, John	1-0
+Tal, Mikhail	-	Sunye Neto, Jaime	1-0
+Chandler, Murray G.	-	Timman, Jan H	0-1
+Kavalek, Lubomir	-	Ree, Hans	1-0
+Hort, Vlastimil	-	Huebner, Robert Dr.	½-½
+Nikolic, Predrag	-	Sosonko, Gennadi	½-½
+Christiansen, Larry M	-	Balashov, Yuri S	0-1
+
+Ronde 13
+Balashov, Yuri S	-	Nunn, John	½-½
+Van Der Wiel, John	-	Hort, Vlastimil	½-½
+Timman, Jan H	-	Tal, Mikhail	1-0
+Sosonko, Gennadi	-	Kavalek, Lubomir	½-½
+Huebner, Robert Dr.	-	Nikolic, Predrag	½-½
+Sunye Neto, Jaime	-	Christiansen, Larry M	0-1
+Ree, Hans	-	Chandler, Murray G.	1-0

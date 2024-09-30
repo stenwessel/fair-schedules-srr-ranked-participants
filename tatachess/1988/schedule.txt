@@ -1,0 +1,116 @@
+Ronde 1
+Nikolic, Predrag	-	Andersson, Ulf	½-½
+Van der Sterren, Paul	-	Huebner, Robert Dr.	0-1
+Karpov, Anatoly	-	Hansen, Curt	1-0
+Georgiev, Kiril	-	Sosonko, Gennadi	1-0
+Piket, Jeroen	-	Ljubojevic, Ljubomir	½-½
+Agdestein, Simen	-	Farago, Ivan	0-1
+Tal, Mikhail	-	Van Der Wiel, John	½-½
+
+Ronde 2
+Huebner, Robert Dr.	-	Piket, Jeroen	1-0
+Ljubojevic, Ljubomir	-	Georgiev, Kiril	½-½
+Farago, Ivan	-	Van der Sterren, Paul	½-½
+Hansen, Curt	-	Van Der Wiel, John	½-½
+Andersson, Ulf	-	Agdestein, Simen	1-0
+Sosonko, Gennadi	-	Tal, Mikhail	½-½
+Karpov, Anatoly	-	Nikolic, Predrag	0-1
+
+Ronde 3
+Van Der Wiel, John	-	Sosonko, Gennadi	½-½
+Tal, Mikhail	-	Ljubojevic, Ljubomir	0-1
+Agdestein, Simen	-	Karpov, Anatoly	½-½
+Van der Sterren, Paul	-	Andersson, Ulf	0-1
+Nikolic, Predrag	-	Hansen, Curt	½-½
+Piket, Jeroen	-	Farago, Ivan	1-0
+Georgiev, Kiril	-	Huebner, Robert Dr.	½-½
+
+Ronde 4
+Huebner, Robert Dr.	-	Tal, Mikhail	0-1
+Ljubojevic, Ljubomir	-	Van Der Wiel, John	½-½
+Karpov, Anatoly	-	Van der Sterren, Paul	1-0
+Farago, Ivan	-	Georgiev, Kiril	½-½
+Nikolic, Predrag	-	Agdestein, Simen	0-1
+Andersson, Ulf	-	Piket, Jeroen	1-0
+Hansen, Curt	-	Sosonko, Gennadi	½-½
+
+Ronde 5
+Van Der Wiel, John	-	Huebner, Robert Dr.	1-0
+Tal, Mikhail	-	Farago, Ivan	½-½
+Piket, Jeroen	-	Karpov, Anatoly	½-½
+Sosonko, Gennadi	-	Ljubojevic, Ljubomir	½-½
+Georgiev, Kiril	-	Andersson, Ulf	½-½
+Agdestein, Simen	-	Hansen, Curt	1-0
+Van der Sterren, Paul	-	Nikolic, Predrag	1-0
+
+Ronde 6
+Agdestein, Simen	-	Van der Sterren, Paul	0-1
+Farago, Ivan	-	Van Der Wiel, John	½-½
+Karpov, Anatoly	-	Georgiev, Kiril	1-0
+Nikolic, Predrag	-	Piket, Jeroen	1-0
+Huebner, Robert Dr.	-	Sosonko, Gennadi	½-½
+Hansen, Curt	-	Ljubojevic, Ljubomir	1-0
+Andersson, Ulf	-	Tal, Mikhail	½-½
+
+Ronde 7
+Van Der Wiel, John	-	Andersson, Ulf	0-1
+Ljubojevic, Ljubomir	-	Huebner, Robert Dr.	½-½
+Georgiev, Kiril	-	Nikolic, Predrag	1-0
+Sosonko, Gennadi	-	Farago, Ivan	½-½
+Piket, Jeroen	-	Agdestein, Simen	0-1
+Van der Sterren, Paul	-	Hansen, Curt	½-½
+Tal, Mikhail	-	Karpov, Anatoly	½-½
+
+Ronde 8
+Nikolic, Predrag	-	Tal, Mikhail	½-½
+Agdestein, Simen	-	Georgiev, Kiril	½-½
+Van der Sterren, Paul	-	Piket, Jeroen	0-1
+Farago, Ivan	-	Ljubojevic, Ljubomir	1-0
+Hansen, Curt	-	Huebner, Robert Dr.	½-½
+Karpov, Anatoly	-	Van Der Wiel, John	1-0
+Andersson, Ulf	-	Sosonko, Gennadi	½-½
+
+Ronde 9
+Ljubojevic, Ljubomir	-	Andersson, Ulf	½-½
+Tal, Mikhail	-	Agdestein, Simen	½-½
+Van Der Wiel, John	-	Nikolic, Predrag	½-½
+Georgiev, Kiril	-	Van der Sterren, Paul	1-0
+Sosonko, Gennadi	-	Karpov, Anatoly	½-½
+Piket, Jeroen	-	Hansen, Curt	½-½
+Huebner, Robert Dr.	-	Farago, Ivan	½-½
+
+Ronde 10
+Nikolic, Predrag	-	Sosonko, Gennadi	½-½
+Piket, Jeroen	-	Georgiev, Kiril	1-0
+Karpov, Anatoly	-	Ljubojevic, Ljubomir	1-0
+Agdestein, Simen	-	Van Der Wiel, John	½-½
+Andersson, Ulf	-	Huebner, Robert Dr.	½-½
+Hansen, Curt	-	Farago, Ivan	½-½
+Van der Sterren, Paul	-	Tal, Mikhail	½-½
+
+Ronde 11
+Georgiev, Kiril	-	Hansen, Curt	½-½
+Tal, Mikhail	-	Piket, Jeroen	½-½
+Huebner, Robert Dr.	-	Karpov, Anatoly	½-½
+Ljubojevic, Ljubomir	-	Nikolic, Predrag	½-½
+Van Der Wiel, John	-	Van der Sterren, Paul	½-½
+Farago, Ivan	-	Andersson, Ulf	½-½
+Sosonko, Gennadi	-	Agdestein, Simen	0-1
+
+Ronde 12
+Karpov, Anatoly	-	Farago, Ivan	1-0
+Georgiev, Kiril	-	Tal, Mikhail	½-½
+Nikolic, Predrag	-	Huebner, Robert Dr.	½-½
+Van der Sterren, Paul	-	Sosonko, Gennadi	½-½
+Agdestein, Simen	-	Ljubojevic, Ljubomir	1-0
+Piket, Jeroen	-	Van Der Wiel, John	½-½
+Hansen, Curt	-	Andersson, Ulf	½-½
+
+Ronde 13
+Tal, Mikhail	-	Hansen, Curt	½-½
+Van Der Wiel, John	-	Georgiev, Kiril	0-1
+Huebner, Robert Dr.	-	Agdestein, Simen	½-½
+Ljubojevic, Ljubomir	-	Van der Sterren, Paul	0-1
+Sosonko, Gennadi	-	Piket, Jeroen	½-½
+Andersson, Ulf	-	Karpov, Anatoly	½-½
+Farago, Ivan	-	Nikolic, Predrag	½-½

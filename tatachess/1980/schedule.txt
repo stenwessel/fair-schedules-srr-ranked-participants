@@ -1,0 +1,116 @@
+Ronde 1
+Byrne, Robert E	-	Alburt, Lev O	1-0
+Timman, Jan H	-	Ligterink, Gert	½-½
+Bohm, Hans	-	Sigurjonsson, Gudmundur	1-0
+Ree, Hans	-	Kovacevic, Vladimir	½-½
+Seirawan, Yasser	-	Van Der Wiel, John	1-0
+Biyiasas, Peter	-	Browne, Walter S.	½-½
+Korchnoi, Viktor	-	Sunye Neto, Jaime	½-½
+
+Ronde 2
+Van Der Wiel, John	-	Alburt, Lev O	0-1
+Ligterink, Gert	-	Bohm, Hans	1-0
+Sunye Neto, Jaime	-	Biyiasas, Peter	½-½
+Browne, Walter S.	-	Timman, Jan H	1-0
+Kovacevic, Vladimir	-	Byrne, Robert E	1-0
+Seirawan, Yasser	-	Korchnoi, Viktor	1-0
+Sigurjonsson, Gudmundur	-	Ree, Hans	½-½
+
+Ronde 3
+Timman, Jan H	-	Sunye Neto, Jaime	½-½
+Byrne, Robert E	-	Sigurjonsson, Gudmundur	½-½
+Biyiasas, Peter	-	Seirawan, Yasser	½-½
+Ree, Hans	-	Ligterink, Gert	1-0
+Bohm, Hans	-	Browne, Walter S.	½-½
+Alburt, Lev O	-	Kovacevic, Vladimir	½-½
+Korchnoi, Viktor	-	Van Der Wiel, John	½-½
+
+Ronde 4
+Van Der Wiel, John	-	Kovacevic, Vladimir	½-½
+Browne, Walter S.	-	Ree, Hans	½-½
+Sunye Neto, Jaime	-	Bohm, Hans	0-1
+Ligterink, Gert	-	Byrne, Robert E	0-1
+Korchnoi, Viktor	-	Biyiasas, Peter	1-0
+Seirawan, Yasser	-	Timman, Jan H	1-0
+Sigurjonsson, Gudmundur	-	Alburt, Lev O	0-1
+
+Ronde 5
+Byrne, Robert E	-	Browne, Walter S.	½-½
+Bohm, Hans	-	Seirawan, Yasser	0-1
+Ree, Hans	-	Sunye Neto, Jaime	½-½
+Timman, Jan H	-	Korchnoi, Viktor	½-½
+Biyiasas, Peter	-	Van Der Wiel, John	1-0
+Alburt, Lev O	-	Ligterink, Gert	1-0
+Kovacevic, Vladimir	-	Sigurjonsson, Gudmundur	½-½
+
+Ronde 6
+Van Der Wiel, John	-	Sigurjonsson, Gudmundur	1-0
+Biyiasas, Peter	-	Timman, Jan H	1-0
+Ligterink, Gert	-	Kovacevic, Vladimir	½-½
+Alburt, Lev O	-	Browne, Walter S.	0-1
+Sunye Neto, Jaime	-	Byrne, Robert E	½-½
+Korchnoi, Viktor	-	Bohm, Hans	1-0
+Seirawan, Yasser	-	Ree, Hans	½-½
+
+Ronde 7
+Sigurjonsson, Gudmundur	-	Ligterink, Gert	1-0
+Alburt, Lev O	-	Sunye Neto, Jaime	½-½
+Byrne, Robert E	-	Seirawan, Yasser	½-½
+Timman, Jan H	-	Van Der Wiel, John	1-0
+Bohm, Hans	-	Biyiasas, Peter	0-1
+Ree, Hans	-	Korchnoi, Viktor	½-½
+Kovacevic, Vladimir	-	Browne, Walter S.	0-1
+
+Ronde 8
+Van Der Wiel, John	-	Ligterink, Gert	1-0
+Timman, Jan H	-	Bohm, Hans	1-0
+Browne, Walter S.	-	Sigurjonsson, Gudmundur	½-½
+Korchnoi, Viktor	-	Byrne, Robert E	1-0
+Sunye Neto, Jaime	-	Kovacevic, Vladimir	½-½
+Seirawan, Yasser	-	Alburt, Lev O	1-0
+Biyiasas, Peter	-	Ree, Hans	0-1
+
+Ronde 9
+Sigurjonsson, Gudmundur	-	Sunye Neto, Jaime	½-½
+Kovacevic, Vladimir	-	Seirawan, Yasser	0-1
+Byrne, Robert E	-	Biyiasas, Peter	½-½
+Alburt, Lev O	-	Korchnoi, Viktor	½-½
+Ree, Hans	-	Timman, Jan H	0-1
+Ligterink, Gert	-	Browne, Walter S.	0-1
+Bohm, Hans	-	Van Der Wiel, John	½-½
+
+Ronde 10
+Van Der Wiel, John	-	Browne, Walter S.	0-1
+Timman, Jan H	-	Byrne, Robert E	1-0
+Korchnoi, Viktor	-	Kovacevic, Vladimir	1-0
+Seirawan, Yasser	-	Sigurjonsson, Gudmundur	1-0
+Bohm, Hans	-	Ree, Hans	1-0
+Sunye Neto, Jaime	-	Ligterink, Gert	½-½
+Biyiasas, Peter	-	Alburt, Lev O	0-1
+
+Ronde 11
+Sigurjonsson, Gudmundur	-	Korchnoi, Viktor	0-1
+Ligterink, Gert	-	Seirawan, Yasser	½-½
+Byrne, Robert E	-	Bohm, Hans	1-0
+Ree, Hans	-	Van Der Wiel, John	½-½
+Browne, Walter S.	-	Sunye Neto, Jaime	1-0
+Kovacevic, Vladimir	-	Biyiasas, Peter	0-1
+Alburt, Lev O	-	Timman, Jan H	½-½
+
+Ronde 12
+Biyiasas, Peter	-	Sigurjonsson, Gudmundur	½-½
+Van Der Wiel, John	-	Sunye Neto, Jaime	0-1
+Timman, Jan H	-	Kovacevic, Vladimir	½-½
+Bohm, Hans	-	Alburt, Lev O	0-1
+Ree, Hans	-	Byrne, Robert E	½-½
+Korchnoi, Viktor	-	Ligterink, Gert	1-0
+Seirawan, Yasser	-	Browne, Walter S.	½-½
+
+Ronde 13
+Byrne, Robert E	-	Van Der Wiel, John	½-½
+Sigurjonsson, Gudmundur	-	Timman, Jan H	0-1
+Alburt, Lev O	-	Ree, Hans	½-½
+Sunye Neto, Jaime	-	Seirawan, Yasser	½-½
+Ligterink, Gert	-	Biyiasas, Peter	0-1
+Browne, Walter S.	-	Korchnoi, Viktor	1-0
+Kovacevic, Vladimir	-	Bohm, Hans	1-0

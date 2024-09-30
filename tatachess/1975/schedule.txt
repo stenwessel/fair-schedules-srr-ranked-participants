@@ -1,0 +1,149 @@
+Ronde 1
+Timman, Jan H	-	Langeweg, Kick	1-0
+Smejkal, Jan	-	Gligoric, Svetozar	½-½
+Browne, Walter S.	-	Huebner, Robert Dr.	½-½
+Portisch, Lajos	-	Ree, Hans	1-0
+Sosonko, Gennadi	-	Furman, Semyon	½-½
+Donner, Johannes	-	Kuijpers, Frans A	1-0
+Hort, Vlastimil	-	Geller, Efim	½-½
+Popov, Luben	-	Kavalek, Lubomir	0-1
+
+Ronde 2
+Kuijpers, Frans A	-	Browne, Walter S.	0-1
+Kavalek, Lubomir	-	Geller, Efim	½-½
+Popov, Luben	-	Donner, Johannes	½-½
+Gligoric, Svetozar	-	Portisch, Lajos	0-1
+Langeweg, Kick	-	Hort, Vlastimil	0-1
+Ree, Hans	-	Timman, Jan H	½-½
+Furman, Semyon	-	Smejkal, Jan	½-½
+Huebner, Robert Dr.	-	Sosonko, Gennadi	½-½
+
+Ronde 3
+Geller, Efim	-	Langeweg, Kick	½-½
+Hort, Vlastimil	-	Ree, Hans	½-½
+Browne, Walter S.	-	Popov, Luben	1-0
+Sosonko, Gennadi	-	Kuijpers, Frans A	1-0
+Portisch, Lajos	-	Furman, Semyon	½-½
+Donner, Johannes	-	Kavalek, Lubomir	½-½
+Timman, Jan H	-	Gligoric, Svetozar	½-½
+Smejkal, Jan	-	Huebner, Robert Dr.	1-0
+
+Ronde 4
+Kuijpers, Frans A	-	Smejkal, Jan	0-1
+Kavalek, Lubomir	-	Langeweg, Kick	1-0
+Furman, Semyon	-	Timman, Jan H	½-½
+Gligoric, Svetozar	-	Hort, Vlastimil	½-½
+Popov, Luben	-	Sosonko, Gennadi	0-1
+Ree, Hans	-	Geller, Efim	½-½
+Donner, Johannes	-	Browne, Walter S.	½-½
+Huebner, Robert Dr.	-	Portisch, Lajos	½-½
+
+Ronde 5
+Browne, Walter S.	-	Kavalek, Lubomir	½-½
+Hort, Vlastimil	-	Furman, Semyon	½-½
+Geller, Efim	-	Gligoric, Svetozar	½-½
+Timman, Jan H	-	Huebner, Robert Dr.	1-0
+Sosonko, Gennadi	-	Donner, Johannes	½-½
+Langeweg, Kick	-	Ree, Hans	1-0
+Portisch, Lajos	-	Kuijpers, Frans A	1-0
+Smejkal, Jan	-	Popov, Luben	½-½
+
+Ronde 6
+Browne, Walter S.	-	Sosonko, Gennadi	½-½
+Kuijpers, Frans A	-	Timman, Jan H	½-½
+Kavalek, Lubomir	-	Ree, Hans	1-0
+Furman, Semyon	-	Geller, Efim	½-½
+Gligoric, Svetozar	-	Langeweg, Kick	½-½
+Huebner, Robert Dr.	-	Hort, Vlastimil	½-½
+Popov, Luben	-	Portisch, Lajos	0-1
+Donner, Johannes	-	Smejkal, Jan	0-1
+
+Ronde 7
+Timman, Jan H	-	Popov, Luben	0-1
+Geller, Efim	-	Huebner, Robert Dr.	0-1
+Sosonko, Gennadi	-	Kavalek, Lubomir	½-½
+Ree, Hans	-	Gligoric, Svetozar	0-1
+Portisch, Lajos	-	Donner, Johannes	1-0
+Smejkal, Jan	-	Browne, Walter S.	1-0
+Hort, Vlastimil	-	Kuijpers, Frans A	1-0
+Langeweg, Kick	-	Furman, Semyon	½-½
+
+Ronde 8
+Kuijpers, Frans A	-	Geller, Efim	½-½
+Browne, Walter S.	-	Portisch, Lajos	½-½
+Kavalek, Lubomir	-	Gligoric, Svetozar	½-½
+Donner, Johannes	-	Timman, Jan H	½-½
+Huebner, Robert Dr.	-	Langeweg, Kick	1-0
+Sosonko, Gennadi	-	Smejkal, Jan	½-½
+Popov, Luben	-	Hort, Vlastimil	0-1
+Furman, Semyon	-	Ree, Hans	½-½
+
+Ronde 9
+Smejkal, Jan	-	Kavalek, Lubomir	½-½
+Timman, Jan H	-	Browne, Walter S.	1-0
+Geller, Efim	-	Popov, Luben	1-0
+Hort, Vlastimil	-	Donner, Johannes	1-0
+Gligoric, Svetozar	-	Furman, Semyon	½-½
+Portisch, Lajos	-	Sosonko, Gennadi	½-½
+Ree, Hans	-	Huebner, Robert Dr.	½-½
+Langeweg, Kick	-	Kuijpers, Frans A	½-½
+
+Ronde 10
+Kuijpers, Frans A	-	Ree, Hans	½-½
+Browne, Walter S.	-	Hort, Vlastimil	0-1
+Smejkal, Jan	-	Portisch, Lajos	½-½
+Donner, Johannes	-	Geller, Efim	½-½
+Popov, Luben	-	Langeweg, Kick	½-½
+Huebner, Robert Dr.	-	Gligoric, Svetozar	½-½
+Sosonko, Gennadi	-	Timman, Jan H	1-0
+Kavalek, Lubomir	-	Furman, Semyon	½-½
+
+Ronde 11
+Hort, Vlastimil	-	Sosonko, Gennadi	½-½
+Geller, Efim	-	Browne, Walter S.	½-½
+Timman, Jan H	-	Smejkal, Jan	½-½
+Langeweg, Kick	-	Donner, Johannes	1-0
+Gligoric, Svetozar	-	Kuijpers, Frans A	1-0
+Furman, Semyon	-	Huebner, Robert Dr.	½-½
+Portisch, Lajos	-	Kavalek, Lubomir	½-½
+Ree, Hans	-	Popov, Luben	1-0
+
+Ronde 12
+Browne, Walter S.	-	Langeweg, Kick	½-½
+Kuijpers, Frans A	-	Furman, Semyon	1-0
+Kavalek, Lubomir	-	Huebner, Robert Dr.	½-½
+Portisch, Lajos	-	Timman, Jan H	½-½
+Donner, Johannes	-	Ree, Hans	½-½
+Smejkal, Jan	-	Hort, Vlastimil	0-1
+Sosonko, Gennadi	-	Geller, Efim	0-1
+Popov, Luben	-	Gligoric, Svetozar	0-1
+
+Ronde 13
+Huebner, Robert Dr.	-	Kuijpers, Frans A	1-0
+Furman, Semyon	-	Popov, Luben	1-0
+Geller, Efim	-	Smejkal, Jan	½-½
+Langeweg, Kick	-	Sosonko, Gennadi	1-0
+Gligoric, Svetozar	-	Donner, Johannes	1-0
+Hort, Vlastimil	-	Portisch, Lajos	0-1
+Timman, Jan H	-	Kavalek, Lubomir	½-½
+Ree, Hans	-	Browne, Walter S.	½-½
+
+Ronde 14
+Popov, Luben	-	Huebner, Robert Dr.	½-½
+Timman, Jan H	-	Hort, Vlastimil	½-½
+Kavalek, Lubomir	-	Kuijpers, Frans A	½-½
+Browne, Walter S.	-	Gligoric, Svetozar	1-0
+Donner, Johannes	-	Furman, Semyon	½-½
+Smejkal, Jan	-	Langeweg, Kick	1-0
+Sosonko, Gennadi	-	Ree, Hans	1-0
+Portisch, Lajos	-	Geller, Efim	½-½
+
+Ronde 15
+Kuijpers, Frans A	-	Popov, Luben	½-½
+Geller, Efim	-	Timman, Jan H	½-½
+Hort, Vlastimil	-	Kavalek, Lubomir	½-½
+Ree, Hans	-	Smejkal, Jan	½-½
+Langeweg, Kick	-	Portisch, Lajos	½-½
+Gligoric, Svetozar	-	Sosonko, Gennadi	½-½
+Furman, Semyon	-	Browne, Walter S.	0-1
+Huebner, Robert Dr.	-	Donner, Johannes	1-0

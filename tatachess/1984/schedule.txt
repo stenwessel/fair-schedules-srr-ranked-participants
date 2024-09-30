@@ -1,0 +1,116 @@
+Ronde 1
+Van Der Wiel, John	-	Van der Sterren, Paul	1-0
+Sosonko, Gennadi	-	Torre, Eugenio	½-½
+Korchnoi, Viktor	-	Ligterink, Gert	1-0
+Ree, Hans	-	Andersson, Ulf	½-½
+Tukmakov, Vladimir B	-	Miles, Anthony	½-½
+Adorjan, Andras	-	Nikolic, Predrag	½-½
+Huebner, Robert Dr.	-	Beliavsky, Alexander G	½-½
+
+Ronde 2
+Beliavsky, Alexander G	-	Sosonko, Gennadi	1-0
+Ligterink, Gert	-	Miles, Anthony	0-1
+Korchnoi, Viktor	-	Van Der Wiel, John	1-0
+Andersson, Ulf	-	Huebner, Robert Dr.	½-½
+Van der Sterren, Paul	-	Ree, Hans	½-½
+Nikolic, Predrag	-	Tukmakov, Vladimir B	1-0
+Torre, Eugenio	-	Adorjan, Andras	½-½
+
+Ronde 3
+Van Der Wiel, John	-	Ligterink, Gert	½-½
+Huebner, Robert Dr.	-	Van der Sterren, Paul	1-0
+Adorjan, Andras	-	Beliavsky, Alexander G	½-½
+Miles, Anthony	-	Nikolic, Predrag	1-0
+Tukmakov, Vladimir B	-	Torre, Eugenio	½-½
+Sosonko, Gennadi	-	Andersson, Ulf	½-½
+Ree, Hans	-	Korchnoi, Viktor	½-½
+
+Ronde 4
+Beliavsky, Alexander G	-	Tukmakov, Vladimir B	½-½
+Van Der Wiel, John	-	Ree, Hans	1-0
+Korchnoi, Viktor	-	Huebner, Robert Dr.	½-½
+Torre, Eugenio	-	Miles, Anthony	½-½
+Ligterink, Gert	-	Nikolic, Predrag	½-½
+Van der Sterren, Paul	-	Sosonko, Gennadi	½-½
+Andersson, Ulf	-	Adorjan, Andras	½-½
+
+Ronde 5
+Miles, Anthony	-	Beliavsky, Alexander G	0-1
+Adorjan, Andras	-	Van der Sterren, Paul	½-½
+Sosonko, Gennadi	-	Korchnoi, Viktor	0-1
+Ree, Hans	-	Ligterink, Gert	½-½
+Tukmakov, Vladimir B	-	Andersson, Ulf	½-½
+Nikolic, Predrag	-	Torre, Eugenio	1-0
+Huebner, Robert Dr.	-	Van Der Wiel, John	0-1
+
+Ronde 6
+Van Der Wiel, John	-	Sosonko, Gennadi	½-½
+Ree, Hans	-	Huebner, Robert Dr.	1-0
+Beliavsky, Alexander G	-	Nikolic, Predrag	1-0
+Ligterink, Gert	-	Torre, Eugenio	1-0
+Andersson, Ulf	-	Miles, Anthony	½-½
+Van der Sterren, Paul	-	Tukmakov, Vladimir B	0-1
+Korchnoi, Viktor	-	Adorjan, Andras	½-½
+
+Ronde 7
+Huebner, Robert Dr.	-	Ligterink, Gert	1-0
+Torre, Eugenio	-	Beliavsky, Alexander G	½-½
+Miles, Anthony	-	Van der Sterren, Paul	½-½
+Nikolic, Predrag	-	Andersson, Ulf	1-0
+Tukmakov, Vladimir B	-	Korchnoi, Viktor	½-½
+Sosonko, Gennadi	-	Ree, Hans	½-½
+Adorjan, Andras	-	Van Der Wiel, John	½-½
+
+Ronde 8
+Van Der Wiel, John	-	Tukmakov, Vladimir B	½-½
+Huebner, Robert Dr.	-	Sosonko, Gennadi	½-½
+Andersson, Ulf	-	Torre, Eugenio	1-0
+Van der Sterren, Paul	-	Nikolic, Predrag	0-1
+Korchnoi, Viktor	-	Miles, Anthony	1-0
+Ligterink, Gert	-	Beliavsky, Alexander G	0-1
+Ree, Hans	-	Adorjan, Andras	½-½
+
+Ronde 9
+Beliavsky, Alexander G	-	Andersson, Ulf	½-½
+Torre, Eugenio	-	Van der Sterren, Paul	½-½
+Miles, Anthony	-	Van Der Wiel, John	1-0
+Nikolic, Predrag	-	Korchnoi, Viktor	0-1
+Tukmakov, Vladimir B	-	Ree, Hans	½-½
+Sosonko, Gennadi	-	Ligterink, Gert	½-½
+Adorjan, Andras	-	Huebner, Robert Dr.	½-½
+
+Ronde 10
+Van Der Wiel, John	-	Nikolic, Predrag	½-½
+Korchnoi, Viktor	-	Torre, Eugenio	1-0
+Ligterink, Gert	-	Andersson, Ulf	0-1
+Ree, Hans	-	Miles, Anthony	1-0
+Sosonko, Gennadi	-	Adorjan, Andras	1-0
+Van der Sterren, Paul	-	Beliavsky, Alexander G	0-1
+Huebner, Robert Dr.	-	Tukmakov, Vladimir B	1-0
+
+Ronde 11
+Torre, Eugenio	-	Van Der Wiel, John	½-½
+Miles, Anthony	-	Huebner, Robert Dr.	1-0
+Andersson, Ulf	-	Van der Sterren, Paul	½-½
+Beliavsky, Alexander G	-	Korchnoi, Viktor	½-½
+Tukmakov, Vladimir B	-	Sosonko, Gennadi	½-½
+Nikolic, Predrag	-	Ree, Hans	1-0
+Adorjan, Andras	-	Ligterink, Gert	½-½
+
+Ronde 12
+Van Der Wiel, John	-	Beliavsky, Alexander G	0-1
+Ligterink, Gert	-	Van der Sterren, Paul	½-½
+Korchnoi, Viktor	-	Andersson, Ulf	½-½
+Ree, Hans	-	Torre, Eugenio	0-1
+Huebner, Robert Dr.	-	Nikolic, Predrag	½-½
+Sosonko, Gennadi	-	Miles, Anthony	½-½
+Adorjan, Andras	-	Tukmakov, Vladimir B	½-½
+
+Ronde 13
+Van der Sterren, Paul	-	Korchnoi, Viktor	0-1
+Beliavsky, Alexander G	-	Ree, Hans	1-0
+Andersson, Ulf	-	Van Der Wiel, John	½-½
+Miles, Anthony	-	Adorjan, Andras	0-1
+Nikolic, Predrag	-	Sosonko, Gennadi	½-½
+Torre, Eugenio	-	Huebner, Robert Dr.	½-½
+Tukmakov, Vladimir B	-	Ligterink, Gert	1-0

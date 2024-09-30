@@ -1,0 +1,149 @@
+Ronde 1
+Andersson, Ulf	-	Ree, Hans	½-½
+Huebner, Robert Dr.	-	Petrosian, Tigran V	½-½
+Van den Berg, Carel	-	Donner, Johannes	½-½
+Najdorf, Miguel	-	Kuijpers, Frans A	½-½
+Gligoric, Svetozar	-	Korchnoi, Viktor	½-½
+Mecking, Henrique	-	Langeweg, Kick	½-½
+Lengyel, Levente	-	Ivkov, Borislav	½-½
+Olafsson, Fridrik	-	Hort, Vlastimil	½-½
+
+Ronde 2
+Kuijpers, Frans A	-	Mecking, Henrique	1-0
+Ree, Hans	-	Lengyel, Levente	½-½
+Van den Berg, Carel	-	Huebner, Robert Dr.	0-1
+Korchnoi, Viktor	-	Andersson, Ulf	0-1
+Ivkov, Borislav	-	Najdorf, Miguel	1-0
+Donner, Johannes	-	Hort, Vlastimil	½-½
+Langeweg, Kick	-	Olafsson, Fridrik	0-1
+Petrosian, Tigran V	-	Gligoric, Svetozar	½-½
+
+Ronde 3
+Huebner, Robert Dr.	-	Donner, Johannes	½-½
+Andersson, Ulf	-	Petrosian, Tigran V	½-½
+Hort, Vlastimil	-	Langeweg, Kick	1-0
+Olafsson, Fridrik	-	Kuijpers, Frans A	1-0
+Gligoric, Svetozar	-	Van den Berg, Carel	1-0
+Lengyel, Levente	-	Korchnoi, Viktor	½-½
+Najdorf, Miguel	-	Ree, Hans	0-1
+Mecking, Henrique	-	Ivkov, Borislav	½-½
+
+Ronde 4
+Ree, Hans	-	Mecking, Henrique	0-1
+Kuijpers, Frans A	-	Hort, Vlastimil	0-1
+Korchnoi, Viktor	-	Najdorf, Miguel	1-0
+Donner, Johannes	-	Langeweg, Kick	0-1
+Petrosian, Tigran V	-	Lengyel, Levente	½-½
+Van den Berg, Carel	-	Andersson, Ulf	0-1
+Huebner, Robert Dr.	-	Gligoric, Svetozar	½-½
+Ivkov, Borislav	-	Olafsson, Fridrik	½-½
+
+Ronde 5
+Hort, Vlastimil	-	Ivkov, Borislav	½-½
+Andersson, Ulf	-	Huebner, Robert Dr.	½-½
+Langeweg, Kick	-	Kuijpers, Frans A	½-½
+Mecking, Henrique	-	Korchnoi, Viktor	½-½
+Gligoric, Svetozar	-	Donner, Johannes	½-½
+Najdorf, Miguel	-	Petrosian, Tigran V	½-½
+Olafsson, Fridrik	-	Ree, Hans	1-0
+Lengyel, Levente	-	Van den Berg, Carel	½-½
+
+Ronde 6
+Van den Berg, Carel	-	Najdorf, Miguel	½-½
+Ree, Hans	-	Hort, Vlastimil	0-1
+Huebner, Robert Dr.	-	Lengyel, Levente	½-½
+Gligoric, Svetozar	-	Andersson, Ulf	½-½
+Korchnoi, Viktor	-	Olafsson, Fridrik	1-0
+Petrosian, Tigran V	-	Mecking, Henrique	1-0
+Donner, Johannes	-	Kuijpers, Frans A	1-0
+Ivkov, Borislav	-	Langeweg, Kick	½-½
+
+Ronde 7
+Kuijpers, Frans A	-	Ivkov, Borislav	0-1
+Mecking, Henrique	-	Van den Berg, Carel	1-0
+Olafsson, Fridrik	-	Petrosian, Tigran V	½-½
+Najdorf, Miguel	-	Huebner, Robert Dr.	0-1
+Lengyel, Levente	-	Gligoric, Svetozar	½-½
+Hort, Vlastimil	-	Korchnoi, Viktor	½-½
+Langeweg, Kick	-	Ree, Hans	½-½
+Andersson, Ulf	-	Donner, Johannes	1-0
+
+Ronde 8
+Donner, Johannes	-	Ivkov, Borislav	0-1
+Huebner, Robert Dr.	-	Mecking, Henrique	0-1
+Gligoric, Svetozar	-	Najdorf, Miguel	½-½
+Van den Berg, Carel	-	Olafsson, Fridrik	0-1
+Petrosian, Tigran V	-	Hort, Vlastimil	1-0
+Ree, Hans	-	Kuijpers, Frans A	1-0
+Andersson, Ulf	-	Lengyel, Levente	½-½
+Korchnoi, Viktor	-	Langeweg, Kick	1-0
+
+Ronde 9
+Olafsson, Fridrik	-	Huebner, Robert Dr.	1-0
+Kuijpers, Frans A	-	Korchnoi, Viktor	0-1
+Langeweg, Kick	-	Petrosian, Tigran V	½-½
+Mecking, Henrique	-	Gligoric, Svetozar	½-½
+Ivkov, Borislav	-	Ree, Hans	½-½
+Najdorf, Miguel	-	Andersson, Ulf	½-½
+Lengyel, Levente	-	Donner, Johannes	0-1
+Hort, Vlastimil	-	Van den Berg, Carel	1-0
+
+Ronde 10
+Van den Berg, Carel	-	Langeweg, Kick	0-1
+Andersson, Ulf	-	Mecking, Henrique	1-0
+Petrosian, Tigran V	-	Kuijpers, Frans A	½-½
+Gligoric, Svetozar	-	Olafsson, Fridrik	1-0
+Lengyel, Levente	-	Najdorf, Miguel	½-½
+Korchnoi, Viktor	-	Ivkov, Borislav	½-½
+Donner, Johannes	-	Ree, Hans	1-0
+Huebner, Robert Dr.	-	Hort, Vlastimil	½-½
+
+Ronde 11
+Hort, Vlastimil	-	Gligoric, Svetozar	0-1
+Langeweg, Kick	-	Huebner, Robert Dr.	0-1
+Ivkov, Borislav	-	Petrosian, Tigran V	½-½
+Najdorf, Miguel	-	Donner, Johannes	½-½
+Mecking, Henrique	-	Lengyel, Levente	½-½
+Kuijpers, Frans A	-	Van den Berg, Carel	½-½
+Olafsson, Fridrik	-	Andersson, Ulf	1-0
+Ree, Hans	-	Korchnoi, Viktor	1-0
+
+Ronde 12
+Andersson, Ulf	-	Hort, Vlastimil	0-1
+Van den Berg, Carel	-	Ivkov, Borislav	0-1
+Huebner, Robert Dr.	-	Kuijpers, Frans A	1-0
+Gligoric, Svetozar	-	Langeweg, Kick	½-½
+Donner, Johannes	-	Korchnoi, Viktor	0-1
+Lengyel, Levente	-	Olafsson, Fridrik	½-½
+Najdorf, Miguel	-	Mecking, Henrique	½-½
+Petrosian, Tigran V	-	Ree, Hans	1-0
+
+Ronde 13
+Kuijpers, Frans A	-	Gligoric, Svetozar	½-½
+Langeweg, Kick	-	Andersson, Ulf	½-½
+Hort, Vlastimil	-	Lengyel, Levente	½-½
+Mecking, Henrique	-	Donner, Johannes	1-0
+Ivkov, Borislav	-	Huebner, Robert Dr.	0-1
+Olafsson, Fridrik	-	Najdorf, Miguel	½-½
+Ree, Hans	-	Van den Berg, Carel	1-0
+Korchnoi, Viktor	-	Petrosian, Tigran V	½-½
+
+Ronde 14
+Huebner, Robert Dr.	-	Ree, Hans	½-½
+Andersson, Ulf	-	Kuijpers, Frans A	1-0
+Najdorf, Miguel	-	Hort, Vlastimil	½-½
+Gligoric, Svetozar	-	Ivkov, Borislav	½-½
+Mecking, Henrique	-	Olafsson, Fridrik	½-½
+Donner, Johannes	-	Petrosian, Tigran V	½-½
+Van den Berg, Carel	-	Korchnoi, Viktor	0-1
+Lengyel, Levente	-	Langeweg, Kick	½-½
+
+Ronde 15
+Korchnoi, Viktor	-	Huebner, Robert Dr.	1-0
+Olafsson, Fridrik	-	Donner, Johannes	½-½
+Hort, Vlastimil	-	Mecking, Henrique	0-1
+Ivkov, Borislav	-	Andersson, Ulf	1-0
+Langeweg, Kick	-	Najdorf, Miguel	1-0
+Kuijpers, Frans A	-	Lengyel, Levente	1-0
+Ree, Hans	-	Gligoric, Svetozar	0-1
+Petrosian, Tigran V	-	Van den Berg, Carel	1-0

@@ -1,0 +1,116 @@
+Ronde 1
+Short, Nigel	-	Korchnoi, Viktor	1-0
+Zapata, Alonso	-	Miles, Anthony	1-0
+Van Der Wiel, John	-	Flear, Glenn C.	0-1
+Andersson, Ulf	-	Sosonko, Gennadi	½-½
+Van der Sterren, Paul	-	Ljubojevic, Ljubomir	1-0
+Olafsson, Helgi	-	Gutman, Lev	1-0
+Hulak, Krunoslav	-	Nogueiras, Jesus	0-1
+
+Ronde 2
+Short, Nigel	-	Van Der Wiel, John	1-0
+Ljubojevic, Ljubomir	-	Zapata, Alonso	1-0
+Nogueiras, Jesus	-	Van der Sterren, Paul	½-½
+Gutman, Lev	-	Andersson, Ulf	½-½
+Korchnoi, Viktor	-	Sosonko, Gennadi	½-½
+Miles, Anthony	-	Olafsson, Helgi	½-½
+Flear, Glenn C.	-	Hulak, Krunoslav	½-½
+
+Ronde 3
+Zapata, Alonso	-	Nogueiras, Jesus	½-½
+Van Der Wiel, John	-	Korchnoi, Viktor	½-½
+Hulak, Krunoslav	-	Short, Nigel	0-1
+Sosonko, Gennadi	-	Gutman, Lev	½-½
+Olafsson, Helgi	-	Ljubojevic, Ljubomir	½-½
+Van der Sterren, Paul	-	Flear, Glenn C.	1-0
+Andersson, Ulf	-	Miles, Anthony	½-½
+
+Ronde 4
+Van Der Wiel, John	-	Hulak, Krunoslav	1-0
+Short, Nigel	-	Van der Sterren, Paul	½-½
+Ljubojevic, Ljubomir	-	Andersson, Ulf	½-½
+Miles, Anthony	-	Sosonko, Gennadi	½-½
+Nogueiras, Jesus	-	Olafsson, Helgi	½-½
+Flear, Glenn C.	-	Zapata, Alonso	½-½
+Korchnoi, Viktor	-	Gutman, Lev	1-0
+
+Ronde 5
+Zapata, Alonso	-	Short, Nigel	½-½
+Andersson, Ulf	-	Nogueiras, Jesus	½-½
+Sosonko, Gennadi	-	Ljubojevic, Ljubomir	½-½
+Olafsson, Helgi	-	Flear, Glenn C.	1-0
+Hulak, Krunoslav	-	Korchnoi, Viktor	0-1
+Van der Sterren, Paul	-	Van Der Wiel, John	½-½
+Gutman, Lev	-	Miles, Anthony	0-1
+
+Ronde 6
+Ljubojevic, Ljubomir	-	Gutman, Lev	1-0
+Short, Nigel	-	Olafsson, Helgi	1-0
+Van Der Wiel, John	-	Zapata, Alonso	½-½
+Nogueiras, Jesus	-	Sosonko, Gennadi	½-½
+Flear, Glenn C.	-	Andersson, Ulf	½-½
+Hulak, Krunoslav	-	Van der Sterren, Paul	1-0
+Korchnoi, Viktor	-	Miles, Anthony	½-½
+
+Ronde 7
+Zapata, Alonso	-	Hulak, Krunoslav	0-1
+Andersson, Ulf	-	Short, Nigel	½-½
+Sosonko, Gennadi	-	Flear, Glenn C.	1-0
+Olafsson, Helgi	-	Van Der Wiel, John	½-½
+Van der Sterren, Paul	-	Korchnoi, Viktor	0-1
+Miles, Anthony	-	Ljubojevic, Ljubomir	1-0
+Gutman, Lev	-	Nogueiras, Jesus	0-1
+
+Ronde 8
+Short, Nigel	-	Sosonko, Gennadi	½-½
+Van Der Wiel, John	-	Andersson, Ulf	½-½
+Hulak, Krunoslav	-	Olafsson, Helgi	½-½
+Flear, Glenn C.	-	Gutman, Lev	1-0
+Van der Sterren, Paul	-	Zapata, Alonso	0-1
+Nogueiras, Jesus	-	Miles, Anthony	½-½
+Korchnoi, Viktor	-	Ljubojevic, Ljubomir	½-½
+
+Ronde 9
+Ljubojevic, Ljubomir	-	Nogueiras, Jesus	0-1
+Zapata, Alonso	-	Korchnoi, Viktor	0-1
+Gutman, Lev	-	Short, Nigel	0-1
+Olafsson, Helgi	-	Van der Sterren, Paul	½-½
+Miles, Anthony	-	Flear, Glenn C.	1-0
+Sosonko, Gennadi	-	Van Der Wiel, John	½-½
+Andersson, Ulf	-	Hulak, Krunoslav	1-0
+
+Ronde 10
+Van Der Wiel, John	-	Gutman, Lev	0-1
+Zapata, Alonso	-	Olafsson, Helgi	1-0
+Short, Nigel	-	Miles, Anthony	½-½
+Van der Sterren, Paul	-	Andersson, Ulf	0-1
+Korchnoi, Viktor	-	Nogueiras, Jesus	1-0
+Hulak, Krunoslav	-	Sosonko, Gennadi	½-½
+Flear, Glenn C.	-	Ljubojevic, Ljubomir	0-1
+
+Ronde 11
+Andersson, Ulf	-	Zapata, Alonso	1-0
+Ljubojevic, Ljubomir	-	Short, Nigel	0-1
+Nogueiras, Jesus	-	Flear, Glenn C.	½-½
+Sosonko, Gennadi	-	Van der Sterren, Paul	½-½
+Gutman, Lev	-	Hulak, Krunoslav	½-½
+Miles, Anthony	-	Van Der Wiel, John	½-½
+Olafsson, Helgi	-	Korchnoi, Viktor	0-1
+
+Ronde 12
+Van Der Wiel, John	-	Ljubojevic, Ljubomir	½-½
+Zapata, Alonso	-	Sosonko, Gennadi	1-0
+Short, Nigel	-	Nogueiras, Jesus	½-½
+Olafsson, Helgi	-	Andersson, Ulf	½-½
+Korchnoi, Viktor	-	Flear, Glenn C.	1-0
+Van der Sterren, Paul	-	Gutman, Lev	1-0
+Hulak, Krunoslav	-	Miles, Anthony	½-½
+
+Ronde 13
+Ljubojevic, Ljubomir	-	Hulak, Krunoslav	1-0
+Miles, Anthony	-	Van der Sterren, Paul	0-1
+Nogueiras, Jesus	-	Van Der Wiel, John	½-½
+Sosonko, Gennadi	-	Olafsson, Helgi	½-½
+Gutman, Lev	-	Zapata, Alonso	0-1
+Flear, Glenn C.	-	Short, Nigel	½-½
+Andersson, Ulf	-	Korchnoi, Viktor	½-½

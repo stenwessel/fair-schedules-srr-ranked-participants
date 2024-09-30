@@ -1,0 +1,116 @@
+Ronde 1
+Kasparov, Garry	-	Ivanchuk, Vassily	½-½
+Piket, Jeroen	-	Sokolov, Ivan	½-½
+Reinderman, Dimitri	-	Anand, Viswanathan	0-1
+Shirov, Alexei	-	Kasimdzhanov, Rustam	½-½
+Topalov, Veselin	-	Timman, Jan H	1-0
+Van Wely, Loek	-	Kramnik, Vladimir	½-½
+Yermolinsky, Alex	-	Svidler, Peter	½-½
+
+Ronde 2
+Anand, Viswanathan	-	Piket, Jeroen	1-0
+Ivanchuk, Vassily	-	Kasimdzhanov, Rustam	½-½
+Kasparov, Garry	-	Van Wely, Loek	1-0
+Kramnik, Vladimir	-	Yermolinsky, Alex	1-0
+Sokolov, Ivan	-	Shirov, Alexei	0-1
+Svidler, Peter	-	Topalov, Veselin	½-½
+Timman, Jan H	-	Reinderman, Dimitri	1-0
+
+Ronde 3
+Kasimdzhanov, Rustam	-	Sokolov, Ivan	½-½
+Piket, Jeroen	-	Timman, Jan H	1-0
+Reinderman, Dimitri	-	Svidler, Peter	½-½
+Shirov, Alexei	-	Anand, Viswanathan	½-½
+Topalov, Veselin	-	Kramnik, Vladimir	½-½
+Van Wely, Loek	-	Ivanchuk, Vassily	½-½
+Yermolinsky, Alex	-	Kasparov, Garry	0-1
+
+Ronde 4
+Anand, Viswanathan	-	Kasimdzhanov, Rustam	1-0
+Ivanchuk, Vassily	-	Sokolov, Ivan	1-0
+Kasparov, Garry	-	Topalov, Veselin	1-0
+Kramnik, Vladimir	-	Reinderman, Dimitri	½-½
+Svidler, Peter	-	Piket, Jeroen	½-½
+Timman, Jan H	-	Shirov, Alexei	½-½
+Van Wely, Loek	-	Yermolinsky, Alex	1-0
+
+Ronde 5
+Kasimdzhanov, Rustam	-	Timman, Jan H	0-1
+Piket, Jeroen	-	Kramnik, Vladimir	½-½
+Reinderman, Dimitri	-	Kasparov, Garry	0-1
+Shirov, Alexei	-	Svidler, Peter	½-½
+Sokolov, Ivan	-	Anand, Viswanathan	½-½
+Topalov, Veselin	-	Van Wely, Loek	1-0
+Yermolinsky, Alex	-	Ivanchuk, Vassily	½-½
+
+Ronde 6
+Ivanchuk, Vassily	-	Anand, Viswanathan	½-½
+Kasparov, Garry	-	Piket, Jeroen	1-0
+Kramnik, Vladimir	-	Shirov, Alexei	1-0
+Svidler, Peter	-	Kasimdzhanov, Rustam	1-0
+Timman, Jan H	-	Sokolov, Ivan	½-½
+Van Wely, Loek	-	Reinderman, Dimitri	1-0
+Yermolinsky, Alex	-	Topalov, Veselin	1-0
+
+Ronde 7
+Anand, Viswanathan	-	Timman, Jan H	1-0
+Kasimdzhanov, Rustam	-	Kramnik, Vladimir	½-½
+Piket, Jeroen	-	Van Wely, Loek	½-½
+Reinderman, Dimitri	-	Yermolinsky, Alex	½-½
+Shirov, Alexei	-	Kasparov, Garry	0-1
+Sokolov, Ivan	-	Svidler, Peter	½-½
+Topalov, Veselin	-	Ivanchuk, Vassily	½-½
+
+Ronde 8
+Ivanchuk, Vassily	-	Timman, Jan H	0-1
+Kasparov, Garry	-	Kasimdzhanov, Rustam	1-0
+Kramnik, Vladimir	-	Sokolov, Ivan	½-½
+Svidler, Peter	-	Anand, Viswanathan	½-½
+Topalov, Veselin	-	Reinderman, Dimitri	1-0
+Van Wely, Loek	-	Shirov, Alexei	½-½
+Yermolinsky, Alex	-	Piket, Jeroen	½-½
+
+Ronde 9
+Anand, Viswanathan	-	Kramnik, Vladimir	½-½
+Kasimdzhanov, Rustam	-	Van Wely, Loek	1-0
+Piket, Jeroen	-	Topalov, Veselin	1-0
+Reinderman, Dimitri	-	Ivanchuk, Vassily	0-1
+Shirov, Alexei	-	Yermolinsky, Alex	1-0
+Sokolov, Ivan	-	Kasparov, Garry	1-0
+Timman, Jan H	-	Svidler, Peter	½-½
+
+Ronde 10
+Ivanchuk, Vassily	-	Svidler, Peter	½-½
+Kasparov, Garry	-	Anand, Viswanathan	½-½
+Kramnik, Vladimir	-	Timman, Jan H	1-0
+Reinderman, Dimitri	-	Piket, Jeroen	½-½
+Topalov, Veselin	-	Shirov, Alexei	½-½
+Van Wely, Loek	-	Sokolov, Ivan	0-1
+Yermolinsky, Alex	-	Kasimdzhanov, Rustam	½-½
+
+Ronde 11
+Anand, Viswanathan	-	Van Wely, Loek	1-0
+Kasimdzhanov, Rustam	-	Topalov, Veselin	½-½
+Piket, Jeroen	-	Ivanchuk, Vassily	1-0
+Shirov, Alexei	-	Reinderman, Dimitri	1-0
+Sokolov, Ivan	-	Yermolinsky, Alex	1-0
+Svidler, Peter	-	Kramnik, Vladimir	½-½
+Timman, Jan H	-	Kasparov, Garry	½-½
+
+Ronde 12
+Ivanchuk, Vassily	-	Kramnik, Vladimir	½-½
+Kasparov, Garry	-	Svidler, Peter	1-0
+Piket, Jeroen	-	Shirov, Alexei	½-½
+Reinderman, Dimitri	-	Kasimdzhanov, Rustam	½-½
+Topalov, Veselin	-	Sokolov, Ivan	½-½
+Van Wely, Loek	-	Timman, Jan H	0-1
+Yermolinsky, Alex	-	Anand, Viswanathan	½-½
+
+Ronde 13
+Anand, Viswanathan	-	Topalov, Veselin	1-0
+Kasimdzhanov, Rustam	-	Piket, Jeroen	½-½
+Kramnik, Vladimir	-	Kasparov, Garry	½-½
+Shirov, Alexei	-	Ivanchuk, Vassily	½-½
+Sokolov, Ivan	-	Reinderman, Dimitri	½-½
+Svidler, Peter	-	Van Wely, Loek	½-½
+Timman, Jan H	-	Yermolinsky, Alex	1-0

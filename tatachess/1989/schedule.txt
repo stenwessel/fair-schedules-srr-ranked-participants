@@ -1,0 +1,116 @@
+Ronde 1
+Van Der Wiel, John	-	Ribli, Zoltan	½-½
+Benjamin, Joel	-	Douven, Rudy C	0-1
+Anand, Viswanathan	-	Miles, Anthony	1-0
+Piket, Jeroen	-	Vaganian, Rafael A	½-½
+Nikolic, Predrag	-	Georgiev, Kiril	½-½
+Granda Zuniga, Julio E	-	Sax, Gyula	0-1
+Sokolov, Ivan	-	Tseshkovsky, Vitaly	0-1
+
+Ronde 2
+Tseshkovsky, Vitaly	-	Nikolic, Predrag	1-0
+Sax, Gyula	-	Douven, Rudy C	½-½
+Granda Zuniga, Julio E	-	Van Der Wiel, John	1-0
+Georgiev, Kiril	-	Anand, Viswanathan	0-1
+Ribli, Zoltan	-	Piket, Jeroen	1-0
+Miles, Anthony	-	Benjamin, Joel	0-1
+Vaganian, Rafael A	-	Sokolov, Ivan	½-½
+
+Ronde 3
+Van Der Wiel, John	-	Sax, Gyula	0-1
+Anand, Viswanathan	-	Tseshkovsky, Vitaly	0-1
+Nikolic, Predrag	-	Vaganian, Rafael A	½-½
+Piket, Jeroen	-	Granda Zuniga, Julio E	½-½
+Sokolov, Ivan	-	Ribli, Zoltan	½-½
+Benjamin, Joel	-	Georgiev, Kiril	1-0
+Douven, Rudy C	-	Miles, Anthony	½-½
+
+Ronde 4
+Van Der Wiel, John	-	Piket, Jeroen	½-½
+Tseshkovsky, Vitaly	-	Benjamin, Joel	½-½
+Sax, Gyula	-	Miles, Anthony	0-1
+Granda Zuniga, Julio E	-	Sokolov, Ivan	0-1
+Georgiev, Kiril	-	Douven, Rudy C	½-½
+Vaganian, Rafael A	-	Anand, Viswanathan	½-½
+Ribli, Zoltan	-	Nikolic, Predrag	½-½
+
+Ronde 5
+Anand, Viswanathan	-	Ribli, Zoltan	½-½
+Benjamin, Joel	-	Vaganian, Rafael A	0-1
+Nikolic, Predrag	-	Granda Zuniga, Julio E	1-0
+Sokolov, Ivan	-	Van Der Wiel, John	½-½
+Miles, Anthony	-	Georgiev, Kiril	½-½
+Douven, Rudy C	-	Tseshkovsky, Vitaly	½-½
+Piket, Jeroen	-	Sax, Gyula	1-0
+
+Ronde 6
+Sax, Gyula	-	Georgiev, Kiril	½-½
+Tseshkovsky, Vitaly	-	Miles, Anthony	1-0
+Van Der Wiel, John	-	Nikolic, Predrag	½-½
+Piket, Jeroen	-	Sokolov, Ivan	½-½
+Vaganian, Rafael A	-	Douven, Rudy C	1-0
+Ribli, Zoltan	-	Benjamin, Joel	½-½
+Granda Zuniga, Julio E	-	Anand, Viswanathan	½-½
+
+Ronde 7
+Anand, Viswanathan	-	Van Der Wiel, John	0-1
+Benjamin, Joel	-	Granda Zuniga, Julio E	½-½
+Georgiev, Kiril	-	Tseshkovsky, Vitaly	1-0
+Miles, Anthony	-	Vaganian, Rafael A	1-0
+Douven, Rudy C	-	Ribli, Zoltan	0-1
+Sokolov, Ivan	-	Sax, Gyula	½-½
+Nikolic, Predrag	-	Piket, Jeroen	1-0
+
+Ronde 8
+Van Der Wiel, John	-	Benjamin, Joel	½-½
+Sax, Gyula	-	Tseshkovsky, Vitaly	1-0
+Vaganian, Rafael A	-	Georgiev, Kiril	½-½
+Sokolov, Ivan	-	Nikolic, Predrag	1-0
+Piket, Jeroen	-	Anand, Viswanathan	½-½
+Granda Zuniga, Julio E	-	Douven, Rudy C	½-½
+Ribli, Zoltan	-	Miles, Anthony	½-½
+
+Ronde 9
+Benjamin, Joel	-	Piket, Jeroen	1-0
+Georgiev, Kiril	-	Ribli, Zoltan	1-0
+Tseshkovsky, Vitaly	-	Vaganian, Rafael A	½-½
+Anand, Viswanathan	-	Sokolov, Ivan	1-0
+Douven, Rudy C	-	Van Der Wiel, John	½-½
+Miles, Anthony	-	Granda Zuniga, Julio E	1-0
+Nikolic, Predrag	-	Sax, Gyula	½-½
+
+Ronde 10
+Sax, Gyula	-	Vaganian, Rafael A	1-0
+Van Der Wiel, John	-	Miles, Anthony	½-½
+Sokolov, Ivan	-	Benjamin, Joel	½-½
+Piket, Jeroen	-	Douven, Rudy C	1-0
+Granda Zuniga, Julio E	-	Georgiev, Kiril	½-½
+Nikolic, Predrag	-	Anand, Viswanathan	½-½
+Ribli, Zoltan	-	Tseshkovsky, Vitaly	1-0
+
+Ronde 11
+Anand, Viswanathan	-	Sax, Gyula	½-½
+Tseshkovsky, Vitaly	-	Granda Zuniga, Julio E	0-1
+Georgiev, Kiril	-	Van Der Wiel, John	½-½
+Benjamin, Joel	-	Nikolic, Predrag	0-1
+Vaganian, Rafael A	-	Ribli, Zoltan	½-½
+Douven, Rudy C	-	Sokolov, Ivan	½-½
+Miles, Anthony	-	Piket, Jeroen	0-1
+
+Ronde 12
+Anand, Viswanathan	-	Benjamin, Joel	1-0
+Sokolov, Ivan	-	Miles, Anthony	0-1
+Van Der Wiel, John	-	Tseshkovsky, Vitaly	½-½
+Piket, Jeroen	-	Georgiev, Kiril	½-½
+Sax, Gyula	-	Ribli, Zoltan	½-½
+Granda Zuniga, Julio E	-	Vaganian, Rafael A	½-½
+Nikolic, Predrag	-	Douven, Rudy C	1-0
+
+Ronde 13
+Tseshkovsky, Vitaly	-	Piket, Jeroen	0-1
+Benjamin, Joel	-	Sax, Gyula	½-½
+Ribli, Zoltan	-	Granda Zuniga, Julio E	½-½
+Douven, Rudy C	-	Anand, Viswanathan	½-½
+Georgiev, Kiril	-	Sokolov, Ivan	1-0
+Miles, Anthony	-	Nikolic, Predrag	½-½
+Vaganian, Rafael A	-	Van Der Wiel, John	0-1

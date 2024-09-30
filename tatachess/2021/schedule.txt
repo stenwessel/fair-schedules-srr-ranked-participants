@@ -1,0 +1,116 @@
+Round 1 - 16-01-2021
+Harikrishna, Pentala - Vachier, Maxime 	½-½
+Esipenko, Andrey - Duda, Jan 	½-½
+Grandelius, Nils - Donchenko, Alexander 	1-0
+Caruana, Fabiano - Van Foreest, Jorden 	½-½
+Giri, Anish - Tari, Aryan 	1-0
+Wojtaszek, Radoslaw - Anton Guijarro, David 	½-½
+Carlsen, Magnus - Firouzja, Alireza 	1-0
+
+Round 2 - 17-01-2021
+Vachier, Maxime - Firouzja, Alireza 	½-½
+Anton Guijarro, David - Carlsen, Magnus 	½-½
+Tari, Aryan - Wojtaszek, Radoslaw 	½-½
+Van Foreest, Jorden - Giri, Anish 	½-½
+Donchenko, Alexander - Caruana, Fabiano 	0-1
+Duda, Jan - Grandelius, Nils 	0-1
+Harikrishna, Pentala - Esipenko, Andrey 	½-½
+
+Round 3 - 18-01-2021
+Esipenko, Andrey - Vachier, Maxime 	½-½
+Grandelius, Nils - Harikrishna, Pentala 	0-1
+Caruana, Fabiano - Duda, Jan 	½-½
+Giri, Anish - Donchenko, Alexander 	½-½
+Wojtaszek, Radoslaw - Van Foreest, Jorden 	½-½
+Carlsen, Magnus - Tari, Aryan 	½-½
+Firouzja, Alireza - Anton Guijarro, David 	1-0
+
+Round 4 - 19-01-2021
+Vachier, Maxime - Anton Guijarro, David 	½-½
+Tari, Aryan - Firouzja, Alireza 	½-½
+Van Foreest, Jorden - Carlsen, Magnus 	½-½
+Donchenko, Alexander - Wojtaszek, Radoslaw 	½-½
+Duda, Jan - Giri, Anish 	½-½
+Harikrishna, Pentala - Caruana, Fabiano 	½-½
+Esipenko, Andrey - Grandelius, Nils 	½-½
+
+Round 5 - 21-01-2021
+Grandelius, Nils - Vachier, Maxime 	1-0
+Caruana, Fabiano - Esipenko, Andrey 	½-½
+Giri, Anish - Harikrishna, Pentala 	½-½
+Wojtaszek, Radoslaw - Duda, Jan 	½-½
+Carlsen, Magnus - Donchenko, Alexander 	½-½
+Firouzja, Alireza - Van Foreest, Jorden 	½-½
+Anton Guijarro, David - Tari, Aryan 	½-½
+
+Round 6 - 22-01-2021
+Vachier, Maxime - Tari, Aryan 	½-½
+Van Foreest, Jorden - Anton Guijarro, David 	1-0
+Donchenko, Alexander - Firouzja, Alireza 	0-1
+Duda, Jan - Carlsen, Magnus 	½-½
+Harikrishna, Pentala - Wojtaszek, Radoslaw 	½-½
+Esipenko, Andrey - Giri, Anish 	½-½
+Grandelius, Nils - Caruana, Fabiano 	½-½
+
+Round 7 - 23-01-2021
+Caruana, Fabiano - Vachier, Maxime 	1-0
+Giri, Anish - Grandelius, Nils 	1-0
+Wojtaszek, Radoslaw - Esipenko, Andrey 	0-1
+Carlsen, Magnus - Harikrishna, Pentala 	½-½
+Firouzja, Alireza - Duda, Jan 	1-0
+Anton Guijarro, David - Donchenko, Alexander 	½-½
+Tari, Aryan - Van Foreest, Jorden 	0-1
+
+Round 8 - 24-01-2021
+Vachier, Maxime - Van Foreest, Jorden 	½-½
+Donchenko, Alexander - Tari, Aryan 	½-½
+Duda, Jan - Anton Guijarro, David 	½-½
+Harikrishna, Pentala - Firouzja, Alireza 	0-1
+Esipenko, Andrey - Carlsen, Magnus 	1-0
+Grandelius, Nils - Wojtaszek, Radoslaw 	½-½
+Caruana, Fabiano - Giri, Anish 	½-½
+
+Round 9 - 26-01-2021
+Giri, Anish - Vachier, Maxime 	1-0
+Wojtaszek, Radoslaw - Caruana, Fabiano 	0-1
+Carlsen, Magnus - Grandelius, Nils 	1-0
+Firouzja, Alireza - Esipenko, Andrey 	½-½
+Anton Guijarro, David - Harikrishna, Pentala 	½-½
+Tari, Aryan - Duda, Jan 	½-½
+Van Foreest, Jorden - Donchenko, Alexander 	½-½
+
+Round 10 - 27-01-2021
+Vachier, Maxime - Donchenko, Alexander 	1-0
+Duda, Jan - Van Foreest, Jorden 	½-½
+Harikrishna, Pentala - Tari, Aryan 	½-½
+Esipenko, Andrey - Anton Guijarro, David 	1-0
+Grandelius, Nils - Firouzja, Alireza 	½-½
+Caruana, Fabiano - Carlsen, Magnus 	½-½
+Giri, Anish - Wojtaszek, Radoslaw 	1-0
+
+Round 11 - 29-01-2021
+Wojtaszek, Radoslaw - Vachier, Maxime 	½-½
+Carlsen, Magnus - Giri, Anish 	½-½
+Firouzja, Alireza - Caruana, Fabiano 	½-½
+Anton Guijarro, David - Grandelius, Nils 	½-½
+Tari, Aryan - Esipenko, Andrey 	1-0
+Van Foreest, Jorden - Harikrishna, Pentala 	1-0
+Donchenko, Alexander - Duda, Jan 	½-½
+
+Round 12 - 30-01-2021
+Vachier, Maxime - Duda, Jan 	½-½
+Harikrishna, Pentala - Donchenko, Alexander 	1-0
+Esipenko, Andrey - Van Foreest, Jorden 	½-½
+Grandelius, Nils - Tari, Aryan 	½-½
+Caruana, Fabiano - Anton Guijarro, David 	½-½
+Giri, Anish - Firouzja, Alireza 	½-½
+Wojtaszek, Radoslaw - Carlsen, Magnus 	½-½
+
+Round 13 - 31-01-2021
+Carlsen, Magnus - Vachier, Maxime 	1-0
+Firouzja, Alireza - Wojtaszek, Radoslaw 	½-½
+Anton Guijarro, David - Giri, Anish 	½-½
+Tari, Aryan - Caruana, Fabiano 	½-½
+Van Foreest, Jorden - Grandelius, Nils 	1-0
+Donchenko, Alexander - Esipenko, Andrey 	0-1
+Duda, Jan - Harikrishna, Pentala 	½-½

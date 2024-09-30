@@ -1,0 +1,149 @@
+Ronde 1
+Zuidema, Coen	-	Donner, Johannes	½-½
+Balashov, Yuri S	-	Enklaar, Bert	½-½
+Hort, Vlastimil	-	Vasiukov, Evgeni	½-½
+Ljubojevic, Ljubomir	-	Langeweg, Kick	½-½
+Hartoch, Robert G.	-	Najdorf, Miguel	½-½
+Andersson, Ulf	-	Ree, Hans	½-½
+Szabo, Laszlo	-	Ribli, Zoltan	½-½
+Planinc, Albin	-	Tal, Mikhail	0-1
+
+Ronde 2
+Vasiukov, Evgeni	-	Ljubojevic, Ljubomir	½-½
+Enklaar, Bert	-	Szabo, Laszlo	0-1
+Langeweg, Kick	-	Hartoch, Robert G.	½-½
+Najdorf, Miguel	-	Zuidema, Coen	½-½
+Donner, Johannes	-	Planinc, Albin	0-1
+Andersson, Ulf	-	Hort, Vlastimil	½-½
+Ree, Hans	-	Ribli, Zoltan	½-½
+Tal, Mikhail	-	Balashov, Yuri S	½-½
+
+Ronde 3
+Planinc, Albin	-	Najdorf, Miguel	1-0
+Zuidema, Coen	-	Langeweg, Kick	1-0
+Balashov, Yuri S	-	Donner, Johannes	½-½
+Ljubojevic, Ljubomir	-	Andersson, Ulf	½-½
+Szabo, Laszlo	-	Tal, Mikhail	½-½
+Hartoch, Robert G.	-	Vasiukov, Evgeni	0-1
+Hort, Vlastimil	-	Ree, Hans	1-0
+Ribli, Zoltan	-	Enklaar, Bert	0-1
+
+Ronde 4
+Tal, Mikhail	-	Ribli, Zoltan	½-½
+Vasiukov, Evgeni	-	Zuidema, Coen	½-½
+Ree, Hans	-	Enklaar, Bert	½-½
+Najdorf, Miguel	-	Balashov, Yuri S	½-½
+Donner, Johannes	-	Szabo, Laszlo	½-½
+Hort, Vlastimil	-	Ljubojevic, Ljubomir	1-0
+Andersson, Ulf	-	Hartoch, Robert G.	½-½
+Langeweg, Kick	-	Planinc, Albin	1-0
+
+Ronde 5
+Enklaar, Bert	-	Tal, Mikhail	½-½
+Zuidema, Coen	-	Andersson, Ulf	0-1
+Ljubojevic, Ljubomir	-	Ree, Hans	1-0
+Planinc, Albin	-	Vasiukov, Evgeni	0-1
+Ribli, Zoltan	-	Donner, Johannes	1-0
+Balashov, Yuri S	-	Langeweg, Kick	1-0
+Szabo, Laszlo	-	Najdorf, Miguel	½-½
+Hartoch, Robert G.	-	Hort, Vlastimil	0-1
+
+Ronde 6
+Ree, Hans	-	Tal, Mikhail	½-½
+Ljubojevic, Ljubomir	-	Hartoch, Robert G.	1-0
+Andersson, Ulf	-	Planinc, Albin	1-0
+Donner, Johannes	-	Enklaar, Bert	½-½
+Langeweg, Kick	-	Szabo, Laszlo	0-1
+Vasiukov, Evgeni	-	Balashov, Yuri S	½-½
+Najdorf, Miguel	-	Ribli, Zoltan	1-0
+Hort, Vlastimil	-	Zuidema, Coen	½-½
+
+Ronde 7
+Zuidema, Coen	-	Ljubojevic, Ljubomir	½-½
+Balashov, Yuri S	-	Andersson, Ulf	1-0
+Hartoch, Robert G.	-	Ree, Hans	½-½
+Enklaar, Bert	-	Najdorf, Miguel	½-½
+Planinc, Albin	-	Hort, Vlastimil	1-0
+Szabo, Laszlo	-	Vasiukov, Evgeni	½-½
+Tal, Mikhail	-	Donner, Johannes	1-0
+Ribli, Zoltan	-	Langeweg, Kick	½-½
+
+Ronde 8
+Hort, Vlastimil	-	Balashov, Yuri S	½-½
+Vasiukov, Evgeni	-	Ribli, Zoltan	0-1
+Hartoch, Robert G.	-	Zuidema, Coen	½-½
+Ree, Hans	-	Donner, Johannes	1-0
+Andersson, Ulf	-	Szabo, Laszlo	1-0
+Ljubojevic, Ljubomir	-	Planinc, Albin	½-½
+Najdorf, Miguel	-	Tal, Mikhail	½-½
+Langeweg, Kick	-	Enklaar, Bert	½-½
+
+Ronde 9
+Tal, Mikhail	-	Langeweg, Kick	1-0
+Zuidema, Coen	-	Ree, Hans	½-½
+Planinc, Albin	-	Hartoch, Robert G.	1-0
+Szabo, Laszlo	-	Hort, Vlastimil	0-1
+Ribli, Zoltan	-	Andersson, Ulf	1-0
+Enklaar, Bert	-	Vasiukov, Evgeni	0-1
+Donner, Johannes	-	Najdorf, Miguel	½-½
+Balashov, Yuri S	-	Ljubojevic, Ljubomir	½-½
+
+Ronde 10
+Hort, Vlastimil	-	Ribli, Zoltan	½-½
+Zuidema, Coen	-	Planinc, Albin	½-½
+Ljubojevic, Ljubomir	-	Szabo, Laszlo	½-½
+Vasiukov, Evgeni	-	Tal, Mikhail	½-½
+Ree, Hans	-	Najdorf, Miguel	½-½
+Hartoch, Robert G.	-	Balashov, Yuri S	0-1
+Langeweg, Kick	-	Donner, Johannes	½-½
+Andersson, Ulf	-	Enklaar, Bert	½-½
+
+Ronde 11
+Tal, Mikhail	-	Andersson, Ulf	½-½
+Balashov, Yuri S	-	Zuidema, Coen	1-0
+Enklaar, Bert	-	Hort, Vlastimil	½-½
+Najdorf, Miguel	-	Langeweg, Kick	1-0
+Szabo, Laszlo	-	Hartoch, Robert G.	1-0
+Donner, Johannes	-	Vasiukov, Evgeni	½-½
+Ribli, Zoltan	-	Ljubojevic, Ljubomir	0-1
+Planinc, Albin	-	Ree, Hans	1-0
+
+Ronde 12
+Andersson, Ulf	-	Donner, Johannes	½-½
+Vasiukov, Evgeni	-	Najdorf, Miguel	1-0
+Zuidema, Coen	-	Szabo, Laszlo	½-½
+Planinc, Albin	-	Balashov, Yuri S	1-0
+Ljubojevic, Ljubomir	-	Enklaar, Bert	0-1
+Hort, Vlastimil	-	Tal, Mikhail	½-½
+Hartoch, Robert G.	-	Ribli, Zoltan	0-1
+Ree, Hans	-	Langeweg, Kick	0-1
+
+Ronde 13
+Najdorf, Miguel	-	Andersson, Ulf	½-½
+Tal, Mikhail	-	Ljubojevic, Ljubomir	1-0
+Ribli, Zoltan	-	Zuidema, Coen	1-0
+Donner, Johannes	-	Hort, Vlastimil	1-0
+Balashov, Yuri S	-	Ree, Hans	1-0
+Langeweg, Kick	-	Vasiukov, Evgeni	1-0
+Szabo, Laszlo	-	Planinc, Albin	½-½
+Enklaar, Bert	-	Hartoch, Robert G.	½-½
+
+Ronde 14
+Zuidema, Coen	-	Enklaar, Bert	½-½
+Planinc, Albin	-	Ribli, Zoltan	1-0
+Ljubojevic, Ljubomir	-	Donner, Johannes	1-0
+Hartoch, Robert G.	-	Tal, Mikhail	0-1
+Balashov, Yuri S	-	Szabo, Laszlo	1-0
+Hort, Vlastimil	-	Najdorf, Miguel	½-½
+Ree, Hans	-	Vasiukov, Evgeni	0-1
+Andersson, Ulf	-	Langeweg, Kick	½-½
+
+Ronde 15
+Najdorf, Miguel	-	Ljubojevic, Ljubomir	½-½
+Vasiukov, Evgeni	-	Andersson, Ulf	½-½
+Enklaar, Bert	-	Planinc, Albin	1-0
+Ribli, Zoltan	-	Balashov, Yuri S	½-½
+Tal, Mikhail	-	Zuidema, Coen	1-0
+Langeweg, Kick	-	Hort, Vlastimil	½-½
+Szabo, Laszlo	-	Ree, Hans	½-½
+Donner, Johannes	-	Hartoch, Robert G.	1-0
